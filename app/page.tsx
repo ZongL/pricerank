@@ -9,9 +9,6 @@ import { useEffect, useState} from 'react';
 import { cardata_lixiang, cardata_xiaopeng, cardata_weilai } from './data/carData';
 import ScatterPlot from './ScatterPlot';
 
-
-
-
 export default function Page() {
 
   const [carL7Price, setCarL7Price] = useState(null);
