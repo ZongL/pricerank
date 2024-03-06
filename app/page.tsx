@@ -121,7 +121,7 @@ export default function Page() {
             <span>Compare</span> <ArrowRightIcon className="w-5 md:w-6" />
           </Link>
           <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
-              Source Code
+              Git Source Code
             </a>
         </div>
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-3/4">  
