@@ -59,3 +59,65 @@ const ScatterPlot = () => {
 };
 
 export default ScatterPlot;
+
+
+// export const renderData = (data:any[]) => {
+//   return (
+//     <div>
+//       {data.map((row, index) => (
+//         <div key={index} className="table-row">
+//           {row.map((cell:any, cellIndex:any) => (
+//             <div key={cellIndex} className="table-cell">
+//               {/* 根据数据类型渲染 */}
+//               {typeof cell === 'number' ? (
+//                 <span>{cell.toLocaleString()}</span> // 对于数字，转换成字符串并格式化
+//               ) : (
+//                 <span>{cell}</span> // 对于其他类型，直接显示
+//               )}
+//             </div>
+//           ))}
+//         </div>
+//       ))}
+//     </div>
+//   );
+// };
+
+
+import React from 'react';
+
+type BorderCollapse = 'collapse' | 'separate';
+
+export const renderData = (data: any[][]) => {
+  const tableStyle: React.CSSProperties = {
+    width: '100%',
+    borderCollapse: 'collapse' as BorderCollapse,
+  };
+
+  const cellStyle: React.CSSProperties = {
+    border: '1px solid #ddd',
+    padding: '8px',
+    textAlign: 'left',
+  };
+
+  const numberCellStyle: React.CSSProperties = {
+    ...cellStyle,
+    textAlign: 'right', // 数字通常右对齐
+  };
+
+  return (
+    <table style={tableStyle}>
+      {data.map((row, index) => (
+        <tr key={index}>
+          {row.map((cell: any, cellIndex: number) => (
+            <td
+              key={cellIndex}
+              style={typeof cell === 'number' ? numberCellStyle : cellStyle}
+            >
+              {cell}
+            </td>
+          ))}
+        </tr>
+      ))}
+    </table>
+  );
+};

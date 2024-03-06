@@ -8,31 +8,8 @@ import { useEffect, useState} from 'react';
 
 import { cardata_lixiang, cardata_xiaopeng, cardata_weilai } from './data/carData';
 import ScatterPlot from './ScatterPlot';
+import { renderData } from './ScatterPlot';
 
-
-interface DataItem {
-  [key: string]: string | number;
-}
-export const renderData = (data:any[]) => {
-  return (
-    <div>
-      {data.map((row, index) => (
-        <div key={index} className="table-row">
-          {row.map((cell:any, cellIndex:any) => (
-            <div key={cellIndex} className="table-cell">
-              {/* 根据数据类型渲染 */}
-              {typeof cell === 'number' ? (
-                <span>{cell.toLocaleString()}</span> // 对于数字，转换成字符串并格式化
-              ) : (
-                <span>{cell}</span> // 对于其他类型，直接显示
-              )}
-            </div>
-          ))}
-        </div>
-      ))}
-    </div>
-  );
-};
 
 
 export default function Page() {
@@ -83,20 +60,32 @@ export default function Page() {
       </div>
       <div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/3 md:px-20">
+      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-20">
         <h2 className='hidden'>理想系列</h2>
         <strong><a href="https://www.lixiang.com/#li" className="text-blue-500">理想系列</a></strong>
         {/*carL7Price && <p>L7 Price: {carL7Price}</p>*/}
         {/*carL8Price && <p>L8 Price: {carL8Price}</p>*/}
         {renderData(cardata_lixiang)}
       </div>
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/3">  
+      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
       <h2 className='hidden'>小鹏系列</h2>
       <strong><a href="https://www.xiaopeng.com/" className="text-blue-500">小鹏系列</a></strong>
       {/* 其他内容 */}
       {renderData(cardata_xiaopeng)} 
       </div>  
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/3">  
+      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
+      <h2 className='hidden'>蔚来系列</h2>
+      <strong><a href="https://www.nio.cn/" className="text-blue-500">蔚来系列</a></strong>
+      {/* 其他内容 */} 
+      {renderData(cardata_weilai)} 
+      </div>
+      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
+      <h2 className='hidden'>蔚来系列</h2>
+      <strong><a href="https://www.nio.cn/" className="text-blue-500">蔚来系列</a></strong>
+      {/* 其他内容 */} 
+      {renderData(cardata_weilai)} 
+      </div>
+      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
       <h2 className='hidden'>蔚来系列</h2>
       <strong><a href="https://www.nio.cn/" className="text-blue-500">蔚来系列</a></strong>
       {/* 其他内容 */} 
