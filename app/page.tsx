@@ -9,6 +9,32 @@ import { useEffect, useState} from 'react';
 import { cardata_lixiang, cardata_xiaopeng, cardata_weilai } from './data/carData';
 import ScatterPlot from './ScatterPlot';
 
+
+interface DataItem {
+  [key: string]: string | number;
+}
+export const renderData = (data:any[]) => {
+  return (
+    <div>
+      {data.map((row, index) => (
+        <div key={index} className="table-row">
+          {row.map((cell:any, cellIndex:any) => (
+            <div key={cellIndex} className="table-cell">
+              {/* 根据数据类型渲染 */}
+              {typeof cell === 'number' ? (
+                <span>{cell.toLocaleString()}</span> // 对于数字，转换成字符串并格式化
+              ) : (
+                <span>{cell}</span> // 对于其他类型，直接显示
+              )}
+            </div>
+          ))}
+        </div>
+      ))}
+    </div>
+  );
+};
+
+
 export default function Page() {
 
   const [carL7Price, setCarL7Price] = useState(null);
@@ -62,64 +88,19 @@ export default function Page() {
         <strong><a href="https://www.lixiang.com/#li" className="text-blue-500">理想系列</a></strong>
         {/*carL7Price && <p>L7 Price: {carL7Price}</p>*/}
         {/*carL8Price && <p>L8 Price: {carL8Price}</p>*/}
-          <div>  
-            {cardata_lixiang.map((row, index) => (  
-              <div key={index} className="table-row">  
-                {row.map((cell, cellIndex) => (  
-                  <div key={cellIndex} className="table-cell">  
-                    {/* 根据数据类型渲染 */}  
-                    {typeof cell === 'number' ? (  
-                      <span>{cell.toLocaleString()}</span> // 对于数字，转换成字符串并格式化  
-                    ) : (  
-                      <span>{cell}</span> // 对于其他类型，直接显示  
-                    )}  
-                  </div>  
-                ))}  
-              </div>  
-              ))}  
-          </div>  
+        {renderData(cardata_lixiang)}
       </div>
       <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/3">  
       <h2 className='hidden'>小鹏系列</h2>
       <strong><a href="https://www.xiaopeng.com/" className="text-blue-500">小鹏系列</a></strong>
       {/* 其他内容 */}
-      <div>  
-      {cardata_xiaopeng.map((row, index) => (  
-        <div key={index} className="table-row">  
-          {row.map((cell, cellIndex) => (  
-            <div key={cellIndex} className="table-cell">  
-              {/* 根据数据类型渲染 */}  
-              {typeof cell === 'number' ? (  
-                <span>{cell.toLocaleString()}</span> // 对于数字，转换成字符串并格式化  
-              ) : (  
-                <span>{cell}</span> // 对于其他类型，直接显示  
-              )}  
-            </div>  
-          ))}  
-        </div>  
-      ))}
-      </div>     
+      {renderData(cardata_xiaopeng)} 
       </div>  
       <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/3">  
       <h2 className='hidden'>蔚来系列</h2>
       <strong><a href="https://www.nio.cn/" className="text-blue-500">蔚来系列</a></strong>
       {/* 其他内容 */} 
-      <div>  
-      {cardata_weilai.map((row, index) => (  
-        <div key={index} className="table-row">  
-          {row.map((cell, cellIndex) => (  
-            <div key={cellIndex} className="table-cell">  
-              {/* 根据数据类型渲染 */}  
-              {typeof cell === 'number' ? (  
-                <span>{cell.toLocaleString()}</span> // 对于数字，转换成字符串并格式化  
-              ) : (  
-                <span>{cell}</span> // 对于其他类型，直接显示  
-              )}  
-            </div>  
-          ))}  
-        </div>  
-      ))}
-      </div>  
+      {renderData(cardata_weilai)} 
       </div>  
       </div>
       </div>
@@ -139,6 +120,9 @@ export default function Page() {
           >
             <span>Compare</span> <ArrowRightIcon className="w-5 md:w-6" />
           </Link>
+          <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
+              Source Code
+            </a>
         </div>
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-3/4">  
           <ScatterPlot />
