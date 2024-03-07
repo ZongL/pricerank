@@ -33,5 +33,19 @@ export const cardata_weilai=[
 ['ES7', 438000],
 ['ES8', 498000]
 ];
+export const cardata_tesla=[
+    ['Model 3', 245900],  
+    ['Model Y', 258900],  
+    ['Model S', 698900],  
+    ['Model X', 738900] 
+];
+export const cardata_huawei=[
+    ['M5', 250000],  
+    ['M7', 258900],  
+    ['M9', 469800]
+];
 
-export const cardata_all = cardata_lixiang.concat(cardata_xiaopeng, cardata_weilai);
+
+
+
+export const cardata_all = cardata_lixiang.concat(cardata_xiaopeng, cardata_weilai,cardata_tesla,cardata_huawei);

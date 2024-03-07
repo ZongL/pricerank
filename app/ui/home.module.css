@@ -5,3 +5,15 @@
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
   }
+
+
+.flex-container {
+  position: relative;
+}
+
+.flex-container h2 {
+  position: sticky;
+  top: 0;
+  background-color: rgb(255, 255, 255); /* 如果需要标题背景色，请更改为合适的颜色 */
+  z-index: 1; /* 确保标题在其他内容之上 */
+}
