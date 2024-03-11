@@ -94,7 +94,7 @@ export default function Page() {
       </div>
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
-        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/4 md:px-20">
+        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">
         {/*<div className={styles.triangleshape}/>*/}
           <p className={`text-xl text-gray-800 md:text-1xl md:leading-normal`}>
             <strong>.</strong> Build on{' '}
@@ -113,7 +113,7 @@ export default function Page() {
               Git Source Code
             </a>
         </div>
-        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-3/4">  
+        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-5/6">  
           <ScatterPlot />
         </div>
       </div>

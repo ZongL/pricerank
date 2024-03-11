@@ -60,7 +60,6 @@ const ScatterPlot = () => {
 
 export default ScatterPlot;
 
-
 // export const renderData = (data:any[]) => {
 //   return (
 //     <div>
@@ -83,6 +82,7 @@ export default ScatterPlot;
 // };
 
 
+// 表格组件
 import React from 'react';
 
 type BorderCollapse = 'collapse' | 'separate';
@@ -96,7 +96,7 @@ export const renderData = (data: any[][]) => {
   const cellStyle: React.CSSProperties = {
     border: '1px solid #ddd',
     padding: '8px',
-    textAlign: 'left',
+    textAlign: 'left',   // 数字通常右对齐
   };
 
   const numberCellStyle: React.CSSProperties = {
@@ -121,3 +121,38 @@ export const renderData = (data: any[][]) => {
     </table>
   );
 };
+
+// export const renderData = (data: any[][]) => {
+//   const tableStyle: React.CSSProperties = {
+//     width: '100%',
+//     borderCollapse: 'collapse' as BorderCollapse,
+//   };
+
+//   const cellStyle: React.CSSProperties = {
+//     border: '1px solid #ddd',
+//     padding: '8px',
+//     textAlign: 'left',
+//   };
+
+//   const numberCellStyle: React.CSSProperties = {
+//     ...cellStyle,
+//     textAlign: 'right', // 数字通常右对齐
+//   };
+
+//   return (
+//     <table style={tableStyle}>
+//       {data.map((row, index) => (
+//         <tr key={index}>
+//           {row.map((cell: any, cellIndex: number) => (
+//             <td
+//               key={cellIndex}
+//               style={typeof cell === 'number' ? numberCellStyle : cellStyle}
+//             >
+//               {cell}
+//             </td>
+//           ))}
+//         </tr>
+//       ))}
+//     </table>
+//   );
+// };

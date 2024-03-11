@@ -1,5 +1,4 @@
 //car data
-
 export const cardata_lixiang=[
     ['理想L7 Air', 319800],
         ['理想L7 Pro', 339800],
@@ -44,8 +43,5 @@ export const cardata_huawei=[
     ['M7', 258900],  
     ['M9', 469800]
 ];
-
-
-
 
 export const cardata_all = cardata_lixiang.concat(cardata_xiaopeng, cardata_weilai,cardata_tesla,cardata_huawei);
