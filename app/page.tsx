@@ -58,6 +58,30 @@ export default function Page() {
         <h2 className="text-white text-3xl front-bold">Car Price Overview(CPO)</h2>
         {/* <AcmeLogo /> */}
       </div>
+      <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
+        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">
+        {/*<div className={styles.triangleshape}/>*/}
+          <p className={`text-xl text-gray-800 md:text-1xl md:leading-normal`}>
+            By{' '}
+            <a href="https://nextjs.org/learn/" className="text-blue-500">
+              Next.js
+            </a>
+            .
+          </p>
+          <Link
+            href="/login"
+            className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base disabled"
+          >
+            <span>Compare</span> <ArrowRightIcon className="w-5 md:w-6" />
+          </Link>
+          <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
+              Git Source Code
+            </a>
+        </div>
+        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-5/6">  
+          <ScatterPlot />
+        </div>
+      </div>
       <div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
       <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
@@ -87,30 +111,6 @@ export default function Page() {
       {renderData(cardatashow.cardata_huawei)} 
       </div>  
       </div>
-      </div>
-      <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
-        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">
-        {/*<div className={styles.triangleshape}/>*/}
-          <p className={`text-xl text-gray-800 md:text-1xl md:leading-normal`}>
-            <strong>.</strong> Build on{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js
-            </a>
-            .
-          </p>
-          <Link
-            href="/login"
-            className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
-          >
-            <span>Compare</span> <ArrowRightIcon className="w-5 md:w-6" />
-          </Link>
-          <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
-              Git Source Code
-            </a>
-        </div>
-        <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-5/6">  
-          <ScatterPlot />
-        </div>
       </div>
     </main>
   );
