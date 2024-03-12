@@ -25,3 +25,10 @@
   flex-direction: column; /* 设置主轴方向为垂直方向 */
   align-items: flex-start; /* 在交叉轴的起点对齐，即顶部对齐 */
 }
+
+/* 在您的CSS文件中 */
+.disabled {
+  opacity: 0.5; /* 降低透明度 */
+  cursor: not-allowed; /* 改变鼠标指针为不允许状态 */
+  pointer-events: none; /* 禁用鼠标事件 */
+}
