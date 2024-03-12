@@ -60,33 +60,28 @@ export default function Page() {
       </div>
       <div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
-        <h2 className='hidden'>理想系列</h2>
+      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
         <strong><a href="https://www.lixiang.com/#li" className="text-blue-500">理想系列</a></strong>
         {/*carL7Price && <p>L7 Price: {carL7Price}</p>*/}
         {/*carL8Price && <p>L8 Price: {carL8Price}</p>*/}
         {renderData(cardatashow.cardata_lixiang)}
       </div>
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
-      <h2 className='hidden'>小鹏系列</h2>
+      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
       <strong><a href="https://www.xiaopeng.com/" className="text-blue-500">小鹏系列</a></strong>
       {/* 其他内容 */}
       {renderData(cardatashow.cardata_xiaopeng)} 
       </div>  
-      <div className={"flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5"}>  
-      <h2 className="hidden">蔚来系列</h2>
+      <div className={"flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5"}>  
       <strong><a href="https://www.nio.cn/" className="text-blue-500 font-bold">蔚来系列</a></strong>
       {/* 其他内容 */} 
       {renderData(cardatashow.cardata_weilai)} 
       </div>
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
-      <h2 className='hidden'>特斯拉系列</h2>
+      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
       <strong><a href="https://www.nio.cn/" className="text-blue-500">特斯拉系列</a></strong>
       {/* 其他内容 */} 
       {renderData(cardatashow.cardata_tesla)} 
       </div>
-      <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
-      <h2 className='hidden'>问界系列</h2>
+      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
       <strong><a href="https://www.nio.cn/" className="text-blue-500 fixed-link">问界系列</a></strong>
       {/* 其他内容 */} 
       {renderData(cardatashow.cardata_huawei)} 

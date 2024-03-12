@@ -17,3 +17,11 @@
   background-color: rgb(255, 255, 255); /* 如果需要标题背景色，请更改为合适的颜色 */
   z-index: 1; /* 确保标题在其他内容之上 */
 }
+
+
+/* CSS文件中的样式 */
+.series-container {
+  display: flex; /* 启用flex布局 */
+  flex-direction: column; /* 设置主轴方向为垂直方向 */
+  align-items: flex-start; /* 在交叉轴的起点对齐，即顶部对齐 */
+}
