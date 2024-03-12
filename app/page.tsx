@@ -61,13 +61,6 @@ export default function Page() {
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">
         {/*<div className={styles.triangleshape}/>*/}
-          <p className={`text-xl text-gray-800 md:text-1xl md:leading-normal`}>
-            By{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js
-            </a>
-            .
-          </p>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base disabled"
@@ -76,7 +69,14 @@ export default function Page() {
           </Link>
           <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
               Git Source Code
+          </a>
+          <p className={`text-xl text-gray-800 md:text-1xl md:leading-normal`}>
+            By{' '}
+            <a href="https://nextjs.org/learn/" className="text-blue-500">
+              Next.js
             </a>
+            .
+          </p>
         </div>
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-5/6">  
           <ScatterPlot />
