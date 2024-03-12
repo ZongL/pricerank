@@ -1,12 +1,12 @@
 import { useEffect } from 'react';
 import * as echarts from 'echarts';
-import { cardata_lixiang, cardata_xiaopeng, cardata_weilai, cardata_all } from './data/carData';
+import { cardata_all_new } from './data/carData';
 
-// 散点图
 const ScatterPlot = () => {
   useEffect(() => {
     const myChart = echarts.init(document.getElementById('scatter-chart'));
-
+    const xAxisData = cardata_all_new.flatMap(brandData => brandData.detaildata.map(car => car[0]));
+    const yAxisData = cardata_all_new.flatMap(brandData => brandData.detaildata.map(car => car[1]));
     const option = {
       title: {
         text: '汽车价格散点图',
@@ -15,13 +15,13 @@ const ScatterPlot = () => {
       tooltip: {
         trigger: 'axis',
         formatter: (params: any) => {
-          const [name, value] = params[0].data;
+          const { name, value } = params[0];
           return `${name}: ￥${value}`;
         }
       },
       xAxis: {
         type: 'category',
-        data: cardata_all.map(item => item[0]),
+        data: xAxisData,
         axisLabel: {
           rotate: 45
         }
@@ -31,7 +31,7 @@ const ScatterPlot = () => {
         name: '价格（元）'
       },
       series: [{
-        data: cardata_all,
+        data: cardata_all_new.flatMap(brandData => brandData.detaildata),
         type: 'scatter',
         symbolSize: (value: number[]) => Math.log10(value[1]) * 5, // 根据价格设置点的大小
         label: {
@@ -45,9 +45,7 @@ const ScatterPlot = () => {
       }],
       animation: true
     };
-
     myChart.setOption(option);
-
     return () => {
       myChart.dispose();
     };
@@ -57,7 +55,6 @@ const ScatterPlot = () => {
     <div id="scatter-chart" style={{ width: '100%', height: '400px' }}></div>
   );
 };
-
 export default ScatterPlot;
 
 // export const renderData = (data:any[]) => {

@@ -82,36 +82,34 @@ export default function Page() {
           <ScatterPlot />
         </div>
       </div>
-      <div>
-      <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
+
+<div>
+  {cardatashow.cardata_all_new.reduce((rows: JSX.Element[][], brandData, brandIndex) => {
+    if (brandIndex % 5 === 0) rows.push([]);
+    rows[rows.length - 1].push(
+      <div key={brandIndex} className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
+        <strong><a href={brandData.linkurl} className="text-blue-500">{brandData.brand}</a></strong>
+        {/* 其他内容 */}
+        {renderData(brandData.detaildata)}
+      </div>
+    );
+    return rows;
+  }, []).map((row, rowIndex) => (
+    <div key={rowIndex} className="mt-4 flex grow flex-col gap-4 md:flex-row">
+      {row}
+    </div>
+  ))}
+</div>
+<div>
+  {/* {cardatashow.cardata_all_new.map((brandData, brandIndex) => (
+    <div key={brandIndex} className="mt-4 flex grow flex-col gap-4 md:flex-row">
       <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
-        <strong><a href="https://www.lixiang.com/#li" className="text-blue-500">理想系列</a></strong>
-        {/*carL7Price && <p>L7 Price: {carL7Price}</p>*/}
-        {/*carL8Price && <p>L8 Price: {carL8Price}</p>*/}
-        {renderData(cardatashow.cardata_lixiang)}
+        <strong><a href={brandData.linkurl} className="text-blue-500">{brandData.brand}</a></strong>
+        {renderData(brandData.detaildata)}
       </div>
-      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
-      <strong><a href="https://www.xiaopeng.com/" className="text-blue-500">小鹏系列</a></strong>
-      {/* 其他内容 */}
-      {renderData(cardatashow.cardata_xiaopeng)} 
-      </div>  
-      <div className={"flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5"}>  
-      <strong><a href="https://www.nio.cn/" className="text-blue-500 font-bold">蔚来系列</a></strong>
-      {/* 其他内容 */} 
-      {renderData(cardatashow.cardata_weilai)} 
-      </div>
-      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
-      <strong><a href="https://www.nio.cn/" className="text-blue-500">特斯拉系列</a></strong>
-      {/* 其他内容 */} 
-      {renderData(cardatashow.cardata_tesla)} 
-      </div>
-      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5">  
-      <strong><a href="https://www.nio.cn/" className="text-blue-500 fixed-link">问界系列</a></strong>
-      {/* 其他内容 */} 
-      {renderData(cardatashow.cardata_huawei)} 
-      </div>  
-      </div>
-      </div>
+    </div>
+  ))} */}
+</div>
     </main>
   );
 }
