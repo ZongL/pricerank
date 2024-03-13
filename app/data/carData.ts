@@ -48,7 +48,7 @@
 export const cardata_all_new = [
     {
       brand: '理想汽车',
-      linkurl: 'https://www.lixiang.com/#li',
+      linkurl: 'https://www.lixiang.com/',
       detaildata: [
         ['理想L7 Air', 319800],
         ['理想L7 Pro', 339800],
@@ -102,23 +102,32 @@ export const cardata_all_new = [
       ]
     },
     {
-      brand: '华为汽车',
+      brand: '问界汽车',
       linkurl: '',
       detaildata: [
-        ['M5', 250000],
-        ['M7', 258900],
-        ['M9', 469800]
+        ['问界M5 后驱标准版', 249800],
+        ['问界M5 四驱标准版', 269800],
+        ['问界M7 Plus 五座后驱版', 249800],
+        ['问界M7 Plus 五座四驱版', 284800],
+        ['问界M7 Max 五座智驾版', 309800],
+        ['问界M7 Plus 六座后驱版', 269800],
+        ['问界M7 Max 六座智驾版', 329800],
+        ['问界M9', 469800] 
       ]
     },
     {
-        brand:'哪吒汽车',
-        linkurl:'',
-        detaildata:[
-        ['哪吒V Pro', 76900],
-        ['哪吒V Pro', 80900], 
-        ['哪吒GT', 188800], 
-        ['哪吒GT', 226800] 
-        ]
+      "brand": "哪吒汽车",
+      "linkurl": "https://www.autohome.com.cn/price/brand-309.html",
+      "detaildata": [
+        ["哪吒V Pro 长续航智趣版", 76900],
+        ["哪吒V Pro 长续航智享版", 80900],
+        ["哪吒GT", 188800],
+        ["哪吒S", 226800],
+        ["哪吒AYA 318 Lite", 73800],
+        ["哪吒AYA 318", 78800],
+        ["哪吒AYA 401 Lite", 84800],
+        ["哪吒AYA 401", 88800]
+      ]
     },
     {
         brand:'比亚迪',

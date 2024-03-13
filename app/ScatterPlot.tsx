@@ -9,13 +9,14 @@ const ScatterPlot = () => {
     const yAxisData = cardata_all_new.flatMap(brandData => brandData.detaildata.map(car => car[1]));
     const option = {
       title: {
-        text: '汽车价格散点图',
+        text: ' 汽车价格分布图',
         left: 'center'
       },
       tooltip: {
         trigger: 'axis',
         formatter: (params: any) => {
-          const { name, value } = params[0];
+          const name = params[0].name;
+          const value = params[0].value[1];
           return `${name}: ￥${value}`;
         }
       },
@@ -30,6 +31,20 @@ const ScatterPlot = () => {
         type: 'value',
         name: '价格（元）'
       },
+      dataZoom: [
+        {
+          type: 'inside',
+          start: 0,
+          end: 60
+        },
+        {
+          show: false,
+          type: 'slider',
+          top: '0%',
+          start: 0,
+          end: 100
+        }
+      ],
       series: [{
         data: cardata_all_new.flatMap(brandData => brandData.detaildata),
         type: 'scatter',

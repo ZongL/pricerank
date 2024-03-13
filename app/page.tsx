@@ -54,9 +54,12 @@ export default function Page() {
 
   return (
     <main className="flex min-h-screen flex-col p-6">
-      <div className="flex h-20 shrink-0 items-center justify-center rounded-lg bg-blue-500 p-4 md:h-32">
-        <h2 className="text-white text-3xl front-bold">Car Price Overview(CPO)</h2>
-        {/* <AcmeLogo /> */}
+      <div className="flex flex-col items-center justify-center h-52 bg-blue-500 p-4 rounded-lg md:flex-row md:h-32">
+        <div className="flex items-center">
+          <h2 className="text-white text-3xl font-bold">Car Price Overview</h2>
+        </div>
+        <div className="flex-grow"></div>
+        <div className="text-black self-end">Design By ZongL</div>
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">

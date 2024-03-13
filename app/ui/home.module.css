@@ -32,3 +32,10 @@
   cursor: not-allowed; /* 改变鼠标指针为不允许状态 */
   pointer-events: none; /* 禁用鼠标事件 */
 }
+
+
+.designbyposition {
+  position: relative;
+  bottom: 10px;
+  right: 5px;
+}
