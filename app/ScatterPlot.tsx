@@ -2,6 +2,8 @@ import { useEffect } from 'react';
 import * as echarts from 'echarts';
 import { cardata_all_new } from './data/carData';
 
+
+
 const ScatterPlot = () => {
   useEffect(() => {
     const myChart = echarts.init(document.getElementById('scatter-chart'));
