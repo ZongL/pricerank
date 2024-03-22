@@ -4,6 +4,7 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css';
+
 import { useEffect, useState} from 'react';
 
 import * as cardatashow from './data/carData';
@@ -14,42 +15,42 @@ import { renderData } from './ScatterPlot';
 
 export default function Page() {
 
-  const [carL7Price, setCarL7Price] = useState(null);
-  const [carL8Price, setCarL8Price] = useState(null);
-  //console.log("Data start.................");
-  useEffect(() => {
-    const fetchCarPrices = async () => {
-      try {
-        const requestOptions = {
-          method: 'GET',
-          headers: {
-            'X-Chj-Devicetype': '1',
-            //'Access-Control-Allow-Origin': 'https://www.lixiang.com',
-            "Access-Control-Allow-Credentials": "true",
-            "Access-Control-Allow-Origin": "*",
-            "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
-            "Access-Control-Allow-Headers": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
-          }
-        };
-        console.log("Fetching L7 price...");
-        //const responseL7 = await fetch('https://api-web.lixiang.com/vehicle-api/v1-0/products?productId=1664417698271', requestOptions);
-        const responseL7 = await fetch('https://fakerapi.it/api/v1/images?_width=380');
-        //console.log("Response L7:", responseL7);
-        const dataL7 = await responseL7.json();
-        console.log("Data L7:", dataL7.code);
-        setCarL7Price(dataL7.code);
+  // const [carL7Price, setCarL7Price] = useState(null);
+  // const [carL8Price, setCarL8Price] = useState(null);
+  // //console.log("Data start.................");
+  // useEffect(() => {
+  //   const fetchCarPrices = async () => {
+  //     try {
+  //       const requestOptions = {
+  //         method: 'GET',
+  //         headers: {
+  //           'X-Chj-Devicetype': '1',
+  //           //'Access-Control-Allow-Origin': 'https://www.lixiang.com',
+  //           "Access-Control-Allow-Credentials": "true",
+  //           "Access-Control-Allow-Origin": "*",
+  //           "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
+  //           "Access-Control-Allow-Headers": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
+  //         }
+  //       };
+  //       console.log("Fetching L7 price...");
+  //       //const responseL7 = await fetch('https://api-web.lixiang.com/vehicle-api/v1-0/products?productId=1664417698271', requestOptions);
+  //       const responseL7 = await fetch('https://fakerapi.it/api/v1/images?_width=380');
+  //       //console.log("Response L7:", responseL7);
+  //       const dataL7 = await responseL7.json();
+  //       console.log("Data L7:", dataL7.code);
+  //       setCarL7Price(dataL7.code);
 
-        //const responseL8 = await fetch('https://api-web.lixiang.com/vehicle-api/v1-0/products?productId=1664417698271', requestOptions);
-        const responseL8 = await fetch('https://fakerapi.it/api/v1/images?_width=380');
-        const dataL8 = await responseL8.json();
-        setCarL8Price(dataL8.code);
-      } catch (error) {
-        console.error('Error fetching car prices:', error);
-      }
-    };
+  //       //const responseL8 = await fetch('https://api-web.lixiang.com/vehicle-api/v1-0/products?productId=1664417698271', requestOptions);
+  //       const responseL8 = await fetch('https://fakerapi.it/api/v1/images?_width=380');
+  //       const dataL8 = await responseL8.json();
+  //       setCarL8Price(dataL8.code);
+  //     } catch (error) {
+  //       console.error('Error fetching car prices:', error);
+  //     }
+  //   };
 
-    fetchCarPrices();
-  }, []);
+  //   fetchCarPrices();
+  // }, []);
 
 
   return (
