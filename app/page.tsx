@@ -15,44 +15,6 @@ import { renderData } from './ScatterPlot';
 
 export default function Page() {
 
-  // const [carL7Price, setCarL7Price] = useState(null);
-  // const [carL8Price, setCarL8Price] = useState(null);
-  // //console.log("Data start.................");
-  // useEffect(() => {
-  //   const fetchCarPrices = async () => {
-  //     try {
-  //       const requestOptions = {
-  //         method: 'GET',
-  //         headers: {
-  //           'X-Chj-Devicetype': '1',
-  //           //'Access-Control-Allow-Origin': 'https://www.lixiang.com',
-  //           "Access-Control-Allow-Credentials": "true",
-  //           "Access-Control-Allow-Origin": "*",
-  //           "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
-  //           "Access-Control-Allow-Headers": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
-  //         }
-  //       };
-  //       console.log("Fetching L7 price...");
-  //       //const responseL7 = await fetch('https://api-web.lixiang.com/vehicle-api/v1-0/products?productId=1664417698271', requestOptions);
-  //       const responseL7 = await fetch('https://fakerapi.it/api/v1/images?_width=380');
-  //       //console.log("Response L7:", responseL7);
-  //       const dataL7 = await responseL7.json();
-  //       console.log("Data L7:", dataL7.code);
-  //       setCarL7Price(dataL7.code);
-
-  //       //const responseL8 = await fetch('https://api-web.lixiang.com/vehicle-api/v1-0/products?productId=1664417698271', requestOptions);
-  //       const responseL8 = await fetch('https://fakerapi.it/api/v1/images?_width=380');
-  //       const dataL8 = await responseL8.json();
-  //       setCarL8Price(dataL8.code);
-  //     } catch (error) {
-  //       console.error('Error fetching car prices:', error);
-  //     }
-  //   };
-
-  //   fetchCarPrices();
-  // }, []);
-
-
   return (
     <main className="flex min-h-screen flex-col p-6">
       <div className="flex flex-col items-center justify-center h-52 bg-blue-500 p-4 rounded-lg md:flex-row md:h-32">
@@ -60,7 +22,7 @@ export default function Page() {
           <h2 className="text-white text-3xl font-bold">Car Price Overview</h2>
         </div>
         <div className="flex-grow"></div>
-        <div className="text-black self-end">Design By ZongL</div>
+        <div className="text-white self-end">Design By ZongL</div>
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">
@@ -87,33 +49,33 @@ export default function Page() {
         </div>
       </div>
 
-<div>
-  {cardatashow.cardata_all_new.reduce((rows: JSX.Element[][], brandData, brandIndex) => {
-    if (brandIndex % 5 === 0) rows.push([]);
-    rows[rows.length - 1].push(
-      <div key={brandIndex} className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
-        <strong><a href={brandData.linkurl} className="text-blue-500">{brandData.brand}</a></strong>
-        {/* 其他内容 */}
-        {renderData(brandData.detaildata)}
+      <div>
+        {cardatashow.cardata_all_new.reduce((rows: JSX.Element[][], brandData, brandIndex) => {
+          if (brandIndex % 5 === 0) rows.push([]);
+          rows[rows.length - 1].push(
+            <div key={brandIndex} className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
+              <strong><a href={brandData.linkurl} className="text-blue-500">{brandData.brand}</a></strong>
+              {/* 其他内容 */}
+              {renderData(brandData.detaildata)}
+            </div>
+          );
+          return rows;
+        }, []).map((row, rowIndex) => (
+          <div key={rowIndex} className="mt-4 flex grow flex-col gap-4 md:flex-row">
+            {row}
+          </div>
+        ))}
       </div>
-    );
-    return rows;
-  }, []).map((row, rowIndex) => (
-    <div key={rowIndex} className="mt-4 flex grow flex-col gap-4 md:flex-row">
-      {row}
-    </div>
-  ))}
-</div>
-<div>
-  {/* {cardatashow.cardata_all_new.map((brandData, brandIndex) => (
-    <div key={brandIndex} className="mt-4 flex grow flex-col gap-4 md:flex-row">
-      <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
-        <strong><a href={brandData.linkurl} className="text-blue-500">{brandData.brand}</a></strong>
-        {renderData(brandData.detaildata)}
+      <div>
+        {/* {cardatashow.cardata_all_new.map((brandData, brandIndex) => (
+          <div key={brandIndex} className="mt-4 flex grow flex-col gap-4 md:flex-row">
+            <div className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
+              <strong><a href={brandData.linkurl} className="text-blue-500">{brandData.brand}</a></strong>
+              {renderData(brandData.detaildata)}
+            </div>
+          </div>
+        ))} */}
       </div>
-    </div>
-  ))} */}
-</div>
     </main>
   );
 }

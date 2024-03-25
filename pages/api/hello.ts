@@ -1,8 +1,8 @@
 
 
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { AllpatentData } from '../../app/data/PatentData';
-import { Session } from 'inspector';
+import { AllpatentData } from '@/app/data/PatentData';
+
 
 // 定义请求的URL和头部信息
 const searchUrl = 'https://ppubs.uspto.gov/dirsearch-public/searches/generic';
