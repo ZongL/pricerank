@@ -26,10 +26,10 @@ export default function Patents(){
           { data: 'pageCount', orderable: false }
       ],
       // 设置默认排序
-      responsive: true,
-      columnDefs: [
-        { responsivePriority: 10002, targets: -1 } //最后一行折叠隐藏
-    ],
+      //responsive: true,
+    //   columnDefs: [
+    //     { responsivePriority: 10002, targets: -1 } //最后一行折叠隐藏
+    // ],
       order: [[1, 'desc']], // 列索引1（即datePublished列）降序排序
       paging: true
       });  
@@ -48,7 +48,7 @@ export default function Patents(){
         {/*<div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-9/10 md:px-20"> */}
               <div>  
                 <h1>Tesla patent</h1>  
-                <table id="myTable" className="display nowrap" style={{ width:'100%'}}>  
+                <table id="myTable" className="display responsive nowrap" style={{ width:'100%'}}>  
                   <thead>  
                     <tr>  
                     <th>Document ID</th>
