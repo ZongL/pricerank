@@ -28,10 +28,10 @@ export default function Page() {
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">
         {/*<div className={styles.triangleshape}/>*/}
           <Link
-            href="/login"
+            href="/teslapatent"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base disabled"
           >
-            <span>Compare</span> <ArrowRightIcon className="w-5 md:w-6" />
+            <span style={{ fontSize:'11px'}}>Go Patent</span> <ArrowRightIcon className="w-4 md:w-6" />
           </Link>
           <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
               Git Source Code

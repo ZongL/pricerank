@@ -48,7 +48,7 @@ export const cardata_all_new = [
     },
     {
       brand: '特斯拉',
-      linkurl: '',
+      linkurl: 'https://www.tesla.cn/',
       detaildata: [
         ['Model 3', 245900],
         ['Model Y', 258900],
