@@ -23,7 +23,8 @@ export default function Patents(){
           { data: 'title', orderable: false },
           { data: 'patentNumber', orderable: false },
           { data: 'inventors', orderable: false },
-          { data: 'pageCount', orderable: false }
+          { data: 'pageCount', orderable: false },
+          { data: 'AI_Opinion', orderable: false }
       ],
       // 设置默认排序
       //responsive: true,
@@ -44,20 +45,20 @@ export default function Patents(){
         <div className="flex-grow"></div>
         <div className="text-white self-end">Design By ZongL</div>
       </div>
-    {/* <div className="mt-4 flex grow flex-col gap-4 md:flex-row">*/}
-        {/*<div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-9/10 md:px-20"> */}
+    {/* <div className="mt-4 flex grow flex-col gap-4 md:flex-row"> */}
+        {/* <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-9/10 md:px-20"> */}
               <div>  
                 <h1>Tesla patent</h1>  
-                <table id="myTable" className="display responsive nowrap" style={{ width:'100%'}}>  
+                <table id="myTable" className="display responsive" style={{ width:'100%'}}>  
                   <thead>  
                     <tr>  
-                    <th>Document ID</th>
+                    <th >Document ID</th>
                     <th>Date Published</th>
                     <th>Title</th>
                     <th>Patent Number</th>
                     <th>Inventors</th>
                     <th>Page Count</th>
-                      {/* <th>AI-opinion</th> */}
+                    <th>AI_Opinion: </th>
                     </tr>  
                   </thead>  
                 </table>  

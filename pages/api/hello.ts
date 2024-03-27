@@ -1,7 +1,7 @@
 
 
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { AllpatentData } from '@/app/data/PatentData';
+
 
 
 // 定义请求的URL和头部信息
