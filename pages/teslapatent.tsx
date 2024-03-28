@@ -6,7 +6,8 @@ import 'tailwindcss/tailwind.css';
 
 import DataTable from 'datatables.net-dt';
 import 'datatables.net-dt/css/dataTables.dataTables.css';
-//import '@/app/ui/responsive.dataTables.css';  // 引入CSS文件
+import '@/app/ui/responsive.dataTables.css';  // 引入CSS文件
+import '@/app/ui/responsive.dataTables.min.css';  // 引入CSS文件
 import 'datatables.net-responsive/js/dataTables.responsive';
 
 export default function Patents(){
