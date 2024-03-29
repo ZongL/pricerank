@@ -2,7 +2,7 @@
 
 export const cardata_all_new = [
     {
-      brand: '理想汽车',
+      brand: '理想',
       linkurl: 'https://www.lixiang.com/',
       detaildata: [
         ['理想L7 Air', 319800],
@@ -17,7 +17,7 @@ export const cardata_all_new = [
       ]
     },
     {
-      brand: '小鹏汽车',
+      brand: '小鹏',
       linkurl: 'https://www.xiaopeng.com/',
       detaildata: [
         ['G3iG3i460G+XP', 156900],
@@ -33,7 +33,7 @@ export const cardata_all_new = [
       ]
     },
     {
-      brand: '蔚来汽车',
+      brand: '蔚来',
       linkurl: 'https://www.nio.cn/',
       detaildata: [
         ['ET5', 298000],
@@ -57,7 +57,7 @@ export const cardata_all_new = [
       ]
     },
     {
-      brand: '问界汽车',
+      brand: '问界',
       linkurl: '',
       detaildata: [
         ['问界M5 后驱标准版', 249800],
@@ -71,7 +71,7 @@ export const cardata_all_new = [
       ]
     },
     {
-      "brand": "哪吒汽车",
+      "brand": "哪吒",
       "linkurl": "https://www.autohome.com.cn/price/brand-309.html",
       "detaildata": [
         ["哪吒V Pro 长续航智趣版", 76900],
@@ -103,7 +103,7 @@ export const cardata_all_new = [
         ]
     },
     {
-      brand: '极狐汽车',
+      brand: '极狐',
       linkurl: 'https://www.arcfox.com.cn/',
       detaildata: [
         ['阿尔法T5-520AIR', 130800],
@@ -127,7 +127,7 @@ export const cardata_all_new = [
       linkurl: 'https://www.xiaomiev.com/',
       detaildata: [
         ['小米SU7', 215900],
-        ['小米SU7-PRO', 24900],
+        ['小米SU7-PRO', 245900],
         ['小米SU7-MAX', 299900]
       ]
     }
