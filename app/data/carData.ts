@@ -101,5 +101,34 @@ export const cardata_all_new = [
             ['比亚迪驱逐舰05', 101800], 
             ['比亚迪秦PLUS', 99900]
         ]
+    },
+    {
+      brand: '极狐汽车',
+      linkurl: 'https://www.arcfox.com.cn/',
+      detaildata: [
+        ['阿尔法T5-520AIR', 130800],
+        ['阿尔法T5-520MAX', 150800],
+        ['阿尔法T5-520PRO', 138800],
+        ['阿尔法T5-660MAX', 174800],
+        ['极狐考拉', 119800]
+      ]
+    },
+    {
+      brand: '阿维塔',
+      linkurl: 'https://www.avatr.com/',
+      detaildata: [
+        ['阿维塔11', 300000],
+        ['阿维塔12', 300800],
+        ['阿维塔011', 600000]
+      ]
+    },
+    {
+      brand: '小米',
+      linkurl: 'https://www.xiaomiev.com/',
+      detaildata: [
+        ['小米SU7', 215900],
+        ['小米SU7-PRO', 24900],
+        ['小米SU7-MAX', 299900]
+      ]
     }
 ];
