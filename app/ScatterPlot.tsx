@@ -52,7 +52,7 @@ const ScatterPlot = () => {
         type: 'scatter',
         symbolSize: (value: number[]) => Math.log10(value[1]) * 5, // 根据价格设置点的大小
         label: {
-          show: true,
+          show: false,
           formatter: '{b}',
           position: 'top'
         },
