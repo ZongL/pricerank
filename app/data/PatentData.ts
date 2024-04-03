@@ -3,8 +3,26 @@ export const AllpatentData: any = {};
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1140,
+    "numFound": 1142,
     "docs": [
+        {
+            "documentId": "US-20240105955-A1",
+            "datePublished": "2024-03-28",
+            "title": "DRY ENERGY STORAGE DEVICE ELECTRODE AND METHODS OF MAKING THE SAME",
+            "patentNumber": "20240105955",
+            "inventors": "Duong; Hieu Minh et al.",
+            "pageCount": 52,
+            "AI_Opinion": "这项专利可能涉及一种用于能量存储设备的电极，特别是针对干燥条件下的设计。技术可能包括改进电极材料、结构或制造工艺，以提高电池或超级电容器在低湿度或无水分环境中的性能和稳定性。"
+        },
+        {
+            "documentId": "US-20240106957-A1",
+            "datePublished": "2024-03-28",
+            "title": "KINEMATIC ASSESSMENT AND VERIFICATION OF PAPER DOCUMENTS FOR PROCESSING AND ANALYSIS THEREOF",
+            "patentNumber": "20240106957",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 35,
+            "AI_Opinion": "这项专利可能涉及一种系统或方法，用于对纸质文档进行运动学评估和验证，以便对其进行处理和分析。技术可能包括图像识别、文档追踪、运动捕捉以及数据提取，旨在提高文档处理的准确性和效率。"
+        },
         {
             "documentId": "US-11938796-B2",
             "datePublished": "2024-03-26",
@@ -48,7 +66,7 @@ export const teslapatentData: any =
             "patentNumber": "11932078",
             "inventors": "Pinto; Prem et al.",
             "pageCount": 25,
-            "AI_Opinion":  "该专利可能涉及一种用于电动汽车的热泵系统，其中包含一个增强的阀门单元，旨在提高系统效率和性能。"
+            "AI_Opinion": "该专利可能涉及一种用于电动汽车的热泵系统，其中包含一个增强的阀门单元，旨在提高系统效率和性能。"
         },
         {
             "documentId": "US-20240085203-A1",

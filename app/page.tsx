@@ -5,6 +5,8 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css';
 
+import {NavigationPage} from '@/app/NavigationPage'
+
 import { useEffect, useState} from 'react';
 
 import * as cardatashow from './data/carData';
@@ -17,12 +19,8 @@ export default function Page() {
 
   return (
     <main className="flex min-h-screen flex-col p-6">
-      <div className="flex flex-col items-center justify-center h-52 bg-blue-500 p-4 rounded-lg md:flex-row md:h-32">
-        <div className="flex items-center">
-          <h2 className="text-white text-3xl font-bold">Car Price Overview</h2>
-        </div>
-        <div className="flex-grow"></div>
-        <div className="text-white self-end">Design By ZongL</div>
+      <div>
+        <NavigationPage/>
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/6 md:px-20">

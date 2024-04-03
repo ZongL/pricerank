@@ -26,7 +26,7 @@ const datas = {
   ],
   op: "AND",
   pageSize: 50,
-  q: "(tesla).aanm.",
+  q: "(tesla).aanm. NOT (Biohealing).aanm.",
   searchType: 0,
   sort: "date_publ desc"
 };

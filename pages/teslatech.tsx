@@ -10,6 +10,11 @@ import '@/app/ui/responsive.dataTables.css';  // 引入CSS文件
 import '@/app/ui/responsive.dataTables.min.css';  // 引入CSS文件
 import 'datatables.net-responsive/js/dataTables.responsive';
 
+
+
+import {NavigationPage} from '@/app/NavigationPage'
+
+
 export default function Patents(){
   useEffect(() => {  
     // 确保组件已经挂载到 DOM 上  
@@ -30,12 +35,8 @@ export default function Patents(){
   }, []);  
   return (
      <main className="flex min-h-screen flex-col p-6">
-      <div className="flex flex-col items-center justify-center h-52 bg-blue-500 p-4 rounded-lg md:flex-row md:h-32">
-        {/* <div className="flex items-center">
-          <h2 className="text-white text-3xl font-bold">Car Price Overview</h2>
-        </div>
-        <div className="flex-grow"></div>
-        <div className="text-white self-end">Design By ZongL</div> */}
+      <div>
+        <NavigationPage/>
       </div>
     {/* <div className="mt-4 flex grow flex-col gap-4 md:flex-row"> */}
         {/* <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-9/10 md:px-20"> */}
