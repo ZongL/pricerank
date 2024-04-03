@@ -25,7 +25,7 @@ export const NavigationPage: React.FC = () =>{
         <Link href="/">Home | </Link>
         <Link href="/teslapatent">Patents | </Link>
         <Link href="/teslatech">Notebook | </Link>
-        <Link href="/api/hello" onClick={openPasswordPrompt}>Test</Link>
+        <Link href="#" onClick={openPasswordPrompt}>Test</Link>
       </div>
       <div className="text-white self-end">Design By ZongL</div>
     </div>
