@@ -1,10 +1,26 @@
-export const AllpatentData: any = {};
-
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1142,
+    "numFound": 1144,
     "docs": [
+        {
+            "documentId": "US-20240112051-A1",
+            "datePublished": "2024-04-04",
+            "title": "MACHINE LEARNING MODELS OPERATING AT DIFFERENT FREQUENCIES FOR AUTONOMOUS VEHICLES",
+            "patentNumber": "20240112051",
+            "inventors": "Shen; Anting",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及使用不同频率运行的机器学习模型来提高自动驾驶车辆的性能。技术可能包括多频段数据处理，以优化传感器数据融合、环境感知和决策制定。这有助于提高车辆对动态环境变化的响应速度和准确性。"
+        },
+        {
+            "documentId": "US-11949089-B2",
+            "datePublished": "2024-04-02",
+            "title": "Compositions and methods for prelithiating energy storage devices",
+            "patentNumber": "11949089",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及预锂化（prelithiation）技术，用于改善能量存储设备的性能。预锂化可能包括在电池组装前对电极材料进行锂化处理，以提高电池的初始容量和循环寿命。技术可能涉及特殊的化学物质、涂层或处理方法来实现这一目标。"
+        },
         {
             "documentId": "US-20240105955-A1",
             "datePublished": "2024-03-28",
