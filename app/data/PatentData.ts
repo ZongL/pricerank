@@ -1,8 +1,17 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1144,
+    "numFound": 1145,
     "docs": [
+        {
+            "documentId": "US-11955921-B2",
+            "datePublished": "2024-04-09",
+            "title": "System and method for improving color appearance of solar roofs",
+            "patentNumber": "11955921",
+            "inventors": "Liu; John et al.",
+            "pageCount": 36,
+            "AI_Opinion": "该专利可能涉及一种系统和方法，用于增强太阳能屋顶的颜色外观。技术可能包括利用特殊涂层、光学滤镜或设计改进，以提高太阳能板的视觉吸引力和颜色一致性，同时保持其能源效率。"
+        },
         {
             "documentId": "US-20240112051-A1",
             "datePublished": "2024-04-04",
