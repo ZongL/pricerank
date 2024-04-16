@@ -60,7 +60,7 @@ export default function Page() {
             <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
               Git Source Code
           </a>
-          {' '}By{' '}
+          {' '}Design By ZongL{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">Next.js</a>
         </p>
         </footer>

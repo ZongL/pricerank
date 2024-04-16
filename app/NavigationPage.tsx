@@ -21,13 +21,13 @@ export const NavigationPage: React.FC = () =>{
         <h2 className="text-white text-3xl font-bold">Car Price Overview</h2>
       </div>
       <div className="flex-grow"></div>
-      <div className="text-white self-mid">
+      <div className="text-white self-end">
         <Link href="/">Home | </Link>
         <Link href="/teslapatent">Patents | </Link>
         <Link href="/teslatech">Notebook | </Link>
         <Link href="#" onClick={openPasswordPrompt}>Test</Link>
       </div>
-      <div className="text-white self-end">Design By ZongL</div>
+      {/* <div className="text-white self-mid"></div> */}
     </div>
     );
 
