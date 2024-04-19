@@ -13,7 +13,9 @@ export const cardata_all_new = [
         ['理想L8 Max', 399800],
         ['理想L9 Pro', 429800],
         ['理想L9 Max', 459800],
-        ['理想MEGA Max', 559800]
+        ['理想MEGA Max', 559800],
+        ['理想L6 Pro', 249800],
+        ['理想L6 Max', 279800]
       ]
     },
     {
