@@ -1,8 +1,80 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1145,
+    "numFound": 1153,
     "docs": [
+        {
+            "documentId": "US-20240136303-A1",
+            "datePublished": "2024-04-25",
+            "title": "WAFER ALIGNMENT STRUCTURE",
+            "patentNumber": "20240136303",
+            "inventors": "Li; Yong guo et al.",
+            "pageCount": 15,
+            "AI_Opinion": "Tesla的专利标题\"WAFER ALIGNMENT STRUCTURE\"可能涉及一种用于半导体制造的晶圆对准结构。这种技术可能包括精密机械装置或光学系统，用于确保晶圆在制造过程中的精确对齐，从而提高芯片的制造质量和产量。"
+        },
+        {
+            "documentId": "US-20240126547-A1",
+            "datePublished": "2024-04-18",
+            "title": "INSTRUCTION SET ARCHITECTURE FOR A VECTOR COMPUTATIONAL UNIT",
+            "patentNumber": "20240126547",
+            "inventors": "Das Sarma; Debjit et al.",
+            "pageCount": 31,
+            "AI_Opinion": "这篇专利可能涉及一种用于向量计算单元的指令集架构，该架构旨在提高并行计算性能，优化计算资源利用率，并可能包含特定于硬件的优化技术。"
+        },
+        {
+            "documentId": "US-20240125934-A1",
+            "datePublished": "2024-04-18",
+            "title": "ANNOTATION CROSS-LABELING FOR AUTONOMOUS CONTROL SYSTEMS",
+            "patentNumber": "20240125934",
+            "inventors": "Shen; Anting",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及使用注释跨标签技术来提高自动驾驶控制系统的准确性和效率。"
+        },
+        {
+            "documentId": "US-20240127599-A1",
+            "datePublished": "2024-04-18",
+            "title": "ESTIMATING OBJECT PROPERTIES USING VISUAL IMAGE DATA",
+            "patentNumber": "20240127599",
+            "inventors": "Musk; James Anthony et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及使用视觉图像数据来估计物体属性的技术，如形状、大小、位置、速度等。可能包括图像处理、机器学习、深度学习等方法。"
+        },
+        {
+            "documentId": "US-11960901-B2",
+            "datePublished": "2024-04-16",
+            "title": "Autonomous driving controller parallel processor boot order",
+            "patentNumber": "11960901",
+            "inventors": "Kaminski; Patryk et al.",
+            "pageCount": 20,
+            "AI_Opinion": "这篇专利可能涉及自动驾驶控制器的并行处理器启动顺序技术，包括处理器初始化、任务分配、负载均衡和错误恢复等方面。"
+        },
+        {
+            "documentId": "US-11961959-B2",
+            "datePublished": "2024-04-16",
+            "title": "Battery systems based on lithium difluorophosphate",
+            "patentNumber": "11961959",
+            "inventors": "Ma; Lin et al.",
+            "pageCount": 104,
+            "AI_Opinion": "该专利可能涉及基于二氟磷酸锂的电池系统，包括新型锂离子电池电解质、电池设计、安全性和性能提升。"
+        },
+        {
+            "documentId": "US-11962030-B2",
+            "datePublished": "2024-04-16",
+            "title": "Integrated energy storage system",
+            "patentNumber": "11962030",
+            "inventors": "Pires; Andrew et al.",
+            "pageCount": 19,
+            "AI_Opinion": "集成能源存储系统可能涉及将电池、逆变器、能量管理系统等组件集成到一个系统中，以优化能源存储和使用效率。"
+        },
+        {
+            "documentId": "US-20240120878-A1",
+            "datePublished": "2024-04-11",
+            "title": "PHOTOVOLTAIC ROOF TILE CONNECTION CONFIGURATION",
+            "patentNumber": "20240120878",
+            "inventors": "NADIMPALLY; Bhavananda Reddy et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及太阳能屋顶瓦片的连接技术，包括瓦片设计、电气连接、安装方法和防水性能。"
+        },
         {
             "documentId": "US-11955921-B2",
             "datePublished": "2024-04-09",
