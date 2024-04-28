@@ -27,9 +27,9 @@ export default function Page() {
         {/*<div className={styles.triangleshape}/>*/}
           <Link
             href="/teslapatent"
-            className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base disabled"
+            className="flex items-center gap-1 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base disabled"
           >
-            <span style={{ fontSize:'11px'}}>Go Patent</span> <ArrowRightIcon className="w-4 md:w-6" />
+            <span style={{ fontSize:'12px'}}>Go Patent</span> <ArrowRightIcon className="w-3 md:w-6 h-3 md:h-4" />
           </Link>
         </div>
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-5/6">  
