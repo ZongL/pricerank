@@ -1,8 +1,35 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1153,
+    "numFound": 1156,
     "docs": [
+        {
+            "documentId": "US-20240140163-A1",
+            "datePublished": "2024-05-02",
+            "title": "VEHICLE THERMAL MANAGEMENT SYSTEMS",
+            "patentNumber": "20240140163",
+            "inventors": "Mancini; Nicholas et al.",
+            "pageCount": 56,
+            "AI_Opinion": "Tesla的这项专利可能涉及车辆热管理系统，包括电池冷却、加热、温度控制和能量回收技术，以提高电动汽车的效率和性能。"
+        },
+        {
+            "documentId": "US-20240145432-A1",
+            "datePublished": "2024-05-02",
+            "title": "COOLED SYSTEM-ON-WAFER WITH MEANS FOR REDUCING THE EFFECTS OF ELECTROSTATIC DISCHARGE AND/OR ELECTROMAGNETIC INTERFERENCE",
+            "patentNumber": "20240145432",
+            "inventors": "Pang; Mengzhi et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及一种冷却晶片上的系统，旨在减少静电放电和/或电磁干扰的影响。可能的技术包括：1) 静电放电防护设计；2) 电磁干扰屏蔽技术；3) 冷却系统与电子元件的集成设计。"
+        },
+        {
+            "documentId": "US-11973004-B2",
+            "datePublished": "2024-04-30",
+            "title": "Mechanical architecture for a multi-chip module",
+            "patentNumber": "11973004",
+            "inventors": "Cao; Robert Yinan et al.",
+            "pageCount": 16,
+            "AI_Opinion": "Tesla的这篇专利可能涉及多芯片模块的机械架构设计，包括芯片间连接、散热、封装技术等。"
+        },
         {
             "documentId": "US-20240136303-A1",
             "datePublished": "2024-04-25",
