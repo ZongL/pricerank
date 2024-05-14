@@ -1,8 +1,26 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1156,
+    "numFound": 1158,
     "docs": [
+        {
+            "documentId": "US-20240154096-A1",
+            "datePublished": "2024-05-09",
+            "title": "ELEMENTAL METAL AND CARBON MIXTURES FOR ENERGY STORAGE DEVICES",
+            "patentNumber": "20240154096",
+            "inventors": "Duong; Hieu Minh et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及将金属和碳混合物用于储能设备，如电池，以提高能量密度和性能。"
+        },
+        {
+            "documentId": "US-20240154128-A1",
+            "datePublished": "2024-05-09",
+            "title": "COMPOSITIONS AND METHODS FOR DRY ELECTRODE FILMS INCLUDING MICROPARTICULATE NON-FIBRILLIZABLE BINDERS",
+            "patentNumber": "20240154128",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 18,
+            "AI_Opinion": "这篇专利可能涉及使用非纤维化微粒粘合剂来制造干燥电极膜的复合材料和技术方法。"
+        },
         {
             "documentId": "US-20240140163-A1",
             "datePublished": "2024-05-02",
