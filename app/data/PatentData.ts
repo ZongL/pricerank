@@ -1,8 +1,44 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1158,
+    "numFound": 1162,
     "docs": [
+        {
+            "documentId": "US-11990278-B2",
+            "datePublished": "2024-05-21",
+            "title": "Compositions and methods for multilayer electrode films",
+            "patentNumber": "11990278",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 23,
+            "AI_Opinion": "专利可能涉及多层电极膜的组成和制造方法，用于提高电池性能，如能量密度、循环寿命和安全性。"
+        },
+        {
+            "documentId": "US-20240163973-A1",
+            "datePublished": "2024-05-16",
+            "title": "MANAGING HEATING ELEMENT OPERATIONAL PARAMETERS",
+            "patentNumber": "20240163973",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 16,
+            "AI_Opinion": "专利可能涉及管理加热元件的运行参数，如温度控制、功率调节、故障检测和自动调整，以优化性能和安全。"
+        },
+        {
+            "documentId": "US-11983630-B2",
+            "datePublished": "2024-05-14",
+            "title": "Neural networks for embedded devices",
+            "patentNumber": "11983630",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 21,
+            "AI_Opinion": "专利可能涉及嵌入式设备中神经网络的优化技术，包括模型压缩、加速计算、低功耗运行和实时数据处理。"
+        },
+        {
+            "documentId": "US-11981648-B2",
+            "datePublished": "2024-05-14",
+            "title": "Method for the synthesis of 3-R-1,4,2-dioxazol-5-ones",
+            "patentNumber": "11981648",
+            "inventors": "Hall; David S. et al.",
+            "pageCount": 45,
+            "AI_Opinion": "专利标题“3-R-1,4,2-二氧杂环戊酮的合成方法”暗示了一种特定的有机化合物合成技术。这可能涉及特定反应步骤，以合成具有二氧杂环结构的化合物，可能用于医药、化学或材料科学领域。"
+        },
         {
             "documentId": "US-20240154096-A1",
             "datePublished": "2024-05-09",
