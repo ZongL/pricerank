@@ -1,8 +1,98 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1162,
+    "numFound": 1172,
     "docs": [
+        {
+            "documentId": "US-20240185552-A1",
+            "datePublished": "2024-06-06",
+            "title": "ENHANCED OBJECT DETECTION FOR AUTONOMOUS VEHICLES BASED ON FIELD VIEW",
+            "patentNumber": "20240185552",
+            "inventors": "Shen; Anting et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及利用视野信息增强自动驾驶车辆的物体检测技术，可能包括视角分析、多传感器融合和机器学习算法。"
+        },
+        {
+            "documentId": "US-20240185445-A1",
+            "datePublished": "2024-06-06",
+            "title": "ARTIFICIAL INTELLIGENCE MODELING TECHNIQUES FOR VISION-BASED OCCUPANCY DETERMINATION",
+            "patentNumber": "20240185445",
+            "inventors": "DUAN; Pengfei Phil et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及使用AI技术，如深度学习，对车辆内部进行视觉分析，以确定座位占用情况，可能包括图像识别和模式匹配。"
+        },
+        {
+            "documentId": "US-20240181908-A1",
+            "datePublished": "2024-06-06",
+            "title": "CHARGING SYSTEM WITH COOLING SYSTEM",
+            "patentNumber": "20240181908",
+            "inventors": "Sasaridis; Dino et al.",
+            "pageCount": 14,
+            "AI_Opinion": "Tesla的这项专利可能涉及一种充电系统，集成了冷却技术以提高充电效率和安全性。可能包括快速充电技术、热管理系统以及优化的电池接口设计。"
+        },
+        {
+            "documentId": "US-12003682-B2",
+            "datePublished": "2024-06-04",
+            "title": "Kinematic assessment and verification of paper documents for processing and analysis thereof",
+            "patentNumber": "12003682",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 34,
+            "AI_Opinion": "该专利可能涉及运动学评估和验证纸质文档的技术，用于处理和分析文档。可能包括图像捕捉、运动学分析、文档验证算法等。"
+        },
+        {
+            "documentId": "US-D1029580-S",
+            "datePublished": "2024-06-04",
+            "title": "Beverage bottle",
+            "patentNumber": "D1029580",
+            "inventors": "Verdura; Javier",
+            "pageCount": 13,
+            "AI_Opinion": "特斯拉的“Beverage bottle”专利可能涉及特殊设计的饮料瓶，以适应电动车内环境，可能包括保温、防溅、易于清洁或与车辆系统整合的技术。"
+        },
+        {
+            "documentId": "US-20240177455-A1",
+            "datePublished": "2024-05-30",
+            "title": "SYSTEMS AND METHODS FOR TRAINING MACHINE MODELS WITH AUGMENTED DATA",
+            "patentNumber": "20240177455",
+            "inventors": "Cooper; Matthew John et al.",
+            "pageCount": 11,
+            "AI_Opinion": "专利可能涉及使用增强数据训练机器学习模型的方法，包括数据增强技术以提高模型性能和泛化能力。"
+        },
+        {
+            "documentId": "US-11996547-B2",
+            "datePublished": "2024-05-28",
+            "title": "Large-format battery anodes comprising silicon particles",
+            "patentNumber": "11996547",
+            "inventors": "Evans; Tyler et al.",
+            "pageCount": 28,
+            "AI_Opinion": "该专利可能涉及利用硅颗粒制造大型电池阳极，提高能量密度和电池性能。"
+        },
+        {
+            "documentId": "US-20240166032-A1",
+            "datePublished": "2024-05-23",
+            "title": "VEHICLE WITH EXOSKELETON",
+            "patentNumber": "20240166032",
+            "inventors": "Clarke; Alan Paul et al.",
+            "pageCount": 9,
+            "AI_Opinion": "Tesla的\"VEHICLE WITH EXOSKELETON\"专利可能涉及一种具有外部骨架结构的汽车，以提高车辆的刚性、安全性和耐用性。这种设计可能用于保护车辆免受碰撞损害，同时可能集成传感器和通信技术。"
+        },
+        {
+            "documentId": "US-20240167598-A1",
+            "datePublished": "2024-05-23",
+            "title": "HYDRAULIC COUPLING DEVICE",
+            "patentNumber": "20240167598",
+            "inventors": "Subbayya; Vivek et al.",
+            "pageCount": 12,
+            "AI_Opinion": "\"HYDRAULIC COUPLING DEVICE\" 可能涉及流体动力传输技术，用于连接和调节机械系统，可能包括泵、阀门、管道等组件，实现能量转换和控制。"
+        },
+        {
+            "documentId": "US-20240171118-A1",
+            "datePublished": "2024-05-23",
+            "title": "PHOTOVOLTAIC ROOFING TILE FOOT",
+            "patentNumber": "20240171118",
+            "inventors": "MOLINA; David et al.",
+            "pageCount": 33,
+            "AI_Opinion": "特斯拉的这项专利可能涉及太阳能屋顶瓦片的创新设计，包括瓦片底部结构，以提高安装效率、耐久性和发电性能。"
+        },
         {
             "documentId": "US-11990278-B2",
             "datePublished": "2024-05-21",
