@@ -1,8 +1,17 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1172,
+    "numFound": 1173,
     "docs": [
+        {
+            "documentId": "US-12010039-B2",
+            "datePublished": "2024-06-11",
+            "title": "Vehicle network and method of communication",
+            "patentNumber": "12010039",
+            "inventors": "Esmail; Adnan et al.",
+            "pageCount": 11,
+            "AI_Opinion": "专利可能涉及车辆通信网络技术，包括数据交换、安全协议、车辆间通信方法等。"
+        },
         {
             "documentId": "US-20240185552-A1",
             "datePublished": "2024-06-06",
