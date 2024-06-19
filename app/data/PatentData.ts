@@ -1,8 +1,35 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1173,
+    "numFound": 1176,
     "docs": [
+        {
+            "documentId": "US-12015146-B2",
+            "datePublished": "2024-06-18",
+            "title": "Compositions and methods for multilayer dry coated and wet cast film hybrid electrode films",
+            "patentNumber": "12015146",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 35,
+            "AI_Opinion": "专利标题暗示了一种用于多层干涂覆和湿浇铸薄膜混合电极的复合材料和方法。可能涉及创新的电极制备技术，包括干涂覆和湿浇铸工艺，以提高电池性能和制造效率。"
+        },
+        {
+            "documentId": "US-12014553-B2",
+            "datePublished": "2024-06-18",
+            "title": "Predicting three-dimensional features for autonomous driving",
+            "patentNumber": "12014553",
+            "inventors": "Elluswamy; Ashok Kumar et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及使用机器学习预测自动驾驶中3D特征，如道路、车辆和行人等，以提高导航准确性和安全性。"
+        },
+        {
+            "documentId": "US-20240194850-A1",
+            "datePublished": "2024-06-13",
+            "title": "COMPOSITIONS AND METHODS FOR PRELITHIATING ENERGY STORAGE DEVICES",
+            "patentNumber": "20240194850",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及预锂化技术，用以提高能源存储设备的初始容量和循环稳定性。"
+        },
         {
             "documentId": "US-12010039-B2",
             "datePublished": "2024-06-11",
