@@ -1,8 +1,53 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1176,
+    "numFound": 1181,
     "docs": [
+        {
+            "documentId": "US-20240213469-A1",
+            "datePublished": "2024-06-27",
+            "title": "METHOD TO PRODUCE CATHODE MATERIALS FOR LI-ION BATTERIES",
+            "patentNumber": "20240213469",
+            "inventors": "ZOU; Feng et al.",
+            "pageCount": 10,
+            "AI_Opinion": "该专利可能涉及一种生产锂离子电池正极材料的新方法，可能包括材料合成、结构优化和性能提升技术。"
+        },
+        {
+            "documentId": "US-12020476-B2",
+            "datePublished": "2024-06-25",
+            "title": "Data synthesis for autonomous control systems",
+            "patentNumber": "12020476",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利可能涉及使用合成数据来训练和优化自动驾驶控制系统，提高系统在未知或复杂环境下的性能和安全性。"
+        },
+        {
+            "documentId": "US-12020853-B2",
+            "datePublished": "2024-06-25",
+            "title": "Method of manufacturing inductors",
+            "patentNumber": "12020853",
+            "inventors": "Ricco; Tobias S.",
+            "pageCount": 11,
+            "AI_Opinion": "专利标题“制造电感器的方法”可能涉及创新的电感器制造技术，如使用新材料、改进的绕线技术、自动化生产流程或特殊结构设计以提高效率和性能。"
+        },
+        {
+            "documentId": "US-20240206015-A1",
+            "datePublished": "2024-06-20",
+            "title": "SYSTEM AND METHOD FOR USING A MOBILE DEVICE AS AN INPUT DEVICE FOR SURVEYS AT A LIVE EVENT",
+            "patentNumber": "20240206015",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 154,
+            "AI_Opinion": "该专利可能涉及使用智能手机作为现场活动调查的输入设备，可能包括无线连接、数据收集、实时反馈和用户界面设计。"
+        },
+        {
+            "documentId": "US-20240204713-A1",
+            "datePublished": "2024-06-20",
+            "title": "PHOTOVOLTAIC ROOFING TILE BASE",
+            "patentNumber": "20240204713",
+            "inventors": "RODRIGUES; Tommy F. et al.",
+            "pageCount": 28,
+            "AI_Opinion": "标题“PHOTOVOLTAIC ROOFING TILE BASE”指一种光伏屋顶瓦基座。可能的技术包括：集成光伏材料、高效能量转换、瓦片设计以优化光照接收和安装简易性。"
+        },
         {
             "documentId": "US-12015146-B2",
             "datePublished": "2024-06-18",
