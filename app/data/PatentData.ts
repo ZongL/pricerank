@@ -1,8 +1,62 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1181,
+    "numFound": 1187,
     "docs": [
+        {
+            "documentId": "US-20240227558-A1",
+            "datePublished": "2024-07-11",
+            "title": "DUAL AXIS ROTATIONAL MECHANISM",
+            "patentNumber": "20240227558",
+            "inventors": "Jin; Ding et al.",
+            "pageCount": 18,
+            "AI_Opinion": "\"双轴旋转机制\"可能涉及一种可以沿两个互相垂直的轴旋转的机械装置，用于提高设备灵活性和精确度，可能应用于机器人、精密仪器或汽车部件。"
+        },
+        {
+            "documentId": "US-20240234243-A1",
+            "datePublished": "2024-07-11",
+            "title": "ELECTRONIC ASSEMBLIES WITH THERMAL INTERFACE STRUCTURE",
+            "patentNumber": "20240234243",
+            "inventors": "Nabovati; Aydin et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及具有热界面结构的电子组件，用于改善散热性能，可能包括新型导热材料或散热设计。"
+        },
+        {
+            "documentId": "US-20240234333-A9",
+            "datePublished": "2024-07-11",
+            "title": "WAFER ALIGNMENT STRUCTURE",
+            "patentNumber": "20240234333",
+            "inventors": "Li; Yong guo et al.",
+            "pageCount": 15,
+            "AI_Opinion": "专利标题\"WAFER ALIGNMENT STRUCTURE\"暗示了一种用于晶圆对准的结构设计。可能涉及精密定位技术，确保晶圆在制造过程中精准对齐，提高半导体器件的制造精度和良率。"
+        },
+        {
+            "documentId": "US-12034402-B2",
+            "datePublished": "2024-07-09",
+            "title": "External electrical contact for solar roof tiles",
+            "patentNumber": "12034402",
+            "inventors": "Nguyen; Peter P. et al.",
+            "pageCount": 30,
+            "AI_Opinion": "专利可能涉及太阳能瓦片的外部电气接触技术，如提高能量传输效率、增强接触稳定性、优化安装过程或提升耐用性。"
+        },
+        {
+            "documentId": "US-20240218711-A1",
+            "datePublished": "2024-07-04",
+            "title": "ELECTROMAGNETIC LATCH FOR VEHICLE STORAGE ASSEMBLY",
+            "patentNumber": "20240218711",
+            "inventors": "Trivedi; Shail et al.",
+            "pageCount": 16,
+            "AI_Opinion": "专利标题“ELECTROMAGNETIC LATCH FOR VEHICLE STORAGE ASSEMBLY”暗示了一种用于车辆存储装置的电磁锁扣技术。可能涉及电磁机制来固定或释放车辆部件，提高安全性和便利性。"
+        },
+        {
+            "documentId": "US-20240222689-A1",
+            "datePublished": "2024-07-04",
+            "title": "BATTERY SYSTEMS BASED ON LITHIUM DIFLUOROPHOSPHATE",
+            "patentNumber": "20240222689",
+            "inventors": "Ma; Lin et al.",
+            "pageCount": 103,
+            "AI_Opinion": "专利可能涉及基于锂二氟磷酸盐的新型电池系统，可能包括改进的电解质配方、电池设计或制造工艺，以提高能量密度、安全性和循环寿命。"
+        },
         {
             "documentId": "US-20240213469-A1",
             "datePublished": "2024-06-27",
