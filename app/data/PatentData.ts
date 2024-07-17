@@ -1,8 +1,26 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1187,
+    "numFound": 1189,
     "docs": [
+        {
+            "documentId": "US-12037302-B1",
+            "datePublished": "2024-07-16",
+            "title": "Compound for treatment of bacterial infections of different etiology in humans",
+            "patentNumber": "12037302",
+            "inventors": "Ninkov; Dusan",
+            "pageCount": 12,
+            "AI_Opinion": "专利标题暗示了一种化合物，用于治疗人类不同病因的细菌感染。技术可能涉及新型抗菌剂、药物递送系统或针对特定细菌的靶向治疗。"
+        },
+        {
+            "documentId": "US-12036932-B2",
+            "datePublished": "2024-07-16",
+            "title": "Wiring system architecture",
+            "patentNumber": "12036932",
+            "inventors": "Chandra; Satyan et al.",
+            "pageCount": 50,
+            "AI_Opinion": "Tesla的“Wiring system architecture”专利可能涉及创新的电缆布局、连接器设计、电气系统集成，以及可能的模块化和简化布线方法，旨在提高电动车的效率、可靠性和生产成本。"
+        },
         {
             "documentId": "US-20240227558-A1",
             "datePublished": "2024-07-11",
