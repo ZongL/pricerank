@@ -1,8 +1,53 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1189,
+    "numFound": 1194,
     "docs": [
+        {
+            "documentId": "US-20240258043-A1",
+            "datePublished": "2024-08-01",
+            "title": "COMPOSITIONS AND METHODS FOR MULTILAYER ELECTRODE FILMS",
+            "patentNumber": "20240258043",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及多层电极薄膜的组成和制造方法，可能包括新材料、结构设计、制造工艺，用于提高电池性能或稳定性。"
+        },
+        {
+            "documentId": "US-20240259357-A1",
+            "datePublished": "2024-08-01",
+            "title": "ENCRYPTED VEHICLE DATA ACCESS",
+            "patentNumber": "20240259357",
+            "inventors": "Dmytryk; Thomas et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及加密技术保护车辆数据，实现安全访问和数据传输。可能包括密钥管理、数据加密、访问控制和身份验证机制。"
+        },
+        {
+            "documentId": "US-20240253542-A1",
+            "datePublished": "2024-08-01",
+            "title": "ENHANCED VEHICLE SEAT VENTILATION AND CONSTRUCTION TECHNIQUES",
+            "patentNumber": "20240253542",
+            "inventors": "Sadoo; Olav et al.",
+            "pageCount": 18,
+            "AI_Opinion": "专利可能涉及改进的座椅通风系统，如使用特殊材料或结构来增强空气流动，以及座椅构造的创新技术，可能包括轻量化、耐用性增强或舒适性提升。"
+        },
+        {
+            "documentId": "US-20240249571-A1",
+            "datePublished": "2024-07-25",
+            "title": "SYSTEMS AND METHODS FOR IDENTIFYING SUBSETS OF DATA IN A DATASET",
+            "patentNumber": "20240249571",
+            "inventors": "Raudonis; Adam et al.",
+            "pageCount": 35,
+            "AI_Opinion": "专利可能涉及数据子集识别技术，包括数据筛选、特征提取、模式识别等，用于优化数据集处理和分析效率。"
+        },
+        {
+            "documentId": "US-20240246056-A1",
+            "datePublished": "2024-07-25",
+            "title": "MANUFACTURING DEVICE FOR A PHARMACEUTICAL PRODUCT",
+            "patentNumber": "20240246056",
+            "inventors": "YAZDAN PANAH; Benyamin et al.",
+            "pageCount": 31,
+            "AI_Opinion": "专利可能涉及药物制造设备的设计、自动化流程、精确剂量分配、质量控制技术或新型制药机械。"
+        },
         {
             "documentId": "US-12037302-B1",
             "datePublished": "2024-07-16",
