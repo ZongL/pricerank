@@ -1,8 +1,18 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1194,
+    "numFound": 1195,
     "docs": [
+        {
+            "documentId": "US-20240262428-A1",
+            "datePublished": "2024-08-08",
+            "title": "INTEGRATED COMPONENTS FOR VEHICLES",
+            "patentNumber": "20240262428",
+            "inventors": "Stack; Marcus et al.",
+            "pageCount": 14,
+            "type": null,
+            "AI_Opinion": "专利可能涉及车辆集成组件技术，如高效能源管理系统、智能驾驶辅助系统、轻量化材料应用，以及提升安全性和性能的创新设计。"
+        },
         {
             "documentId": "US-20240258043-A1",
             "datePublished": "2024-08-01",
