@@ -1,8 +1,17 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1195,
+    "numFound": 1196,
     "docs": [
+        {
+            "documentId": "US-20240270577-A1",
+            "datePublished": "2024-08-15",
+            "title": "METHODS OF PRODUCING CATHODE MATERIAL PRECURSORS",
+            "patentNumber": "20240270577",
+            "inventors": "Carpenter; Alex et al.",
+            "pageCount": 8,
+            "AI_Opinion": "该专利可能涉及制造正极材料前驱体的方法，可能包括合成过程、材料配方、提高性能或降低成本的创新技术。"
+        },
         {
             "documentId": "US-20240262428-A1",
             "datePublished": "2024-08-08",
@@ -10,7 +19,6 @@ export const teslapatentData: any =
             "patentNumber": "20240262428",
             "inventors": "Stack; Marcus et al.",
             "pageCount": 14,
-            "type": null,
             "AI_Opinion": "专利可能涉及车辆集成组件技术，如高效能源管理系统、智能驾驶辅助系统、轻量化材料应用，以及提升安全性和性能的创新设计。"
         },
         {
