@@ -115,6 +115,8 @@ if __name__ == "__main__":
     #add all AI_Opinin to original data
     for doc in all_patent_data["docs"]:
         doc["AI_Opinion"] = 429
+        if 'type' in doc:
+            del doc['type']
 
 
     print(all_patent_data["numFound"])

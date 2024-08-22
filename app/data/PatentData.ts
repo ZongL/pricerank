@@ -1,8 +1,44 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1196,
+    "numFound": 1200,
     "docs": [
+        {
+            "documentId": "US-20240278617-A1",
+            "datePublished": "2024-08-22",
+            "title": "ELECTRIC VEHICLE HEAT PUMP USING ENHANCED VALVE UNIT",
+            "patentNumber": "20240278617",
+            "inventors": "Pinto; Prem et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及使用改进的阀门单元来增强电动汽车的热泵系统，以提高能效和性能。"
+        },
+        {
+            "documentId": "US-20240278745-A1",
+            "datePublished": "2024-08-22",
+            "title": "VEHICLE HOOD HINGE ASSEMBLY",
+            "patentNumber": "20240278745",
+            "inventors": "Rahman; Rafath et al.",
+            "pageCount": 26,
+            "AI_Opinion": "专利可能涉及汽车引擎盖铰链的创新设计，改进了强度、耐用性或开启机制，以提升车辆性能和维护便捷性。"
+        },
+        {
+            "documentId": "US-20240280130-A1",
+            "datePublished": "2024-08-22",
+            "title": "TAPERED THREAD-FORMING FASTENERS",
+            "patentNumber": "20240280130",
+            "inventors": "Antoun; Christopher Adam et al.",
+            "pageCount": 26,
+            "AI_Opinion": "专利标题\"TAPERED THREAD-FORMING FASTENERS\"暗示了一种具有锥形螺纹的紧固件。可能的技术包括：锥形螺纹设计，用于提高紧固力和适应性；螺纹形成技术，可能涉及特殊的制造工艺以形成锥形螺纹；以及可能的紧固件应用场景，如汽车制造。"
+        },
+        {
+            "documentId": "US-20240278358-A1",
+            "datePublished": "2024-08-22",
+            "title": "ALUMINUM ALLOYS FOR BRAZABLE CASTING",
+            "patentNumber": "20240278358",
+            "inventors": "Pattinson; Grant et al.",
+            "pageCount": 7,
+            "AI_Opinion": "专利可能涉及用于可焊接铸造的铝合金材料，可能包括合金成分、铸造工艺和提高焊接性能的方法。"
+        },
         {
             "documentId": "US-20240270577-A1",
             "datePublished": "2024-08-15",
