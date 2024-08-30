@@ -1,8 +1,53 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1200,
+    "numFound": 1205,
     "docs": [
+        {
+            "documentId": "US-20240287008-A1",
+            "datePublished": "2024-08-29",
+            "title": "METHOD FOR THE SYNTHESIS OF 3-R-1,4,2-DIOXAZOL-5-ONES",
+            "patentNumber": "20240287008",
+            "inventors": "Hall; David S. et al.",
+            "pageCount": 45,
+            "AI_Opinion": "该专利标题指的是一种合成3-R-1,4,2-二氧杂环戊酮的方法。可能涉及特定官能团的合成技术，用于药物化学或材料科学。"
+        },
+        {
+            "documentId": "US-20240287664-A1",
+            "datePublished": "2024-08-29",
+            "title": "ULTRA-HARD COLD-WORKED STEEL ALLOY",
+            "patentNumber": "20240287664",
+            "inventors": "Komai; Ricardo et al.",
+            "pageCount": 31,
+            "AI_Opinion": "\"Ultra-hard\" 暗示材料具有极高的硬度，\"cold-worked\" 指在低温下通过塑性变形加工，\"steel alloy\" 表示是钢合金。可能涉及高强度、耐磨性、耐腐蚀性技术。"
+        },
+        {
+            "documentId": "US-20240286449-A1",
+            "datePublished": "2024-08-29",
+            "title": "COMPLIANT MECHANISM FOR SUSPENSION HEIGHT SENSOR",
+            "patentNumber": "20240286449",
+            "inventors": "Nordman; Douglas et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及一种自适应悬挂系统，用于车辆悬挂高度的自动调整，可能包括传感器、执行器和控制算法，以实现更好的驾驶性能和舒适性。"
+        },
+        {
+            "documentId": "US-20240292515-A1",
+            "datePublished": "2024-08-29",
+            "title": "PRESS-FIT FASTENERS FOR SECURING COMPONENTS TOGETHER",
+            "patentNumber": "20240292515",
+            "inventors": "Hasan; Rameez et al.",
+            "pageCount": 33,
+            "AI_Opinion": "专利标题“PRESS-FIT FASTENERS FOR SECURING COMPONENTS TOGETHER”暗示了一种用于将组件固定在一起的压配合紧固件技术。可能涉及无需焊接或螺丝的组件固定方法，可能利用材料弹性或结构设计实现紧密连接。"
+        },
+        {
+            "documentId": "US-20240288541-A1",
+            "datePublished": "2024-08-29",
+            "title": "DETERMINING ANTENNA PHASE CENTER USING BASEBAND DATA",
+            "patentNumber": "20240288541",
+            "inventors": "Konanur; Anand S. et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及使用基带数据来确定天线相位中心的技术，这可能包括信号处理算法，用于提高定位精度或通信性能。"
+        },
         {
             "documentId": "US-20240278617-A1",
             "datePublished": "2024-08-22",
