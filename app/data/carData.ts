@@ -53,10 +53,10 @@ export const cardata_all_new = [
       brand: '特斯拉',
       linkurl: 'https://www.tesla.cn/',
       detaildata: [
-        ['Model 3', 245900],
-        ['Model Y', 258900],
-        ['Model S', 698900],
-        ['Model X', 738900]
+        ['Model 3', 231900],
+        ['Model Y', 249900],
+        ['Model S', 684900],
+        ['Model X', 724900]
       ]
     },
     {
