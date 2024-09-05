@@ -1,8 +1,44 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1205,
+    "numFound": 1209,
     "docs": [
+        {
+            "documentId": "US-20240294048-A1",
+            "datePublished": "2024-09-05",
+            "title": "VEHICLE SUSPENSION CONTROL SYSTEM",
+            "patentNumber": "20240294048",
+            "inventors": "Frye; Blane et al.",
+            "pageCount": 16,
+            "AI_Opinion": "特斯拉的“车辆悬挂控制系统”专利可能涉及先进的悬挂技术，如自适应减震、智能传感器、实时路况分析和自动调节悬挂硬度，以提高舒适性和操控性。"
+        },
+        {
+            "documentId": "US-20240296330-A1",
+            "datePublished": "2024-09-05",
+            "title": "NEURAL NETWORKS FOR EMBEDDED DEVICES",
+            "patentNumber": "20240296330",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及用于嵌入式设备的神经网络技术，包括轻量级模型设计、优化算法、低功耗硬件集成和实时数据处理。"
+        },
+        {
+            "documentId": "US-12078236-B2",
+            "datePublished": "2024-09-03",
+            "title": "Electric drive unit with gear shaft, rotor shaft and three bearings",
+            "patentNumber": "12078236",
+            "inventors": "Dellal; Benjamin et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及一种电驱动单元，具有齿轮轴、转子轴和三个轴承。技术可能包括高效电机设计、轴承配置优化、减少能量损耗和提高扭矩输出。"
+        },
+        {
+            "documentId": "US-12079723-B2",
+            "datePublished": "2024-09-03",
+            "title": "Optimizing neural network structures for embedded systems",
+            "patentNumber": "12079723",
+            "inventors": "Sidhu; Harsimran Singh et al.",
+            "pageCount": 28,
+            "AI_Opinion": "该专利可能涉及优化神经网络架构，以适应嵌入式系统的资源限制，提高效率和性能。"
+        },
         {
             "documentId": "US-20240287008-A1",
             "datePublished": "2024-08-29",
