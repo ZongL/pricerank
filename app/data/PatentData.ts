@@ -1,8 +1,35 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1209,
+    "numFound": 1212,
     "docs": [
+        {
+            "documentId": "US-12086097-B2",
+            "datePublished": "2024-09-10",
+            "title": "Vector computational unit",
+            "patentNumber": "12086097",
+            "inventors": "Das Sarma; Debjit et al.",
+            "pageCount": 37,
+            "AI_Opinion": "Tesla的\"Vector Computational Unit\"专利可能涉及高性能计算技术，用于优化电动汽车的电池管理、自动驾驶算法和数据处理。"
+        },
+        {
+            "documentId": "US-12083875-B2",
+            "datePublished": "2024-09-10",
+            "title": "Integrated tonneau cover for a vehicle",
+            "patentNumber": "12083875",
+            "inventors": "Pattabhiraman; Arvind et al.",
+            "pageCount": 14,
+            "AI_Opinion": "Tesla的这项专利可能涉及一种集成式车用货箱盖，技术可能包括自动开合、太阳能集成、智能材料和防水设计。"
+        },
+        {
+            "documentId": "US-12088144-B2",
+            "datePublished": "2024-09-10",
+            "title": "Stator for an electric motor",
+            "patentNumber": "12088144",
+            "inventors": "Christie; Kalonica et al.",
+            "pageCount": 14,
+            "AI_Opinion": "特斯拉的“Stator for an electric motor”专利可能涉及电机定子的创新设计，如改进的绕组布局、材料使用或冷却系统，以提高效率和性能。"
+        },
         {
             "documentId": "US-20240294048-A1",
             "datePublished": "2024-09-05",
