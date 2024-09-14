@@ -1,8 +1,17 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1212,
+    "numFound": 1213,
     "docs": [
+        {
+            "documentId": "US-20240304003-A1",
+            "datePublished": "2024-09-12",
+            "title": "PREDICTING THREE-DIMENSIONAL FEATURES FOR AUTONOMOUS DRIVING",
+            "patentNumber": "20240304003",
+            "inventors": "Elluswamy; Ashok Kumar et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及使用传感器数据和机器学习算法预测自动驾驶车辆周围环境的三维特征，如物体形状、距离和运动轨迹，以提高导航准确性和安全性。"
+        },
         {
             "documentId": "US-12086097-B2",
             "datePublished": "2024-09-10",
