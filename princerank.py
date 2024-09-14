@@ -3,6 +3,8 @@ import requests
 import json
 import time
 
+'''this script will read patents from USPTO then write result to 'tesla_patents_data.json', and compare with 'tesla_patents_data_ai.json', so you have to create a json file with this name, the content can get from PatentData.ts'''
+
 mykimi_key = "replaceyourkey"
 
 
