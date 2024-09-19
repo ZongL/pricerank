@@ -1,8 +1,26 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1213,
+    "numFound": 1215,
     "docs": [
+        {
+            "documentId": "US-20240314980-A1",
+            "datePublished": "2024-09-19",
+            "title": "COLD PLATE WITH INTEGRATED SLIDING PEDESTAL AND PROCESSING SYSTEM INCLUDING THE SAME",
+            "patentNumber": "20240314980",
+            "inventors": "Nasr; Mohamed Haitham Helmy et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利可能涉及一种集成滑动底座的冷却板，用于提高热管理效率，可能用于电动汽车电池或电子设备冷却系统。"
+        },
+        {
+            "documentId": "US-20240312863-A1",
+            "datePublished": "2024-09-19",
+            "title": "ELECTRONIC ASSEMBLIES AND METHODS OF MANUFACTURING THE SAME",
+            "patentNumber": "20240312863",
+            "inventors": "Li; Yong guo et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及电子组件的创新设计和制造方法，包括提高组装效率、增强性能、降低成本或优化散热等技术。"
+        },
         {
             "documentId": "US-20240304003-A1",
             "datePublished": "2024-09-12",
