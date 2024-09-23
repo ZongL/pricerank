@@ -22,11 +22,12 @@ const datas = {
     "title",
     "datePublished",
     "inventors",
-    "pageCount"
+    "pageCount",
+    "type"
   ],
   op: "AND",
   pageSize: 50,
-  q: "(tesla).aanm. NOT (Biohealing).aanm.",
+  q: "(TESLA).as. NOT (Biohealing).as.",
   searchType: 0,
   sort: "date_publ desc"
 };
