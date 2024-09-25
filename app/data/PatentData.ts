@@ -1,8 +1,35 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1215,
+    "numFound": 1218,
     "docs": [
+        {
+            "documentId": "US-12100812-B2",
+            "datePublished": "2024-09-24",
+            "title": "Battery systems based on two-additive electrolyte system",
+            "patentNumber": "12100812",
+            "inventors": "Dahn; Jeffery R. et al.",
+            "pageCount": 54,
+            "AI_Opinion": "该专利可能涉及使用两种添加剂的电解质系统来提高电池性能，可能包括提高能量密度、安全性和循环寿命。"
+        },
+        {
+            "documentId": "US-12099328-B2",
+            "datePublished": "2024-09-24",
+            "title": "Holographic decorated glass for screen color matching",
+            "patentNumber": "12099328",
+            "inventors": "Gougoussis; Christos",
+            "pageCount": 10,
+            "AI_Opinion": "特斯拉专利“Holographic decorated glass for screen color matching”可能涉及使用全息技术在玻璃上创建装饰图案，以改善屏幕色彩匹配和视觉效果。"
+        },
+        {
+            "documentId": "US-12099363-B2",
+            "datePublished": "2024-09-24",
+            "title": "Autonomous driving system emergency signaling",
+            "patentNumber": "12099363",
+            "inventors": "Cave; Michael D.",
+            "pageCount": 25,
+            "AI_Opinion": "1. 紧急信号检测：识别车辆紧急情况。\n2. 自动驾驶系统响应：系统自动采取措施。\n3. 通信协议：与其他车辆或基础设施通信。\n4. 用户界面：向驾驶员显示紧急信息。"
+        },
         {
             "documentId": "US-20240314980-A1",
             "datePublished": "2024-09-19",
