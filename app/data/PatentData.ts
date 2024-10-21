@@ -1,8 +1,26 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1218,
+    "numFound": 1220,
     "docs": [
+        {
+            "documentId": "US-12115973-B2",
+            "datePublished": "2024-10-15",
+            "title": "Adjustable suspension for a vehicle",
+            "patentNumber": "12115973",
+            "inventors": "Van Rooyen; Joel et al.",
+            "pageCount": 16,
+            "AI_Opinion": "Tesla的这项专利可能涉及可调悬挂系统，用于提升车辆性能和舒适度。该技术可能包括传感器、控制算法和执行器，以自动调整悬挂硬度和高度，适应不同路况和驾驶模式。"
+        },
+        {
+            "documentId": "US-20240333660-A1",
+            "datePublished": "2024-10-03",
+            "title": "VEHICLE NETWORK AND METHOD OF COMMUNICATION",
+            "patentNumber": "20240333660",
+            "inventors": "Esmail; Adnan et al.",
+            "pageCount": 11,
+            "AI_Opinion": "特斯拉的这项专利可能涉及车辆网络通信技术，包括车辆间数据交换、网络架构、安全协议等。"
+        },
         {
             "documentId": "US-12100812-B2",
             "datePublished": "2024-09-24",
