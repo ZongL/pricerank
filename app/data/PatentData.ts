@@ -1,8 +1,98 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1220,
+    "numFound": 1230,
     "docs": [
+        {
+            "documentId": "US-20240356059-A1",
+            "datePublished": "2024-10-24",
+            "title": "PRELITHIATED HYBRIDIZED ENERGY STORAGE DEVICE",
+            "patentNumber": "20240356059",
+            "inventors": "Duong; Hieu Minh et al.",
+            "pageCount": 27,
+            "AI_Opinion": "预锂化混合能量存储设备可能涉及预充锂技术，用于提高电池性能和寿命。预锂化指在电池制造过程中预先添加锂，以补偿后续使用中的锂损耗。混合可能指结合不同类型电池技术，如锂离子与超级电容器，以优化能量密度和功率输出。"
+        },
+        {
+            "documentId": "US-20240351546-A1",
+            "datePublished": "2024-10-24",
+            "title": "BIASED BAG WRAP FOR RIMLESS STEERING WHEEL",
+            "patentNumber": "20240351546",
+            "inventors": "FISCHER; Kurt et al.",
+            "pageCount": 15,
+            "AI_Opinion": "这项专利可能涉及一种用于无框方向盘的偏置式气囊包裹技术。它可能包括改进的气囊设计，以提高安全性和舒适性。"
+        },
+        {
+            "documentId": "US-20240353905-A1",
+            "datePublished": "2024-10-24",
+            "title": "COMPUTING SYSTEM WITH VERTICAL CLOCK DELIVERY ARCHITECTURE",
+            "patentNumber": "20240353905",
+            "inventors": "Zhao; Jin et al.",
+            "pageCount": 10,
+            "AI_Opinion": "垂直时钟传递架构的计算系统可能涉及高效的时钟分配和同步技术，用于提升数据处理速度和系统性能。"
+        },
+        {
+            "documentId": "US-20240357729-A1",
+            "datePublished": "2024-10-24",
+            "title": "COLD PLATE HAVING OPENING AND RELATED SYSTEMS",
+            "patentNumber": "20240357729",
+            "inventors": "Nasr; Mohamed Haitham Helmy et al.",
+            "pageCount": 23,
+            "AI_Opinion": "特斯拉的这项专利可能涉及一种带有开口的冷却板及其相关系统，用于电池冷却或热管理系统，可能采用液体冷却技术，以提高能效和性能。"
+        },
+        {
+            "documentId": "US-20240355132-A1",
+            "datePublished": "2024-10-24",
+            "title": "VISION-BASED SYSTEM TRAINING WITH SIMULATED CONTENT",
+            "patentNumber": "20240355132",
+            "inventors": "Duan; Pengfei Phil et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及使用模拟内容训练基于视觉的系统，以提高自动驾驶汽车的感知能力。"
+        },
+        {
+            "documentId": "US-20240356867-A1",
+            "datePublished": "2024-10-24",
+            "title": "COMMUNICATION LATENCY MITIGATION FOR ON-CHIP NETWORKS",
+            "patentNumber": "20240356867",
+            "inventors": "Williams; Douglas R.",
+            "pageCount": 15,
+            "AI_Opinion": "这篇专利可能涉及减少芯片内部网络通信延迟的技术，可能包括优化数据传输路径、改进路由算法、使用缓冲策略或提升网络带宽等。"
+        },
+        {
+            "documentId": "US-20240357769-A1",
+            "datePublished": "2024-10-24",
+            "title": "HETEROGENOUS MULTI-LAYER STRUCTURE",
+            "patentNumber": "20240357769",
+            "inventors": "Sun; Shishuang et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及多层异质结构，用于增强材料性能，例如电池、电子设备或车辆部件。"
+        },
+        {
+            "documentId": "US-20240356285-A1",
+            "datePublished": "2024-10-24",
+            "title": "CONNECTOR SYSTEM FOR CONNECTING PROCESSOR SYSTEMS AND RELATED METHODS",
+            "patentNumber": "20240356285",
+            "inventors": "Li; Yong guo et al.",
+            "pageCount": 27,
+            "AI_Opinion": "这项专利可能涉及处理器系统间的连接技术，包括创新的连接器设计、高效数据传输方法和系统同步策略。"
+        },
+        {
+            "documentId": "US-20240356255-A1",
+            "datePublished": "2024-10-24",
+            "title": "ARRAY OF COMPLIANT CONNECTORS FOR ELECTRONIC ASSEMBLIES",
+            "patentNumber": "20240356255",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及柔性连接器阵列，用于提高电子组件连接的可靠性和适应性。"
+        },
+        {
+            "documentId": "US-12122274-B2",
+            "datePublished": "2024-10-22",
+            "title": "Vehicle seat with integrated temperature-control system",
+            "patentNumber": "12122274",
+            "inventors": "Gupta; Gaurang et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及集成温度控制系统的汽车座椅技术，包括座椅加热、冷却功能，以及可能的传感器和微控制器来调节温度，以提升乘客舒适度。"
+        },
         {
             "documentId": "US-12115973-B2",
             "datePublished": "2024-10-15",
