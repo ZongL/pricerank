@@ -1,8 +1,53 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1230,
+    "numFound": 1235,
     "docs": [
+        {
+            "documentId": "US-20240372200-A1",
+            "datePublished": "2024-11-07",
+            "title": "INTEGRATED ENERGY STORAGE SYSTEM",
+            "patentNumber": "20240372200",
+            "inventors": "Pires; Andrew et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及集成式能源存储系统，包括电池技术、能量管理、模块化设计和优化充放电效率。"
+        },
+        {
+            "documentId": "US-20240366820-A1",
+            "datePublished": "2024-11-07",
+            "title": "Devices Incorporating Decontamination Means Therein",
+            "patentNumber": "20240366820",
+            "inventors": "TASIC; Lou",
+            "pageCount": 42,
+            "AI_Opinion": "该专利可能涉及内置消毒设备的特斯拉产品，技术可能包括紫外线消毒、空气过滤、表面消毒等。"
+        },
+        {
+            "documentId": "US-20240370070-A1",
+            "datePublished": "2024-11-07",
+            "title": "MULTI-STAGE ARRAY BASED VERTICALLY INTEGRATED POWER DELIVERY",
+            "patentNumber": "20240370070",
+            "inventors": "Zhao; Jin et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及多层阵列式垂直集成电力传输技术，旨在提高电力传输效率和密度。"
+        },
+        {
+            "documentId": "US-12136030-B2",
+            "datePublished": "2024-11-05",
+            "title": "System and method for adapting a neural network model on a hardware platform",
+            "patentNumber": "12136030",
+            "inventors": "Driscoll; Michael",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及神经网络模型在硬件平台上的自适应技术，包括模型优化、硬件加速和性能调整。"
+        },
+        {
+            "documentId": "US-20240363485-A1",
+            "datePublished": "2024-10-31",
+            "title": "ELECTRONIC ASSEMBLIES WITH INTERPOSER ASSEMBLY",
+            "patentNumber": "20240363485",
+            "inventors": "Li; Yong guo",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及电子组件与插层组件的集成技术，用于提高电路性能和可靠性。"
+        },
         {
             "documentId": "US-20240356059-A1",
             "datePublished": "2024-10-24",
