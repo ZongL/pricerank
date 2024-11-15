@@ -1,8 +1,26 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1235,
+    "numFound": 1237,
     "docs": [
+        {
+            "documentId": "US-20240378896-A1",
+            "datePublished": "2024-11-14",
+            "title": "DETECTED OBJECT PATH PREDICTION FOR VISION-BASED SYSTEMS",
+            "patentNumber": "20240378896",
+            "inventors": "Vasudevan; Nanda Kishore et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及基于视觉系统的物体路径预测技术，包括图像识别、物体追踪和未来路径预测算法。"
+        },
+        {
+            "documentId": "US-20240378899-A1",
+            "datePublished": "2024-11-14",
+            "title": "VISION-BASED SYSTEM TRAINING WITH SIMULATED CONTENT",
+            "patentNumber": "20240378899",
+            "inventors": "Abfall; David et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及使用模拟内容训练基于视觉的系统，技术可能包括计算机视觉、机器学习、图像处理和仿真技术。"
+        },
         {
             "documentId": "US-20240372200-A1",
             "datePublished": "2024-11-07",
