@@ -1,8 +1,44 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1237,
+    "numFound": 1241,
     "docs": [
+        {
+            "documentId": "US-20240383297-A1",
+            "datePublished": "2024-11-21",
+            "title": "SUSPENSION ACTUATOR SYSTEM FOR A VEHICLE",
+            "patentNumber": "20240383297",
+            "inventors": "Doorlag; Brian Lee et al.",
+            "pageCount": 9,
+            "AI_Opinion": "该专利可能涉及汽车悬挂执行器系统，用于改善车辆操控性和舒适性，可能包括传感器、控制器和执行器等技术。"
+        },
+        {
+            "documentId": "US-20240388629-A1",
+            "datePublished": "2024-11-21",
+            "title": "VEHICLE DATA ACCESS",
+            "patentNumber": "20240388629",
+            "inventors": "Gugle; Karan et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及车辆数据的获取、处理和安全访问技术，可能包括数据加密、用户认证和远程访问控制。"
+        },
+        {
+            "documentId": "US-20240383432-A1",
+            "datePublished": "2024-11-21",
+            "title": "INDUCTIVE SENSING FOR VEHICLE INTERFACES",
+            "patentNumber": "20240383432",
+            "inventors": "Lau; Pak Heng et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该技术可能涉及利用感应技术来实现车辆界面与用户或其他设备的交互。"
+        },
+        {
+            "documentId": "US-20240383770-A1",
+            "datePublished": "2024-11-21",
+            "title": "DOPED CATHODE ACTIVE MATERIALS AND METHODS THEREOF",
+            "patentNumber": "20240383770",
+            "inventors": "Li; Jianyu et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及掺杂阴极活性材料及其制备方法，可能涉及提高电池性能的新型材料技术。"
+        },
         {
             "documentId": "US-20240378896-A1",
             "datePublished": "2024-11-14",
