@@ -1,8 +1,107 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1241,
+    "numFound": 1252,
     "docs": [
+        {
+            "documentId": "US-20240399837-A1",
+            "datePublished": "2024-12-05",
+            "title": "TECHNOLOGIES FOR MANIFOLDS",
+            "patentNumber": "20240399837",
+            "inventors": "Calderone; John David",
+            "pageCount": 20,
+            "AI_Opinion": "\"TECHNOLOGIES FOR MANIFOLDS\" 可能涉及特斯拉在管道或多通道系统（如汽车排气系统）的技术，包括设计、材料和制造方法，以提高效率和性能。"
+        },
+        {
+            "documentId": "US-20240399838-A1",
+            "datePublished": "2024-12-05",
+            "title": "TECHNOLOGIES FOR MANIFOLDS",
+            "patentNumber": "20240399838",
+            "inventors": "Calderone; John David",
+            "pageCount": 19,
+            "AI_Opinion": "\"Manifolds\" 可能涉及多通道流体系统、数据流处理或拓扑学应用。技术可能包括流体动力学优化、数据集成和网络拓扑结构设计。"
+        },
+        {
+            "documentId": "US-20240406333-A1",
+            "datePublished": "2024-12-05",
+            "title": "KINEMATIC ASSESSMENT AND VERIFICATION OF PAPER DOCUMENTS FOR PROCESSING AND ANALYSIS THEREOF",
+            "patentNumber": "20240406333",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 36,
+            "AI_Opinion": "这项技术可能涉及通过运动学方法评估和验证纸质文件，以便进行处理和分析。"
+        },
+        {
+            "documentId": "US-20240406094-A1",
+            "datePublished": "2024-12-05",
+            "title": "BYPASS ROUTING",
+            "patentNumber": "20240406094",
+            "inventors": "Williams; Douglas R.",
+            "pageCount": 16,
+            "AI_Opinion": "\"BYPASS ROUTING\"可能涉及绕过传统路由技术，提高数据传输效率和速度，可能包括网络优化、直接连接或分布式处理。"
+        },
+        {
+            "documentId": "US-20240399865-A1",
+            "datePublished": "2024-12-05",
+            "title": "INTRUSION PROTECTED USER INTERFACE AND FUNCTIONALITY FOR VEHICLE USING EMBEDDED CONTROLLER",
+            "patentNumber": "20240399865",
+            "inventors": "Exe; David et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及使用嵌入式控制器保护车辆用户界面免受入侵，增强安全性和功能。"
+        },
+        {
+            "documentId": "US-12159981-B2",
+            "datePublished": "2024-12-03",
+            "title": "Apparatus and method for detection of deformation in battery cells",
+            "patentNumber": "12159981",
+            "inventors": "Kahn; Michael",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及电池变形检测装置和方法，包括传感器、数据分析和预警系统，以确保电池安全和性能。"
+        },
+        {
+            "documentId": "US-12158397-B1",
+            "datePublished": "2024-12-03",
+            "title": "Systems and methods for conditional time near ambient monitoring and detection of leaks",
+            "patentNumber": "12158397",
+            "inventors": "Tesla; Marlon J.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及监测和检测泄漏的系统与方法，包括在常温条件下对时间敏感的泄漏检测技术。"
+        },
+        {
+            "documentId": "US-20240396125-A1",
+            "datePublished": "2024-11-28",
+            "title": "BATTERY PRESSURIZATION SYSTEM",
+            "patentNumber": "20240396125",
+            "inventors": "Gregoris; Luke David James et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及电池包压力控制系统，用于维持电池性能和安全，可能包括压力监测、调节和安全阀设计。"
+        },
+        {
+            "documentId": "US-20240391155-A1",
+            "datePublished": "2024-11-28",
+            "title": "FIBER COMPOSITE STRUCTURE",
+            "patentNumber": "20240391155",
+            "inventors": "Shenk; Kevin et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及纤维复合材料结构，用于提高强度、减轻重量，可能应用于汽车、航天或建筑。"
+        },
+        {
+            "documentId": "US-12151539-B2",
+            "datePublished": "2024-11-26",
+            "title": "Technologies for manifolds",
+            "patentNumber": "12151539",
+            "inventors": "Calderone; John David",
+            "pageCount": 20,
+            "AI_Opinion": "Tesla的\"Technologies for manifolds\"可能涉及创新的管道系统技术，包括管道设计、材料、连接方式和制造工艺。"
+        },
+        {
+            "documentId": "US-12151673-B2",
+            "datePublished": "2024-11-26",
+            "title": "Adjustable suspension for a vehicle",
+            "patentNumber": "12151673",
+            "inventors": "Van Rooyen; Joel et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及车辆可调悬挂系统，包括传感器、控制算法和执行器，以优化行驶性能和舒适性。"
+        },
         {
             "documentId": "US-20240383297-A1",
             "datePublished": "2024-11-21",
