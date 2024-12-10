@@ -11,7 +11,7 @@ const ScatterPlot = () => {
     const yAxisData = cardata_all_new.flatMap(brandData => brandData.detaildata.map(car => car[1]));
     const option = {
       title: {
-        text: ' 汽车价格分布图',
+        text: ' 汽车价格分布图（数据日期：2024-09-02）',
         left: 'center'
       },
       tooltip: {
