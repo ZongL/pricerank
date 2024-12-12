@@ -1,8 +1,35 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1252,
+    "numFound": 1255,
     "docs": [
+        {
+            "documentId": "US-20240413679-A1",
+            "datePublished": "2024-12-12",
+            "title": "INTEGRATED COMPONENTS FOR VEHICLES",
+            "patentNumber": "20240413679",
+            "inventors": "Silva; Diego et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及车辆集成组件技术，如电池、电机、传感器等的一体化设计，以提升性能和效率。"
+        },
+        {
+            "documentId": "US-20240409792-A1",
+            "datePublished": "2024-12-12",
+            "title": "CURABLE ELECTRICAL JOINT COMPOSITION",
+            "patentNumber": "20240409792",
+            "inventors": "Hall-Snyder; Nathaniel et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及一种可固化的电气接头材料，用于连接电线或组件，提高电气连接稳定性和可靠性。"
+        },
+        {
+            "documentId": "US-12164310-B2",
+            "datePublished": "2024-12-10",
+            "title": "Autonomous and user controlled vehicle summon to a target",
+            "patentNumber": "12164310",
+            "inventors": "Musk; Elon et al.",
+            "pageCount": 30,
+            "AI_Opinion": "这篇特斯拉专利可能涉及自动驾驶技术，包括车辆自动导航至指定目标点，以及用户远程控制车辆到达目的地。"
+        },
         {
             "documentId": "US-20240399837-A1",
             "datePublished": "2024-12-05",
