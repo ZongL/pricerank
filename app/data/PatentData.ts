@@ -1,8 +1,17 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1255,
+    "numFound": 1256,
     "docs": [
+        {
+            "documentId": "US-12169443-B2",
+            "datePublished": "2024-12-17",
+            "title": "Parallel processing system runtime state reload",
+            "patentNumber": "12169443",
+            "inventors": "Bailey; Daniel William et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及一种并行处理系统的运行时状态重载技术，用于快速恢复系统状态，提高效率和可靠性。"
+        },
         {
             "documentId": "US-20240413679-A1",
             "datePublished": "2024-12-12",
