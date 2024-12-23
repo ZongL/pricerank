@@ -1,8 +1,62 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1256,
+    "numFound": 1262,
     "docs": [
+        {
+            "documentId": "US-20240419968-A1",
+            "datePublished": "2024-12-19",
+            "title": "OPTIMIZING NEURAL NETWORK STRUCTURES FOR EMBEDDED SYSTEMS",
+            "patentNumber": "20240419968",
+            "inventors": "Sidhu; Harsimran Singh et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及优化神经网络结构以适应嵌入式系统，包括减少计算复杂度、内存占用，以及提高能效。"
+        },
+        {
+            "documentId": "US-20240419393-A1",
+            "datePublished": "2024-12-19",
+            "title": "VEHICLE AUDIO OUTPUTS",
+            "patentNumber": "20240419393",
+            "inventors": "Small; Evan et al.",
+            "pageCount": 15,
+            "AI_Opinion": "Tesla的\"VEHICLE AUDIO OUTPUTS\"专利可能涉及车内音响系统技术，如扬声器布局、声音优化、噪音消除和乘客个性化音频体验。"
+        },
+        {
+            "documentId": "US-20240420513-A1",
+            "datePublished": "2024-12-19",
+            "title": "PSEUDONYMOUS LOGGING AND DIRECTIVES",
+            "patentNumber": "20240420513",
+            "inventors": "Wood; Ming et al.",
+            "pageCount": 29,
+            "AI_Opinion": "该专利可能涉及匿名日志记录技术和指令集，用于保护用户隐私同时收集数据。"
+        },
+        {
+            "documentId": "US-20240420516-A1",
+            "datePublished": "2024-12-19",
+            "title": "CONDITIONAL VEHICLE DATA ACCESS GRANTING TO THIRD PARTIES BASED ON GEOGRAPHIC INFORMATION OF RELATIVE POSITION BETWEEN VEHICLE AND THIRD PARTIES",
+            "patentNumber": "20240420516",
+            "inventors": "Zhang; Theodore et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及基于车辆与第三方相对位置的地理信息，实现对第三方有条件的车辆数据访问控制技术。"
+        },
+        {
+            "documentId": "US-20240418223-A1",
+            "datePublished": "2024-12-19",
+            "title": "ISOLATED ELECTRIC COUPLER",
+            "patentNumber": "20240418223",
+            "inventors": "Graves; Scott Michael et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及一种隔离式电连接器技术，用于电动汽车中，以实现电气组件间的高效、安全连接。"
+        },
+        {
+            "documentId": "US-20240419724-A1",
+            "datePublished": "2024-12-19",
+            "title": "CLIP SEARCH WITH MULTIMODAL QUERIES",
+            "patentNumber": "20240419724",
+            "inventors": "Wilson; Matthew et al.",
+            "pageCount": 35,
+            "AI_Opinion": "该专利可能涉及使用多模态查询进行图像或视频搜索的技术，结合视觉和文本信息以提高搜索准确性。"
+        },
         {
             "documentId": "US-12169443-B2",
             "datePublished": "2024-12-17",
