@@ -57,7 +57,7 @@ export default function Page() {
       <div className="flex justify-center items-center flex-col p-4 bg-gray-20">
         <footer className="footer">
         <p>© 2024{' '}
-            <a href="https://github.com/ZongL/pricerank" className="text-blue-500">
+            <a href="https://zongl.github.io/" className="text-blue-500">
               Git Source Code
           </a>
           {' '}Design By ZongL{' '}
