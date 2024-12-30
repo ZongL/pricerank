@@ -1,8 +1,17 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1262,
+    "numFound": 1263,
     "docs": [
+        {
+            "documentId": "US-20240427729-A1",
+            "datePublished": "2024-12-26",
+            "title": "VECTOR COMPUTATIONAL UNIT",
+            "patentNumber": "20240427729",
+            "inventors": "Das Sarma; Debjit et al.",
+            "pageCount": 30,
+            "AI_Opinion": "\"VECTOR COMPUTATIONAL UNIT\" 可能涉及矢量计算单元，用于高效处理向量运算，可能应用于机器学习、图形处理或高性能计算。"
+        },
         {
             "documentId": "US-20240419968-A1",
             "datePublished": "2024-12-19",
