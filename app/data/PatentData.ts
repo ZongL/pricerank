@@ -1,8 +1,98 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1263,
+    "numFound": 1273,
     "docs": [
+        {
+            "documentId": "US-20250013234-A1",
+            "datePublished": "2025-01-09",
+            "title": "AUTONOMOUS DRIVING SYSTEM EMERGENCY SIGNALING",
+            "patentNumber": "20250013234",
+            "inventors": "Cave; Michael D.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利可能涉及自动驾驶系统在紧急情况下的信号传递技术，包括传感器、通信协议和紧急响应机制。"
+        },
+        {
+            "documentId": "US-20250010760-A1",
+            "datePublished": "2025-01-09",
+            "title": "VEHICLE RESOURCE CAPACITY MANAGEMENT",
+            "patentNumber": "20250010760",
+            "inventors": "Marangone; Frederic et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及电动汽车资源管理技术，包括电池、能源、软件和硬件优化，以提高车辆性能和效率。"
+        },
+        {
+            "documentId": "US-12187222-B2",
+            "datePublished": "2025-01-07",
+            "title": "Improper seatbelt usage detection",
+            "patentNumber": "12187222",
+            "inventors": "Liau; Forrest Wen",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及传感器技术、图像识别、数据分析和机器学习算法，用于检测安全带使用不当。"
+        },
+        {
+            "documentId": "US-20250006583-A1",
+            "datePublished": "2025-01-02",
+            "title": "SEMICONDUCTOR PACKAGE WITH PRE-FORMED DIE CLIP AND LEAD FRAME",
+            "patentNumber": "20250006583",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 32,
+            "AI_Opinion": "该专利涉及预制芯片夹和引线框架的半导体封装技术，可能包括芯片固定、引线连接和封装结构设计。"
+        },
+        {
+            "documentId": "US-20250006600-A1",
+            "datePublished": "2025-01-02",
+            "title": "SEMICONDUCTOR PACKAGE WITH NESTED LEAD STRUCTURE",
+            "patentNumber": "20250006600",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 32,
+            "AI_Opinion": "该专利可能涉及一种半导体封装技术，使用嵌套引线结构以提高集成度和性能。"
+        },
+        {
+            "documentId": "US-20250002003-A1",
+            "datePublished": "2025-01-02",
+            "title": "ADJUSTABLE SUSPENSION FOR A VEHICLE",
+            "patentNumber": "20250002003",
+            "inventors": "Van Rooyen; Joel Timothy et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及车辆可调悬挂系统，包括悬挂组件、传感器、控制系统等，以适应不同路况和驾驶需求。"
+        },
+        {
+            "documentId": "US-20250005343-A1",
+            "datePublished": "2025-01-02",
+            "title": "SYSTEM AND METHOD FOR ADAPTING A NEURAL NETWORK MODEL ON A HARDWARE PLATFORM",
+            "patentNumber": "20250005343",
+            "inventors": "Driscoll; Michael",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及神经网络模型在硬件平台上的自适应技术，包括模型优化、硬件加速和性能调整。"
+        },
+        {
+            "documentId": "US-20250007267-A1",
+            "datePublished": "2025-01-02",
+            "title": "COOLED BUSBAR FOR ELECTRIC POWER DISTRIBUTION",
+            "patentNumber": "20250007267",
+            "inventors": "Prasad; Neil et al.",
+            "pageCount": 34,
+            "AI_Opinion": "该专利可能涉及用于电力分配的冷却母线技术，旨在提高效率、降低过热风险。"
+        },
+        {
+            "documentId": "US-20250006602-A1",
+            "datePublished": "2025-01-02",
+            "title": "SEMICONDUCTOR PACKAGE WITH DIRECTIONAL LOCKING STRUCTURE",
+            "patentNumber": "20250006602",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 32,
+            "AI_Opinion": "该专利可能涉及具有定向锁定机构的半导体封装技术，用于提高连接稳定性和可靠性。"
+        },
+        {
+            "documentId": "US-12179682-B2",
+            "datePublished": "2024-12-31",
+            "title": "Biased bag wrap for rimless steering wheel",
+            "patentNumber": "12179682",
+            "inventors": "Fischer; Kurt et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及一种用于无辐方向盘的偏置式包裹技术，旨在提高包裹效果，增强驾驶舒适性和安全性。"
+        },
         {
             "documentId": "US-20240427729-A1",
             "datePublished": "2024-12-26",
