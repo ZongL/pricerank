@@ -14,6 +14,11 @@ import 'datatables.net-responsive/js/dataTables.responsive';
 
 import {NavigationPage} from '@/app/NavigationPage'
 
+// 导入Waline客户端
+
+import { init } from '@waline/client';
+import '@waline/client/style';
+
 
 export default function Patents(){
   useEffect(() => {  
@@ -33,6 +38,15 @@ export default function Patents(){
       });  
     }  
   }, []);  
+
+  useEffect(() => {
+    // 初始化Waline
+    init({
+      el: '#waline',
+      serverURL: 'https://mywalineforpricerank.vercel.app', // 你的Waline服务端地址
+    });
+  }, []);
+
   return (
      <main className="flex min-h-screen flex-col p-6">
       <div>
@@ -56,6 +70,7 @@ export default function Patents(){
         {/* <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-20"></div>     */}
     {/* </div> */}
 
+    <div id="waline" className="mt-8" style={{ width: '50%', margin: '0 auto' }}></div>
 
     </main>
   );
