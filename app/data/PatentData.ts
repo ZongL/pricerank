@@ -1,8 +1,71 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1273,
+    "numFound": 1280,
     "docs": [
+        {
+            "documentId": "US-20250028326-A1",
+            "datePublished": "2025-01-23",
+            "title": "ENHANCED USER INTERFACE GENERATION FOR PARKING BASED ON OCCUPANCY MACHINE LEARNING MODELS",
+            "patentNumber": "20250028326",
+            "inventors": "Leung; Brandon et al.",
+            "pageCount": 33,
+            "AI_Opinion": "该专利可能涉及利用机器学习模型，根据停车场占用情况生成优化的用户界面，以提高停车效率和用户体验。"
+        },
+        {
+            "documentId": "US-20250030054-A1",
+            "datePublished": "2025-01-23",
+            "title": "NOVEL BATTERY SYSTEMS BASED ON TWO-ADDITIVE ELECTROLYTE SYSTEMS",
+            "patentNumber": "20250030054",
+            "inventors": "Dahn; Jeffery R. et al.",
+            "pageCount": 53,
+            "AI_Opinion": "该专利可能涉及基于两种添加剂的新型电解质系统，用于提升电池性能和安全性。"
+        },
+        {
+            "documentId": "US-20250018818-A1",
+            "datePublished": "2025-01-16",
+            "title": "VEHICLE CHARGING MANAGEMENT BASED ON VARIABLE CHARGING WINDOWS",
+            "patentNumber": "20250018818",
+            "inventors": "Swaminathan; Anand et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及根据可变充电窗口进行车辆充电管理的技术，包括动态调整充电时间、优化电网负荷、提高充电效率和降低成本。"
+        },
+        {
+            "documentId": "US-20250018822-A1",
+            "datePublished": "2025-01-16",
+            "title": "MANAGING CHARGING STATIONS BASED ON USAGE DATA",
+            "patentNumber": "20250018822",
+            "inventors": "Potthast; James",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及使用数据来优化充电站管理，包括预测需求、调整充电速度、优化资源分配和提高充电效率。"
+        },
+        {
+            "documentId": "US-12196330-B2",
+            "datePublished": "2025-01-14",
+            "title": "Automatic reset flood valve",
+            "patentNumber": "12196330",
+            "inventors": "Hall-Snyder; Nathaniel et al.",
+            "pageCount": 19,
+            "AI_Opinion": "自动重置防洪阀可能涉及自动检测水位并控制阀门开闭的技术，以防止洪水。"
+        },
+        {
+            "documentId": "US-12198396-B2",
+            "datePublished": "2025-01-14",
+            "title": "Enhanced object detection for autonomous vehicles based on field view",
+            "patentNumber": "12198396",
+            "inventors": "Shen; Anting et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及基于视野增强的自动驾驶车辆目标检测技术，可能包括图像处理、深度学习、传感器融合等。"
+        },
+        {
+            "documentId": "US-12194913-B2",
+            "datePublished": "2025-01-14",
+            "title": "Global headlamp",
+            "patentNumber": "12194913",
+            "inventors": "Flynn; Robert",
+            "pageCount": 24,
+            "AI_Opinion": "\"Global headlamp\"可能涉及一体化车灯设计，包含先进照明技术，如LED或激光照明，以及智能光束控制，以提高能效和安全性。"
+        },
         {
             "documentId": "US-20250013234-A1",
             "datePublished": "2025-01-09",
