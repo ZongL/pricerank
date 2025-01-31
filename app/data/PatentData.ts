@@ -1,8 +1,35 @@
 export const teslapatentData: any = 
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1280,
+    "numFound": 1283,
     "docs": [
+        {
+            "documentId": "US-20250040000-A1",
+            "datePublished": "2025-01-30",
+            "title": "INDUCTION HEATER FOR CALENDAR ROLLER",
+            "patentNumber": "20250040000",
+            "inventors": "Hilgers; Andy et al.",
+            "pageCount": 37,
+            "AI_Opinion": "该专利可能涉及用于日历滚筒的感应加热技术，可能包括电磁感应加热器设计、滚筒材料选择、温度控制和热效率优化。"
+        },
+        {
+            "documentId": "US-20250033537-A1",
+            "datePublished": "2025-01-30",
+            "title": "AUTOMATIC CHILD SEAT ATTACHMENT SYSTEM",
+            "patentNumber": "20250033537",
+            "inventors": "Squires; Andrew Robert et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及自动检测并固定儿童座椅的技术，包括传感器、机械臂和安全锁定机制。"
+        },
+        {
+            "documentId": "US-12208837-B2",
+            "datePublished": "2025-01-28",
+            "title": "Integrated components for vehicles",
+            "patentNumber": "12208837",
+            "inventors": "Stack; Marcus et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及车辆集成组件技术，如电池、电机、传感器等一体化设计，以提高效率和性能。"
+        },
         {
             "documentId": "US-20250028326-A1",
             "datePublished": "2025-01-23",
