@@ -1,73 +1,64 @@
-import React from 'react';
-import { useEffect } from 'react';  
-
-import {NavigationPage} from '@/app/NavigationPage'
-
-import { teslapatentData } from "@/app/data/PatentData";
-
-import 'tailwindcss/tailwind.css'; 
-
+import React, { useEffect, useState } from 'react';
+import { NavigationPage } from '@/app/NavigationPage'
+import 'tailwindcss/tailwind.css';
 import DataTable from 'datatables.net-dt';
 import 'datatables.net-dt/css/dataTables.dataTables.css';
-import '@/app/ui/responsive.dataTables.css';  // 引入CSS文件
-import '@/app/ui/responsive.dataTables.min.css';  // 引入CSS文件
+import '@/app/ui/responsive.dataTables.css';
+import '@/app/ui/responsive.dataTables.min.css';
 import 'datatables.net-responsive/js/dataTables.responsive';
 
-export default function Patents(){
-  useEffect(() => {  
-    // 确保组件已经挂载到 DOM 上  
-    const table = document.getElementById('myTable');  
-    if (table) {  
-      //初始化 DataTables  
-      new DataTable(table, {
-        data: teslapatentData.docs,
-        columns: [
-          { data: 'documentId', orderable: false },
-          { data: 'datePublished', orderable: true },
-          { data: 'title', orderable: false },
-          { data: 'patentNumber', orderable: false },
-          { data: 'inventors', orderable: false },
-          { data: 'pageCount', orderable: false },
-          { data: 'AI_Opinion', orderable: false }
-      ],
-      // 设置默认排序
-      //responsive: true,
-    //   columnDefs: [
-    //     { responsivePriority: 10002, targets: -1 } //最后一行折叠隐藏
-    // ],
-      order: [[1, 'desc']], // 列索引1（即datePublished列）降序排序
-      paging: true
-      });  
-    }  
-  }, []);  
+export default function Patents() {
+  const [patentData, setPatentData] = useState(null);
+
+  useEffect(() => {
+    // 获取 JSON 数据
+    fetch('/tesla_patents_data_ai.json')
+      .then(response => response.json())
+      .then(data => {
+        setPatentData(data);
+        // 初始化 DataTable
+        const table = document.getElementById('myTable');
+        if (table && data) {
+          new DataTable(table, {
+            data: data.docs,
+            columns: [
+              { data: 'documentId', orderable: false },
+              { data: 'datePublished', orderable: true },
+              { data: 'title', orderable: false },
+              { data: 'patentNumber', orderable: false },
+              { data: 'inventors', orderable: false },
+              { data: 'pageCount', orderable: false },
+              { data: 'AI_Opinion', orderable: false }
+            ],
+            order: [[1, 'desc']],
+            paging: true
+          });
+        }
+      })
+      .catch(error => console.error('Error loading patent data:', error));
+  }, []);
+
   return (
-     <main className="flex min-h-screen flex-col p-6">
+    <main className="flex min-h-screen flex-col p-6">
       <div>
         <NavigationPage/>
       </div>
-    {/* <div className="mt-4 flex grow flex-col gap-4 md:flex-row"> */}
-        {/* <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-9/10 md:px-20"> */}
-              <div>  
-                <h1>Tesla patent</h1>  
-                <table id="myTable" className="display responsive" style={{ width:'100%'}}>  
-                  <thead>  
-                    <tr>  
-                    <th >Document ID</th>
-                    <th>Date Published</th>
-                    <th>Title</th>
-                    <th>Patent Number</th>
-                    <th>Inventors</th>
-                    <th>Page Count</th>
-                    <th>AI_Opinion: </th>
-                    </tr>  
-                  </thead>  
-                </table>  
-              </div>  
-        {/* </div> */}
-        {/* <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-20"></div>     */}
-    {/* </div> */}
-
-
+      <div>
+        <h1>Tesla patent</h1>
+        <table id="myTable" className="display responsive" style={{ width:'100%'}}>
+          <thead>
+            <tr>
+              <th >Document ID</th>
+              <th>Date Published</th>
+              <th>Title</th>
+              <th>Patent Number</th>
+              <th>Inventors</th>
+              <th>Page Count</th>
+              <th>AI_Opinion: </th>
+            </tr>
+          </thead>
+        </table>
+      </div>
     </main>
   );
 };
