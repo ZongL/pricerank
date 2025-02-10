@@ -146,3 +146,5 @@ if __name__ == "__main__":
 
     with open('tesla_patents_data_ai.json', 'w', encoding='utf-8') as file:
         json.dump(all_patent_merged, file, ensure_ascii=False, indent=4)
+
+    

@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1285,
+    "numFound": 1289,
     "docs": [
+        {
+            "documentId": "US-20250042364-A1",
+            "datePublished": "2025-02-06",
+            "title": "WINDSHIELD WIPER SYSTEMS",
+            "patentNumber": "20250042364",
+            "inventors": "Nashed; Daniel et al.",
+            "pageCount": 34,
+            "AI_Opinion": "Tesla的WINDSHIELD WIPER SYSTEMS专利可能涉及创新的雨刷系统，包括高效电机、智能感应技术、自动调节速度、集成摄像头和传感器以优化视野。"
+        },
+        {
+            "documentId": "US-20250042464-A1",
+            "datePublished": "2025-02-06",
+            "title": "STEER BY WIRE",
+            "patentNumber": "20250042464",
+            "inventors": "Van Rooyen; Joel et al.",
+            "pageCount": 18,
+            "AI_Opinion": "\"Steer by Wire\" 技术可能涉及电子控制转向系统，通过电信号而非传统机械连接实现转向控制，提高响应速度和精确度。"
+        },
+        {
+            "documentId": "US-20250043617-A1",
+            "datePublished": "2025-02-06",
+            "title": "POWER TAILGATE MECHANISM",
+            "patentNumber": "20250043617",
+            "inventors": "Rahman; Rafath et al.",
+            "pageCount": 14,
+            "AI_Opinion": "Tesla的“电动尾门机构”专利可能涉及电动尾门的开闭系统、传感器、控制单元和动力传输机制，以实现自动操作和优化用户体验。"
+        },
+        {
+            "documentId": "US-20250048561-A1",
+            "datePublished": "2025-02-06",
+            "title": "FIELD PROGRAMMABLE SOLDER BALL GRID ARRAY WITH EMBEDDED CONTROL SYSTEMS",
+            "patentNumber": "20250048561",
+            "inventors": "KRITHIVASAN; Vijaykumar et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及可编程焊球阵列（FPGA）技术，集成控制系统，可能用于提高电路板灵活性和性能。"
+        },
         {
             "documentId": "US-12216610-B2",
             "datePublished": "2025-02-04",
