@@ -71,8 +71,8 @@ export default function Patents(){
         </table>  
       </div>
       <div className="button-container" style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
-        <button onClick={handleZoomIn}>放大</button> 
-        <button onClick={handleZoomOut}>'  '缩小</button>
+        <button onClick={handleZoomIn}>放大'-'</button> 
+        <button onClick={handleZoomOut}>缩小</button>
       </div>
       <div className="pdf-container">
         {/* PDF显示区域 */}
