@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1289,
+    "numFound": 1291,
     "docs": [
+        {
+            "documentId": "US-20250051678-A1",
+            "datePublished": "2025-02-13",
+            "title": "MOTOR AND GEARBOX FLUID FORMULATIONS AND USES THEREOF",
+            "patentNumber": "20250051678",
+            "inventors": "Graves; Scott et al.",
+            "pageCount": 32,
+            "AI_Opinion": "该专利涉及特斯拉的电机和变速箱流体配方及其应用，可能包括新型润滑液、冷却液或性能增强剂，旨在提高效率和耐用性。"
+        },
+        {
+            "documentId": "US-12223428-B2",
+            "datePublished": "2025-02-11",
+            "title": "Generating ground truth for machine learning from time series elements",
+            "patentNumber": "12223428",
+            "inventors": "Elluswamy; Ashok Kumar et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及从时间序列数据中生成机器学习训练数据的技术，可能包括数据预处理、特征提取和标注。"
+        },
         {
             "documentId": "US-20250042364-A1",
             "datePublished": "2025-02-06",
