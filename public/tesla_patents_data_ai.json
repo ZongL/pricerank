@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1291,
+    "numFound": 1295,
     "docs": [
+        {
+            "documentId": "US-20250060705-A1",
+            "datePublished": "2025-02-20",
+            "title": "HOLOGRAPHIC DECORATED GLASS FOR SCREEN COLOR MATCHING",
+            "patentNumber": "20250060705",
+            "inventors": "Gougoussis; Christos",
+            "pageCount": 9,
+            "AI_Opinion": "这项专利可能涉及使用全息技术装饰玻璃，以实现屏幕颜色匹配。可能包括全息图案设计、玻璃材料选择和颜色调整技术。"
+        },
+        {
+            "documentId": "US-12227972-B2",
+            "datePublished": "2025-02-18",
+            "title": "Angle-detecting door handle assembly",
+            "patentNumber": "12227972",
+            "inventors": "Aerts; Joris et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及一种车门把手，能够检测开启角度，利用传感器和机械结构实现自动调整。"
+        },
+        {
+            "documentId": "US-12230798-B2",
+            "datePublished": "2025-02-18",
+            "title": "Compositions and methods for silicon containing dry anode films",
+            "patentNumber": "12230798",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利涉及含硅干式阳极膜的组成与方法，可能包括硅基材料、电池阳极技术、干法制备工艺。"
+        },
+        {
+            "documentId": "US-12227857-B2",
+            "datePublished": "2025-02-18",
+            "title": "Metal sulfate manufacturing system via electrochemical dissolution",
+            "patentNumber": "12227857",
+            "inventors": "Arimoto; Shinji et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利涉及通过电化学溶解法制造硫酸盐的系统。可能的技术包括电解液制备、电化学溶解过程、硫酸盐回收与纯化。"
+        },
         {
             "documentId": "US-20250051678-A1",
             "datePublished": "2025-02-13",

@@ -32,9 +32,10 @@ def get_all_patent_tesla(access_token_fetch):
     }
     response = requests.post(url,headers =headers,data=datas)
     if response.status_code == 200:
-        #print(json.dumps(json.loads(response.text), indent=4))
-        with open('tesla_patents_data.json', 'w', encoding='utf-8') as file:
-            json.dump(json.loads(response.text), file, ensure_ascii=False, indent=4)
+        #old method------------------------------------------
+        # with open('tesla_patents_data.json', 'w', encoding='utf-8') as file:
+        #     json.dump(json.loads(response.text), file, ensure_ascii=False, indent=4)
+        #old method-------------------------------------------
         return (json.loads(response.text))
     else:
         print("Failed to fetch patent data")
@@ -109,9 +110,14 @@ if __name__ == "__main__":
     else:
         #get token -> fetch data -> save data to tesla_patents_data.json
         fetch_token = get_x_access_token()
-        get_all_patent_tesla(fetch_token)
-        # get data from local file
-        all_patent_data = read_patents_data('tesla_patents_data.json')
+        # #old method-start----------------------------------------------------
+        # get_all_patent_tesla(fetch_token)
+        # # get data from local file
+        # all_patent_data = read_patents_data('tesla_patents_data.json')
+        # #old method-stop------------------------------------------------------
+        #new method-start++++++++++++++++++++++++++++++++++++++
+        all_patent_data = get_all_patent_tesla(fetch_token)
+        # new method-stop++++++++++++++++++++++++++++++++++++++++
         print('-------------will create new patent json')
 
     #add all AI_Opinin to original data
