@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1295,
+    "numFound": 1300,
     "docs": [
+        {
+            "documentId": "US-20250068166-A1",
+            "datePublished": "2025-02-27",
+            "title": "AUTONOMOUS AND USER CONTROLLED VEHICLE SUMMON TO A TARGET",
+            "patentNumber": "20250068166",
+            "inventors": "Musk; Elon et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及自动驾驶技术、车辆召唤系统、目标定位技术以及用户控制界面。"
+        },
+        {
+            "documentId": "US-20250067904-A1",
+            "datePublished": "2025-02-27",
+            "title": "ANTI-REFLECTIVE MULTI-LAYER SYSTEMS",
+            "patentNumber": "20250067904",
+            "inventors": "Chen; Chih Hsieh",
+            "pageCount": 13,
+            "AI_Opinion": "该专利可能涉及多层结构，用于减少反射，提高透光率，可能应用于显示器、玻璃或太阳能板。"
+        },
+        {
+            "documentId": "US-12233617-B2",
+            "datePublished": "2025-02-25",
+            "title": "Process to make textured glass",
+            "patentNumber": "12233617",
+            "inventors": "Sweney; William S. et al.",
+            "pageCount": 19,
+            "AI_Opinion": "专利标题“Process to make textured glass”可能涉及制造具有特定纹理或图案的玻璃的工艺技术，这可能包括表面处理、化学蚀刻或物理成型等方法。"
+        },
+        {
+            "documentId": "US-12236689-B2",
+            "datePublished": "2025-02-25",
+            "title": "Estimating object properties using visual image data",
+            "patentNumber": "12236689",
+            "inventors": "Musk; James Anthony et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及利用视觉图像数据来估计物体属性的技术，可能包括图像识别、机器学习、深度学习算法等。"
+        },
+        {
+            "documentId": "US-12235337-B2",
+            "datePublished": "2025-02-25",
+            "title": "MRI systems and receive coil arrangements",
+            "patentNumber": "12235337",
+            "inventors": "Klomp; Dennis Wilhelmus Johannes et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及MRI系统的设计和接收线圈配置，旨在提高成像质量和效率。"
+        },
         {
             "documentId": "US-20250060705-A1",
             "datePublished": "2025-02-20",
