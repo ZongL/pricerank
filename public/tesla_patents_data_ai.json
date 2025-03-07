@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1300,
+    "numFound": 1302,
     "docs": [
+        {
+            "documentId": "US-20250074496-A1",
+            "datePublished": "2025-03-06",
+            "title": "SYSTEM AND METHOD FOR HAPTIC CALIBRATION",
+            "patentNumber": "20250074496",
+            "inventors": "Kessler; Michael et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及触觉反馈校准系统和方法，用于调整和优化Tesla汽车的触觉反馈系统，以提升驾驶体验。"
+        },
+        {
+            "documentId": "US-20250079358-A1",
+            "datePublished": "2025-03-06",
+            "title": "METHODS OF ELECTRONIC SYSTEM ASSEMBLY WITH THERMAL INTERFACE PAD AND RELATED ASSEMBLIES",
+            "patentNumber": "20250079358",
+            "inventors": "Misrak; Abel et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利涉及电子系统组装技术，可能包括使用热界面垫来提高散热效率和组件性能。"
+        },
         {
             "documentId": "US-20250068166-A1",
             "datePublished": "2025-02-27",
