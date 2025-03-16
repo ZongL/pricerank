@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1302,
+    "numFound": 1304,
     "docs": [
+        {
+            "documentId": "US-20250087807-A1",
+            "datePublished": "2025-03-13",
+            "title": "IMPACT ATTENUATION FOR ENERGY STORAGE SYSTEMS",
+            "patentNumber": "20250087807",
+            "inventors": "Burgess; Malcolm et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及减少能量存储系统冲击的技术，旨在提高电池安全性和稳定性。"
+        },
+        {
+            "documentId": "US-20250087557-A1",
+            "datePublished": "2025-03-13",
+            "title": "SANDWICHED MULTI-LAYER STRUCTURE FOR COOLING HIGH POWER ELECTRONICS",
+            "patentNumber": "20250087557",
+            "inventors": "Nabovati; Aydin et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及一种多层夹心结构，用于冷却高功率电子设备，可能包括散热材料和设计以提高冷却效率。"
+        },
         {
             "documentId": "US-20250074496-A1",
             "datePublished": "2025-03-06",
