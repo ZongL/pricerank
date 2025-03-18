@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1304,
+    "numFound": 1305,
     "docs": [
+        {
+            "documentId": "US-12256282-B2",
+            "datePublished": "2025-03-18",
+            "title": "System and method for using a mobile device as an input device for surveys at a live event",
+            "patentNumber": "12256282",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 71,
+            "AI_Opinion": "该专利可能涉及使用移动设备作为现场调查的输入工具，技术可能包括无线通信、用户界面设计、数据收集和分析。"
+        },
         {
             "documentId": "US-20250087807-A1",
             "datePublished": "2025-03-13",
