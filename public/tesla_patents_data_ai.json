@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1305,
+    "numFound": 1308,
     "docs": [
+        {
+            "documentId": "US-20250105085-A1",
+            "datePublished": "2025-03-27",
+            "title": "A METHOD FOR APPLYING A COOLING SOLUTION TO ONE OR MORE INTEGRATED CIRCUIT COMPONENTS AND ASSEMBLE FOR INTEGRATED CIRCUIT COOLING",
+            "patentNumber": "20250105085",
+            "inventors": "Nasr; Mohamed Haitham Helmy et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及一种冷却方法，用于集成电路组件和集成电路冷却装置。可能的技术包括：1) 冷却液循环系统；2) 热交换器；3) 温度传感器；4) 控制算法。"
+        },
+        {
+            "documentId": "US-12261110-B2",
+            "datePublished": "2025-03-25",
+            "title": "Electronic assembly having multiple substrate segments",
+            "patentNumber": "12261110",
+            "inventors": "Pang; Mengzhi et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及具有多个基板段的电子组件技术，可能包括基板设计、连接方式、散热和集成度提升。"
+        },
+        {
+            "documentId": "US-12260332-B2",
+            "datePublished": "2025-03-25",
+            "title": "Data pipeline and deep learning system for autonomous driving",
+            "patentNumber": "12260332",
+            "inventors": "Uvarov; Timofey et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及自动驾驶中的数据流处理和深度学习技术，包括数据采集、处理、分析和用于决策的深度神经网络模型。"
+        },
         {
             "documentId": "US-12256282-B2",
             "datePublished": "2025-03-18",
