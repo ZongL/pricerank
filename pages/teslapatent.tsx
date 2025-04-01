@@ -8,7 +8,8 @@ import '@/app/ui/responsive.dataTables.min.css';
 import 'datatables.net-responsive/js/dataTables.responsive';
 
 export default function Patents() {
-  const [patentData, setPatentData] = useState(null);
+  const [patentData, setPatentData] = useState(null); // 用于存储专利数据
+  const [timestamp, setTimestamp] = useState(null); // 用于存储文件时间戳
 
   useEffect(() => {
     // 获取 JSON 数据
@@ -36,6 +37,16 @@ export default function Patents() {
         }
       })
       .catch(error => console.error('Error loading patent data:', error));
+
+          // 获取文件时间戳
+      fetch('/api/getTimestamp')
+        .then(response => response.json())
+        .then(data => {
+          setTimestamp(data.timestamp);
+        })
+      .catch(error => console.error('Error loading timestamp:', error));
+
+
   }, []);
 
   return (
@@ -44,7 +55,9 @@ export default function Patents() {
         <NavigationPage/>
       </div>
       <div>
-        <h1>Tesla patent</h1>
+      <h1 className="text-center mb-4">
+          Tesla Patents-{">"}专利数据获取时间: {timestamp && new Date(timestamp).toLocaleString()}
+      </h1>
         <table id="myTable" className="display responsive" style={{ width:'100%'}}>
           <thead>
             <tr>
