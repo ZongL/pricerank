@@ -56,7 +56,7 @@ export default function Patents() {
       </div>
       <div>
       <h1 className="text-center mb-4">
-          Tesla Patents-{">"}专利数据获取时间: {timestamp && new Date(timestamp).toLocaleString()}
+        {/*Tesla Patents-{">"}专利数据获取时间: {timestamp && new Date(timestamp).toLocaleString()} */}
       </h1>
         <table id="myTable" className="display responsive" style={{ width:'100%'}}>
           <thead>
