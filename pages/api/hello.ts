@@ -5,8 +5,8 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 
 // 定义请求的URL和头部信息
-const searchUrl = 'https://ppubs.uspto.gov/dirsearch-public/searches/generic';
-const sessionUrl = 'https://ppubs.uspto.gov/dirsearch-public/users/me/session';
+const searchUrl = 'https://ppubs.uspto.gov/api/searches/generic';
+const sessionUrl = 'https://ppubs.uspto.gov/api/users/me/session';
 
 // 定义请求的数据
 const datas = {
