@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1309,
+    "numFound": 1310,
     "docs": [
+        {
+            "documentId": "US-12272189-B2",
+            "datePublished": "2025-04-08",
+            "title": "Autonomous driving system component fault prediction",
+            "patentNumber": "12272189",
+            "inventors": "Gorti; Atchyuth et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及利用机器学习算法预测自动驾驶系统中组件故障的技术。"
+        },
         {
             "documentId": "US-20250109614-A1",
             "datePublished": "2025-04-03",
@@ -1973,5 +1982,6 @@
             "pageCount": 23,
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
-    ]
+    ],
+    "Date": "Tue, 08 Apr 2025 08:49:15 GMT"
 }
