@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1310,
+    "numFound": 1313,
     "docs": [
+        {
+            "documentId": "US-20250120034-A1",
+            "datePublished": "2025-04-10",
+            "title": "CONNECTOR ASSEMBLY WITH PULLBACK",
+            "patentNumber": "20250120034",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 44,
+            "AI_Opinion": "该专利可能涉及一种带拉回功能的连接器组件，用于确保连接牢固和易于拆卸。"
+        },
+        {
+            "documentId": "US-20250120038-A1",
+            "datePublished": "2025-04-10",
+            "title": "CONNECTOR SYSTEM FOR COMPUTING CABINETS",
+            "patentNumber": "20250120038",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 44,
+            "AI_Opinion": "该专利可能涉及用于计算机柜的新型连接器系统，旨在优化数据传输、提高连接稳定性和简化布线管理。"
+        },
+        {
+            "documentId": "US-20250115190-A1",
+            "datePublished": "2025-04-10",
+            "title": "POWER-SLIDE VEHICLE COMPARTMENTS",
+            "patentNumber": "20250115190",
+            "inventors": "Jalan; Raghav et al.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利可能涉及可移动车辆车厢技术，用于优化空间利用和乘客舒适度。"
+        },
         {
             "documentId": "US-12272189-B2",
             "datePublished": "2025-04-08",
@@ -1983,5 +2010,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Tue, 08 Apr 2025 08:49:15 GMT"
+    "Date": "Sun, 13 Apr 2025 02:39:52 GMT"
 }
