@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1313,
+    "numFound": 1316,
     "docs": [
+        {
+            "documentId": "US-20250124286-A1",
+            "datePublished": "2025-04-17",
+            "title": "GENERATING GROUND TRUTH FOR MACHINE LEARNING FROM TIME SERIES ELEMENTS",
+            "patentNumber": "20250124286",
+            "inventors": "Elluswamy; Ashok Kumar et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及从时间序列数据中生成机器学习训练数据的技术，包括数据预处理、特征提取和标注。"
+        },
+        {
+            "documentId": "US-20250124749-A1",
+            "datePublished": "2025-04-17",
+            "title": "VEHICLE PROGNOSTICS UTILIZING PSUEDONYMOUS LOGGING AND DIRECTIVES",
+            "patentNumber": "20250124749",
+            "inventors": "Gutierrez; Thoralf et al.",
+            "pageCount": 32,
+            "AI_Opinion": "该专利涉及利用匿名日志和指令进行车辆故障预测的技术。"
+        },
+        {
+            "documentId": "US-20250121818-A1",
+            "datePublished": "2025-04-17",
+            "title": "MACHINE LEARNING MODEL FOR PREDICTING DRIVING EVENTS",
+            "patentNumber": "20250121818",
+            "inventors": "Gutierrez; Thoralf et al.",
+            "pageCount": 41,
+            "AI_Opinion": "该专利可能涉及使用机器学习算法来分析驾驶数据，预测事故、交通拥堵等事件，并优化驾驶安全和效率。"
+        },
         {
             "documentId": "US-20250120034-A1",
             "datePublished": "2025-04-10",
@@ -2010,5 +2037,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 13 Apr 2025 02:39:52 GMT"
+    "Date": "Sat, 19 Apr 2025 01:09:54 GMT"
 }
