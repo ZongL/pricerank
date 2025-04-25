@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1316,
+    "numFound": 1317,
     "docs": [
+        {
+            "documentId": "US-12280629-B2",
+            "datePublished": "2025-04-22",
+            "title": "Compliant mechanism for suspension height sensor",
+            "patentNumber": "12280629",
+            "inventors": "Nordman; Douglas et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及一种用于调整悬挂高度的柔性机制，通过传感器监测并自动调整车辆悬挂，以适应不同路面条件。"
+        },
         {
             "documentId": "US-20250124286-A1",
             "datePublished": "2025-04-17",
@@ -2037,5 +2046,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 19 Apr 2025 01:09:54 GMT"
+    "Date": "Fri, 25 Apr 2025 01:14:05 GMT"
 }
