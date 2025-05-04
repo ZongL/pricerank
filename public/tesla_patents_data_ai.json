@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1317,
+    "numFound": 1319,
     "docs": [
+        {
+            "documentId": "US-20250135975-A1",
+            "datePublished": "2025-05-01",
+            "title": "INERTIA LATCH FOR A VEHICLE ARMREST",
+            "patentNumber": "20250135975",
+            "inventors": "Wu; Chao et al.",
+            "pageCount": 25,
+            "AI_Opinion": "专利标题“车辆扶手的惯性锁”可能涉及一种利用惯性原理的新型锁定机制，用于车辆扶手，旨在提高安全性和舒适性。"
+        },
+        {
+            "documentId": "US-20250139051-A1",
+            "datePublished": "2025-05-01",
+            "title": "GLOBALS BLOCKS IN REPLICATED BLOCK ARRAYS",
+            "patentNumber": "20250139051",
+            "inventors": "Fischer; Timothy et al.",
+            "pageCount": 13,
+            "AI_Opinion": "Tesla专利\"GLOBALS BLOCKS IN REPLICATED BLOCK ARRAYS\"可能涉及分布式存储技术，优化数据冗余和访问效率。"
+        },
         {
             "documentId": "US-12280629-B2",
             "datePublished": "2025-04-22",
@@ -2046,5 +2064,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 25 Apr 2025 01:14:05 GMT"
+    "Date": "Sun, 04 May 2025 01:21:19 GMT"
 }
