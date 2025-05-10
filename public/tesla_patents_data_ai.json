@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1319,
+    "numFound": 1322,
     "docs": [
+        {
+            "documentId": "US-20250148745-A1",
+            "datePublished": "2025-05-08",
+            "title": "ENHANCED OBJECT DETECTION FOR AUTONOMOUS VEHICLES BASED ON FIELD VIEW",
+            "patentNumber": "20250148745",
+            "inventors": "Shen; Anting et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及基于视野增强的自动驾驶车辆目标检测技术，可能包括视野分析、目标识别算法、传感器数据融合等。"
+        },
+        {
+            "documentId": "US-20250149682-A1",
+            "datePublished": "2025-05-08",
+            "title": "PASSIVE FLUID FLOW CONTROLLING DEVICE AND SYSTEM",
+            "patentNumber": "20250149682",
+            "inventors": "Nabovati; Aydin et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及被动流体控制装置和系统，可能包含流体动力学设计、无源控制机制，用于优化流体流动和提高效率。"
+        },
+        {
+            "documentId": "US-20250145226-A1",
+            "datePublished": "2025-05-08",
+            "title": "CASTING CLIPS",
+            "patentNumber": "20250145226",
+            "inventors": "Nava; Rene Sanchez et al.",
+            "pageCount": 34,
+            "AI_Opinion": "\"Casting Clips\"可能涉及金属或塑料材料的铸造技术，用于制造汽车部件，如车身、底盘等。可能包含模具设计、材料选择、冷却系统和自动化生产流程。"
+        },
         {
             "documentId": "US-20250135975-A1",
             "datePublished": "2025-05-01",
@@ -2064,5 +2091,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 04 May 2025 01:21:19 GMT"
+    "Date": "Sat, 10 May 2025 01:12:46 GMT"
 }
