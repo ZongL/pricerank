@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1322,
+    "numFound": 1326,
     "docs": [
+        {
+            "documentId": "US-20250158372-A1",
+            "datePublished": "2025-05-15",
+            "title": "MULTICORE RIGID BUSBAR FOR ELECTRIC POWER DISTRIBUTION",
+            "patentNumber": "20250158372",
+            "inventors": "Mathews; Whitney et al.",
+            "pageCount": 31,
+            "AI_Opinion": "这篇专利可能涉及多核刚性母线技术，用于电力分配系统中，提高效率和可靠性。"
+        },
+        {
+            "documentId": "US-20250158125-A1",
+            "datePublished": "2025-05-15",
+            "title": "ELECTROLYTE ADDITIVE COMPOUNDS FOR HIGH VOLTAGE ENERGY STORAGE DEVICE, AND ASSOCIATED PROCESSES",
+            "patentNumber": "20250158125",
+            "inventors": "Jurng; Sunhyung et al.",
+            "pageCount": 70,
+            "AI_Opinion": "该专利涉及高电压能量存储设备的电解液添加剂及其相关工艺，可能包括提高电池性能、稳定性和安全性的新型化合物。"
+        },
+        {
+            "documentId": "US-12297717-B1",
+            "datePublished": "2025-05-13",
+            "title": "Systems and methods for temperature tracking and detection of leaks",
+            "patentNumber": "12297717",
+            "inventors": "Tesla; Marlon J.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及温度监测系统、泄漏检测技术，以及它们在电动汽车电池管理中的应用。"
+        },
+        {
+            "documentId": "US-12300805-B2",
+            "datePublished": "2025-05-13",
+            "title": "Compositions and methods for energy storage devices including salts and/or foams",
+            "patentNumber": "12300805",
+            "inventors": "Petrowsky; Matt et al.",
+            "pageCount": 36,
+            "AI_Opinion": "该专利可能涉及使用盐或泡沫材料的能源存储技术，可能包括新型电解质或电池结构，以提高储能效率和安全性。"
+        },
         {
             "documentId": "US-20250148745-A1",
             "datePublished": "2025-05-08",
@@ -2091,5 +2127,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 10 May 2025 01:12:46 GMT"
+    "Date": "Fri, 16 May 2025 01:16:32 GMT"
 }
