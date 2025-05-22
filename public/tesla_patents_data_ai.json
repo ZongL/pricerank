@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1326,
+    "numFound": 1329,
     "docs": [
+        {
+            "documentId": "US-12306703-B2",
+            "datePublished": "2025-05-20",
+            "title": "System and method for handling errors in a vehicle neural network processor",
+            "patentNumber": "12306703",
+            "inventors": "Hsiong; Christopher et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及车辆神经网络处理器中错误处理的系统和方法，可能包含错误检测、诊断、纠正和学习机制，以提高自动驾驶系统的可靠性和安全性。"
+        },
+        {
+            "documentId": "US-12307350-B2",
+            "datePublished": "2025-05-20",
+            "title": "Systems and methods for hardware-based pooling",
+            "patentNumber": "12307350",
+            "inventors": "Bannon; Peter Joseph et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及硬件加速的池化技术，用于深度学习中的数据降维，提高计算效率。"
+        },
+        {
+            "documentId": "US-12305308-B2",
+            "datePublished": "2025-05-20",
+            "title": "Coating system and method for e-coating and degasification of e-coat fluid during e-coat",
+            "patentNumber": "12305308",
+            "inventors": "Agarwal; Gunjan et al.",
+            "pageCount": 30,
+            "AI_Opinion": "该专利涉及电泳涂装系统和方法，包括在电泳涂装过程中对电泳液进行脱气处理的技术。"
+        },
         {
             "documentId": "US-20250158372-A1",
             "datePublished": "2025-05-15",
@@ -2127,5 +2154,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 16 May 2025 01:16:32 GMT"
+    "Date": "Thu, 22 May 2025 01:16:10 GMT"
 }
