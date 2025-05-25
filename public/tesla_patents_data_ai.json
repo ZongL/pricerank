@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1329,
+    "numFound": 1330,
     "docs": [
+        {
+            "documentId": "US-20250162495-A1",
+            "datePublished": "2025-05-22",
+            "title": "AUTOMATION OF SIGNALING DEVICES ASSOCIATED WITH THE OPERATION OF A VEHICLE",
+            "patentNumber": "20250162495",
+            "inventors": "Baverstock; Richard et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及车辆操作中信号设备的自动化技术，如自动驾驶信号灯控制、车辆通信系统自动化等。"
+        },
         {
             "documentId": "US-12306703-B2",
             "datePublished": "2025-05-20",
@@ -2154,5 +2163,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 22 May 2025 01:16:10 GMT"
+    "Date": "Sun, 25 May 2025 01:23:04 GMT"
 }
