@@ -1,7 +1,70 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1331,
+    "numFound": 1338,
     "docs": [
+        {
+            "documentId": "US-20250170764-A1",
+            "datePublished": "2025-05-29",
+            "title": "PASS-THROUGH BACK INJECTION COMPOSITE MATS AND MAT FEATURES",
+            "patentNumber": "20250170764",
+            "inventors": "Balachandran; Karun et al.",
+            "pageCount": 13,
+            "AI_Opinion": "该专利涉及通过式背注入复合垫和垫特征，可能包含用于电池或其他设备的复合材料垫，具有改进的热管理、结构强度和电性能。"
+        },
+        {
+            "documentId": "US-20250170936-A1",
+            "datePublished": "2025-05-29",
+            "title": "SEAT ARMREST MODULE WITH INTEGRATED HEADREST",
+            "patentNumber": "20250170936",
+            "inventors": "Tayal; Ojas et al.",
+            "pageCount": 47,
+            "AI_Opinion": "该专利可能涉及集成头枕的座椅扶手模块，技术特点可能包括：1) 座椅与头枕一体化设计；2) 可调节性和舒适性增强；3) 空间优化；4) 集成电子设备或储物功能。"
+        },
+        {
+            "documentId": "US-20250172338-A1",
+            "datePublished": "2025-05-29",
+            "title": "HYBRID RECYCLING FURNACE USING IMMERSION MELTING EQUIPMENT",
+            "patentNumber": "20250172338",
+            "inventors": "Steglich; Jan",
+            "pageCount": 15,
+            "AI_Opinion": "该技术可能涉及一种结合浸入式熔化设备的混合回收炉，用于回收利用金属等材料。"
+        },
+        {
+            "documentId": "US-20250171705-A1",
+            "datePublished": "2025-05-29",
+            "title": "CONDUCTIVE GREASE FORMULATIONS AND GROUNDING SOLUTIONS FOR ELECTRIC DRIVE UNIT",
+            "patentNumber": "20250171705",
+            "inventors": "Zhang; Wenyang et al.",
+            "pageCount": 20,
+            "AI_Opinion": "这篇专利可能涉及导电润滑脂配方和电动驱动单元接地解决方案，旨在提高电动驱动单元性能和安全性。"
+        },
+        {
+            "documentId": "US-20250174709-A1",
+            "datePublished": "2025-05-29",
+            "title": "PRELITHIATED HYBRIDIZED ENERGY STORAGE DEVICE",
+            "patentNumber": "20250174709",
+            "inventors": "Duong; Hieu Minh et al.",
+            "pageCount": 27,
+            "AI_Opinion": "预锂化混合能量存储装置，可能涉及预充锂技术，结合不同能量存储介质，提升电池性能和寿命。"
+        },
+        {
+            "documentId": "US-20250174658-A1",
+            "datePublished": "2025-05-29",
+            "title": "COMPOSITIONS AND METHODS FOR SILICON CONTAINING DRY ANODE FILMS",
+            "patentNumber": "20250174658",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利涉及硅基干电极膜材料和制备方法，可能包含硅复合材料、电极制备技术及电池性能优化。"
+        },
+        {
+            "documentId": "US-20250174744-A1",
+            "datePublished": "2025-05-29",
+            "title": "APPARATUS AND METHOD FOR DETECTION OF DEFORMATION IN BATTERY CELLS",
+            "patentNumber": "20250174744",
+            "inventors": "Kahn; Michael",
+            "pageCount": 17,
+            "AI_Opinion": "该专利涉及电池单元变形检测装置和方法，可能包括传感器、算法分析电池形状变化，以预防故障和提高安全性。"
+        },
         {
             "documentId": "US-12315914-B2",
             "datePublished": "2025-05-27",
@@ -2172,5 +2235,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 28 May 2025 01:17:10 GMT"
+    "Date": "Sat, 31 May 2025 01:15:05 GMT"
 }
