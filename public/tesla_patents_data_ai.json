@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1338,
+    "numFound": 1339,
     "docs": [
+        {
+            "documentId": "US-12324060-B2",
+            "datePublished": "2025-06-03",
+            "title": "System and method for using a mobile device as an input device for surveys at a live event",
+            "patentNumber": "12324060",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 151,
+            "AI_Opinion": "该专利可能涉及使用移动设备作为现场活动调查的输入设备，技术可能包括蓝牙/NFC连接、数据同步、用户界面设计以及实时数据处理。"
+        },
         {
             "documentId": "US-20250170764-A1",
             "datePublished": "2025-05-29",
@@ -2235,5 +2244,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 31 May 2025 01:15:05 GMT"
+    "Date": "Wed, 04 Jun 2025 01:18:00 GMT"
 }
