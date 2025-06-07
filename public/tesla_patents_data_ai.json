@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1339,
+    "numFound": 1343,
     "docs": [
+        {
+            "documentId": "US-20250183266-A1",
+            "datePublished": "2025-06-05",
+            "title": "LARGE-FORMAT BATTERY ANODES COMPRISING SILICON PARTICLES",
+            "patentNumber": "20250183266",
+            "inventors": "Evans; Tyler et al.",
+            "pageCount": 28,
+            "AI_Opinion": "该专利可能涉及使用硅颗粒制造大型电池负极，以提高能量密度和电池性能。"
+        },
+        {
+            "documentId": "US-20250182498-A1",
+            "datePublished": "2025-06-05",
+            "title": "ESTIMATING OBJECT PROPERTIES USING VISUAL IMAGE DATA",
+            "patentNumber": "20250182498",
+            "inventors": "MUSK; James Anthony et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及使用视觉图像数据来估计物体属性的技术，可能包括图像处理、机器学习、深度学习以及物体识别和属性分析。"
+        },
+        {
+            "documentId": "US-20250177591-A1",
+            "datePublished": "2025-06-05",
+            "title": "CONTROLLING ENVIRONMENTAL CONDITIONS IN ENCLOSED SPACES",
+            "patentNumber": "20250177591",
+            "inventors": "Liau; Forrest Wen et al.",
+            "pageCount": 33,
+            "AI_Opinion": "该专利可能涉及使用传感器监测和控制系统调节封闭空间内的温度、湿度、空气质量等环境参数，以优化舒适度和能效。"
+        },
+        {
+            "documentId": "US-20250183320-A1",
+            "datePublished": "2025-06-05",
+            "title": "COATED ELECTRODES",
+            "patentNumber": "20250183320",
+            "inventors": "Pei; Allen et al.",
+            "pageCount": 33,
+            "AI_Opinion": "该专利可能涉及涂覆电极技术，用于提高电池性能，如增加能量密度、稳定性和寿命。"
+        },
         {
             "documentId": "US-12324060-B2",
             "datePublished": "2025-06-03",
@@ -2244,5 +2280,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 04 Jun 2025 01:18:00 GMT"
+    "Date": "Sat, 07 Jun 2025 01:16:27 GMT"
 }
