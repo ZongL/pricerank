@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1343,
+    "numFound": 1345,
     "docs": [
+        {
+            "documentId": "US-20250187670-A1",
+            "datePublished": "2025-06-12",
+            "title": "INTEGRATED COMPONENTS FOR VEHICLES",
+            "patentNumber": "20250187670",
+            "inventors": "Stack; Marcus et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及集成组件技术，用于提高特斯拉车辆的效率、性能和安全性。"
+        },
+        {
+            "documentId": "US-20250191121-A1",
+            "datePublished": "2025-06-12",
+            "title": "ENHANCED FRACTIONAL INTERPOLATION FOR CONVOLUTIONAL PROCESSOR IN AUTONOMOUS OR SEMI-AUTONOMOUS SYSTEMS",
+            "patentNumber": "20250191121",
+            "inventors": "Sachdev; Gagandeep et al.",
+            "pageCount": 13,
+            "AI_Opinion": "这项专利可能涉及改进的分数插值技术，用于自动驾驶系统中的卷积处理器，以优化图像处理和提高决策速度。"
+        },
         {
             "documentId": "US-20250183266-A1",
             "datePublished": "2025-06-05",
@@ -2280,5 +2298,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 07 Jun 2025 01:16:27 GMT"
+    "Date": "Fri, 13 Jun 2025 01:18:39 GMT"
 }
