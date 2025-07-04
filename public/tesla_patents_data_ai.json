@@ -1,7 +1,61 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1349,
+    "numFound": 1355,
     "docs": [
+        {
+            "documentId": "US-20250214863-A1",
+            "datePublished": "2025-07-03",
+            "title": "METHODS OF PRODUCING CATHODE MATERIAL PRECURSORS UTILIZING CAVITATION, AND PRODUCTS THEREOF",
+            "patentNumber": "20250214863",
+            "inventors": "Zou; Feng et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利涉及利用空化效应制备阴极材料前驱体的方法及其产品，可能包括高效能电池材料制备技术。"
+        },
+        {
+            "documentId": "US-20250218231-A1",
+            "datePublished": "2025-07-03",
+            "title": "AUTONOMOUS DRIVING SYSTEM COMPONENT FAULT PREDICTION",
+            "patentNumber": "20250218231",
+            "inventors": "Gorti; Atchyuth et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及利用机器学习预测自动驾驶系统中组件故障的技术。"
+        },
+        {
+            "documentId": "US-12343960-B2",
+            "datePublished": "2025-07-01",
+            "title": "Durable glass for vehicle",
+            "patentNumber": "12343960",
+            "inventors": "Mottsmith; Rosemary et al.",
+            "pageCount": 16,
+            "AI_Opinion": "特斯拉专利“Durable glass for vehicle”可能涉及：1) 强化玻璃材料，2) 抗冲击设计，3) 耐磨损表面处理，4) 集成传感器技术。"
+        },
+        {
+            "documentId": "US-12348177-B2",
+            "datePublished": "2025-07-01",
+            "title": "Interlocking BIPV roof tile with backer",
+            "patentNumber": "12348177",
+            "inventors": "Seery; Martin et al.",
+            "pageCount": 23,
+            "AI_Opinion": "\"Interlocking BIPV roof tile with backer\" 可能涉及的技术包括：集成光伏（BIPV）屋顶瓦片的互锁设计，以及瓦片背面支撑结构。这些技术可能用于提高屋顶瓦片的安装效率和稳定性。"
+        },
+        {
+            "documentId": "US-12346816-B2",
+            "datePublished": "2025-07-01",
+            "title": "Neural networks for embedded devices",
+            "patentNumber": "12346816",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利可能涉及用于嵌入式设备的神经网络技术，包括轻量级模型、优化算法、硬件加速和低功耗设计。"
+        },
+        {
+            "documentId": "US-12345542-B2",
+            "datePublished": "2025-07-01",
+            "title": "Context sensitive user interface for enhanced vehicle operation",
+            "patentNumber": "12345542",
+            "inventors": "Pietryka; Pawel et al.",
+            "pageCount": 53,
+            "AI_Opinion": "该专利可能涉及根据上下文调整用户界面以优化车辆操作的技术。"
+        },
         {
             "documentId": "US-20250206092-A1",
             "datePublished": "2025-06-26",
@@ -2334,5 +2388,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 28 Jun 2025 01:16:35 GMT"
+    "Date": "Fri, 04 Jul 2025 01:18:41 GMT"
 }
