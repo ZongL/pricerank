@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1355,
+    "numFound": 1357,
     "docs": [
+        {
+            "documentId": "US-12354588-B2",
+            "datePublished": "2025-07-08",
+            "title": "Adaptive noise cancelling system for automotive hands-free telecommunications",
+            "patentNumber": "12354588",
+            "inventors": "Yeh; David et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及自适应噪声消除技术，用于汽车免提通讯系统，以提高通话清晰度。"
+        },
+        {
+            "documentId": "US-12355299-B2",
+            "datePublished": "2025-07-08",
+            "title": "Power disconnect system and method",
+            "patentNumber": "12355299",
+            "inventors": "Evans; Kyle Breuning et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及一种电力断开系统及其方法，用于安全地切断特斯拉电动汽车的电源，以保护电池和用户安全。"
+        },
         {
             "documentId": "US-20250214863-A1",
             "datePublished": "2025-07-03",
@@ -2388,5 +2406,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 04 Jul 2025 01:18:41 GMT"
+    "Date": "Thu, 10 Jul 2025 01:20:27 GMT"
 }
