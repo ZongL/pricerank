@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1360,
+    "numFound": 1361,
     "docs": [
+        {
+            "documentId": "US-12362106-B2",
+            "datePublished": "2025-07-15",
+            "title": "Electrolyte formulations for energy storage devices",
+            "patentNumber": "12362106",
+            "inventors": "Raman; Santhanam et al.",
+            "pageCount": 25,
+            "AI_Opinion": "这篇专利可能涉及新型电解质配方，用于提高能量存储设备的效率和稳定性。"
+        },
         {
             "documentId": "US-20250224025-A1",
             "datePublished": "2025-07-10",
@@ -2433,5 +2442,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 13 Jul 2025 01:28:25 GMT"
+    "Date": "Wed, 16 Jul 2025 01:22:30 GMT"
 }
