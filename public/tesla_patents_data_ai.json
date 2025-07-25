@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1364,
+    "numFound": 1368,
     "docs": [
+        {
+            "documentId": "US-20250236085-A1",
+            "datePublished": "2025-07-24",
+            "title": "PROCESS TO MAKE TEXTURED GLASS",
+            "patentNumber": "20250236085",
+            "inventors": "SWENEY; William S. et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及制造具有特定纹理的玻璃的工艺，包括表面处理、化学蚀刻或物理成型技术，以增强玻璃的美观性或功能性。"
+        },
+        {
+            "documentId": "US-12368009-B2",
+            "datePublished": "2025-07-22",
+            "title": "Compositions and methods for energy storage device electrodes",
+            "patentNumber": "12368009",
+            "inventors": "Raman; Santhanam et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及能量存储设备电极的新材料或制造方法，旨在提高电池性能。"
+        },
+        {
+            "documentId": "US-12367405-B2",
+            "datePublished": "2025-07-22",
+            "title": "Machine learning models operating at different frequencies for autonomous vehicles",
+            "patentNumber": "12367405",
+            "inventors": "Shen; Anting",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及使用不同频率运行的机器学习模型来优化自动驾驶车辆的决策和响应速度。"
+        },
+        {
+            "documentId": "US-12365215-B2",
+            "datePublished": "2025-07-22",
+            "title": "Electric vehicle heat pump using enhanced valve unit",
+            "patentNumber": "12365215",
+            "inventors": "Pinto; Prem et al.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利可能涉及一种新型的热泵系统，用于电动汽车，通过增强型阀门单元提高能效和温度控制。"
+        },
         {
             "documentId": "US-20250229743-A1",
             "datePublished": "2025-07-17",
@@ -2469,5 +2505,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 19 Jul 2025 01:20:22 GMT"
+    "Date": "Fri, 25 Jul 2025 01:23:21 GMT"
 }
