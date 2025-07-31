@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1368,
+    "numFound": 1370,
     "docs": [
+        {
+            "documentId": "US-12371646-B2",
+            "datePublished": "2025-07-29",
+            "title": "Bioreactor for RNA in vitro transcription",
+            "patentNumber": "12371646",
+            "inventors": "Yazdan Panah; Benyamin et al.",
+            "pageCount": 35,
+            "AI_Opinion": "该专利可能涉及体外转录RNA的生物反应器技术，包括RNA合成、生物反应器设计、转录效率优化和规模化生产。"
+        },
+        {
+            "documentId": "US-12374692-B2",
+            "datePublished": "2025-07-29",
+            "title": "Compositions and methods for parallel processing of electrode film mixtures",
+            "patentNumber": "12374692",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及电极膜混合物的并行处理技术，可能包括混合、涂覆、干燥等步骤的优化方法，以提高电池性能和生产效率。"
+        },
         {
             "documentId": "US-20250236085-A1",
             "datePublished": "2025-07-24",
@@ -2505,5 +2523,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 25 Jul 2025 01:23:21 GMT"
+    "Date": "Thu, 31 Jul 2025 01:24:40 GMT"
 }
