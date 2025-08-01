@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1370,
+    "numFound": 1371,
     "docs": [
+        {
+            "documentId": "US-20250246618-A1",
+            "datePublished": "2025-07-31",
+            "title": "DOPED AND COATED NICKEL-RICH CATHODE ACTIVE MATERIALS AND METHODS THEREOF",
+            "patentNumber": "20250246618",
+            "inventors": "Ulvestad; Andrew Phillip et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利涉及掺杂和涂层的镍富正极活性材料及其制备方法，可能包括提高电池性能和稳定性的新技术。"
+        },
         {
             "documentId": "US-12371646-B2",
             "datePublished": "2025-07-29",
@@ -2523,5 +2532,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 31 Jul 2025 01:24:40 GMT"
+    "Date": "Fri, 01 Aug 2025 01:43:10 GMT"
 }
