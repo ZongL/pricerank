@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1371,
+    "numFound": 1374,
     "docs": [
+        {
+            "documentId": "US-12377920-B1",
+            "datePublished": "2025-08-05",
+            "title": "Adaptive vehicle aerodynamics for downforce",
+            "patentNumber": "12377920",
+            "inventors": "Crook; James Michael Arthur et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及特斯拉开发一种自适应车辆空气动力学系统，用于动态调整车辆下压力，以提高性能和稳定性。"
+        },
+        {
+            "documentId": "US-12378642-B2",
+            "datePublished": "2025-08-05",
+            "title": "Aluminum alloys for die casting",
+            "patentNumber": "12378642",
+            "inventors": "Palanivel; Sivanesh et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及用于压铸的铝合金新材料，包括合金成分、性能优化和压铸工艺改进。"
+        },
+        {
+            "documentId": "US-12381977-B2",
+            "datePublished": "2025-08-05",
+            "title": "System and method for using a mobile device as an input device for surveys at a live event",
+            "patentNumber": "12381977",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 43,
+            "AI_Opinion": "该专利可能涉及将移动设备作为现场活动调查的输入设备，技术可能包括移动设备与调查系统的集成、无线通信、用户界面设计和数据收集分析。"
+        },
         {
             "documentId": "US-20250246618-A1",
             "datePublished": "2025-07-31",
@@ -2532,5 +2559,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 01 Aug 2025 01:43:10 GMT"
+    "Date": "Thu, 07 Aug 2025 01:25:56 GMT"
 }
