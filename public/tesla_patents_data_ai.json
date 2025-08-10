@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1374,
+    "numFound": 1377,
     "docs": [
+        {
+            "documentId": "US-20250253216-A1",
+            "datePublished": "2025-08-07",
+            "title": "SEMICONDUCTOR PACKAGE DESIGN WITH TERMINALS FOR CONNECTING TO EXTERNAL CAPACITOR",
+            "patentNumber": "20250253216",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及半导体封装设计，具有用于连接外部电容器的端子，以优化电路性能和稳定性。"
+        },
+        {
+            "documentId": "US-20250253307-A1",
+            "datePublished": "2025-08-07",
+            "title": "SYSTEM AND METHODS FOR MANUFACTURING A DRY ELECTRODE",
+            "patentNumber": "20250253307",
+            "inventors": "Mitchell; Porter",
+            "pageCount": 20,
+            "AI_Opinion": "该专利涉及制造干电极的系统和方法，可能包括创新的电极制备工艺、材料配方和自动化生产技术。"
+        },
+        {
+            "documentId": "US-20250249766-A1",
+            "datePublished": "2025-08-07",
+            "title": "SELF LOCKING EV CHARGING ADAPTER",
+            "patentNumber": "20250249766",
+            "inventors": "Westfall; Mark et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该技术可能涉及一种自动锁定的电动汽车充电适配器，用于确保充电连接稳定且安全，可能包括自动锁定机制和智能识别充电设备。"
+        },
         {
             "documentId": "US-12377920-B1",
             "datePublished": "2025-08-05",
@@ -2559,5 +2586,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 07 Aug 2025 01:25:56 GMT"
+    "Date": "Sun, 10 Aug 2025 01:38:00 GMT"
 }
