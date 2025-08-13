@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1377,
+    "numFound": 1379,
     "docs": [
+        {
+            "documentId": "US-12388115-B2",
+            "datePublished": "2025-08-12",
+            "title": "Electrolytes with lithium difluoro(oxalato)borate and lithium tetrafluoroborate salts for lithium metal and anode-free cells",
+            "patentNumber": "12388115",
+            "inventors": "Martin; Cameron et al.",
+            "pageCount": 17,
+            "AI_Opinion": "这项专利涉及锂金属电池和无负极电池的电解液技术，可能包含锂二氟草酸硼酸盐和四氟硼酸锂盐，旨在提高电池性能和安全性。"
+        },
+        {
+            "documentId": "US-12388767-B2",
+            "datePublished": "2025-08-12",
+            "title": "Vehicle network and method of communication",
+            "patentNumber": "12388767",
+            "inventors": "Esmail; Adnan et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及特斯拉车辆间通信网络技术，包括数据交换、信息同步和智能交通系统。"
+        },
         {
             "documentId": "US-20250253216-A1",
             "datePublished": "2025-08-07",
@@ -2586,5 +2604,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 10 Aug 2025 01:38:00 GMT"
+    "Date": "Wed, 13 Aug 2025 01:19:20 GMT"
 }
