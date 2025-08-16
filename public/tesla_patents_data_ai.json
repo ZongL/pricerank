@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1379,
+    "numFound": 1381,
     "docs": [
+        {
+            "documentId": "US-20250256676-A1",
+            "datePublished": "2025-08-14",
+            "title": "MOLDED/BACK-INJECTED TRIM PANELS",
+            "patentNumber": "20250256676",
+            "inventors": "Trivedi; Shail et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及注塑成型和背注技术，用于制造汽车内饰板，提高生产效率和部件整合度。"
+        },
+        {
+            "documentId": "US-20250258518-A1",
+            "datePublished": "2025-08-14",
+            "title": "TRACK PLAN TO IMPROVE CLOCK SKEW",
+            "patentNumber": "20250258518",
+            "inventors": "Carson; Derek et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及一种轨迹规划技术，用于减少时钟偏差，提高系统同步性。"
+        },
         {
             "documentId": "US-12388115-B2",
             "datePublished": "2025-08-12",
@@ -2604,5 +2622,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 13 Aug 2025 01:19:20 GMT"
+    "Date": "Sat, 16 Aug 2025 01:16:15 GMT"
 }
