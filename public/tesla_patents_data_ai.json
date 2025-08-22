@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1381,
+    "numFound": 1384,
     "docs": [
+        {
+            "documentId": "US-20250266430-A1",
+            "datePublished": "2025-08-21",
+            "title": "ELEMENTAL METAL AND CARBON MIXTURES FOR ENERGY STORAGE DEVICES",
+            "patentNumber": "20250266430",
+            "inventors": "Duong; Hieu Minh et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及将金属和碳混合用于储能设备，提高电池性能和安全性。"
+        },
+        {
+            "documentId": "US-20250263764-A1",
+            "datePublished": "2025-08-21",
+            "title": "DEVICE FOR PREPARING A DNA PRODUCT BY MEANS OF CAPILLARY POLYMERASE CHAIN REACTION",
+            "patentNumber": "20250263764",
+            "inventors": "YAZDAN PANAH; Benyamin et al.",
+            "pageCount": 36,
+            "AI_Opinion": "该专利涉及利用毛细管聚合酶链反应（PCR）制备DNA产品。技术可能包括：毛细管设计、PCR反应体系优化、DNA扩增效率提升。"
+        },
+        {
+            "documentId": "US-12394774-B2",
+            "datePublished": "2025-08-19",
+            "title": "Compositions and methods for dry electrode films having reduced binder content",
+            "patentNumber": "12394774",
+            "inventors": "Yudi; Yudi et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及低粘合剂含量的干电极膜的制备方法和材料，旨在提高电池性能和降低成本。"
+        },
         {
             "documentId": "US-20250256676-A1",
             "datePublished": "2025-08-14",
@@ -2622,5 +2649,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 16 Aug 2025 01:16:15 GMT"
+    "Date": "Fri, 22 Aug 2025 01:14:13 GMT"
 }
