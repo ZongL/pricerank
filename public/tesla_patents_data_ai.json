@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1384,
+    "numFound": 1386,
     "docs": [
+        {
+            "documentId": "US-12401059-B2",
+            "datePublished": "2025-08-26",
+            "title": "Battery systems based on two-additive electrolyte systems including 1,2,6-oxodithiane-2,2,6,6-tetraoxide",
+            "patentNumber": "12401059",
+            "inventors": "Dahn; Jeffery Raymond et al.",
+            "pageCount": 45,
+            "AI_Opinion": "该专利可能涉及基于1,2,6-氧二硫环-2,2,6,6-四氧化物的双添加剂电解液系统，用于改进电池性能和安全性。"
+        },
+        {
+            "documentId": "US-12398797-B2",
+            "datePublished": "2025-08-26",
+            "title": "Electric drive unit cooling systems with annular oil distribution assembly and methods",
+            "patentNumber": "12398797",
+            "inventors": "Graves; Scott Michael et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及电动汽车驱动单元冷却系统，可能包含环形油分配组件和相关方法，用于提高冷却效率和性能。"
+        },
         {
             "documentId": "US-20250266430-A1",
             "datePublished": "2025-08-21",
@@ -2649,5 +2667,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 22 Aug 2025 01:14:13 GMT"
+    "Date": "Thu, 28 Aug 2025 01:12:09 GMT"
 }
