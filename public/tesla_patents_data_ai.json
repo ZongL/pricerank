@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1386,
+    "numFound": 1387,
     "docs": [
+        {
+            "documentId": "US-12406995-B2",
+            "datePublished": "2025-09-02",
+            "title": "Dry energy storage device electrode and methods of making the same",
+            "patentNumber": "12406995",
+            "inventors": "Duong; Hieu Minh et al.",
+            "pageCount": 53,
+            "AI_Opinion": "该专利可能涉及一种新型干电池储能设备的电极技术及其制造方法，可能包括创新的电极材料、结构设计或制造工艺，旨在提高储能效率和安全性。"
+        },
         {
             "documentId": "US-12401059-B2",
             "datePublished": "2025-08-26",
@@ -2667,5 +2676,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 28 Aug 2025 01:12:09 GMT"
+    "Date": "Thu, 04 Sep 2025 01:08:53 GMT"
 }
