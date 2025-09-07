@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1387,
+    "numFound": 1388,
     "docs": [
+        {
+            "documentId": "US-20250278385-A1",
+            "datePublished": "2025-09-04",
+            "title": "COMPUTATIONAL ARRAY MICROPROCESSOR SYSTEM USING NON-CONSECUTIVE DATA FORMATTING",
+            "patentNumber": "20250278385",
+            "inventors": "Talpes; Emil et al.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利可能涉及一种使用非连续数据格式化的计算阵列微处理器系统，可能包括数据存储、处理和传输技术，旨在提高计算效率和性能。"
+        },
         {
             "documentId": "US-12406995-B2",
             "datePublished": "2025-09-02",
@@ -2676,5 +2685,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 04 Sep 2025 01:08:53 GMT"
+    "Date": "Sun, 07 Sep 2025 01:16:02 GMT"
 }
