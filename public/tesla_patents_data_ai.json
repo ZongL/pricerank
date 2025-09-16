@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1392,
+    "numFound": 1396,
     "docs": [
+        {
+            "documentId": "US-20250285372-A1",
+            "datePublished": "2025-09-11",
+            "title": "ARTIFICIAL INTELLIGENCE MODELING TECHNIQUES FOR VISION-BASED HIGH-FIDELITY OCCUPANCY DETERMINATION AND ASSISTED PARKING APPLICATIONS",
+            "patentNumber": "20250285372",
+            "inventors": "LEE; Philip et al.",
+            "pageCount": 55,
+            "AI_Opinion": "该专利可能涉及利用AI模型进行视觉识别，以高精度确定车内占用情况，并应用于辅助停车技术。"
+        },
+        {
+            "documentId": "US-20250282344-A1",
+            "datePublished": "2025-09-11",
+            "title": "ARTIFICIAL INTELLIGENCE MODELING TECHNIQUES FOR VISION-BASED HIGH-FIDELITY OCCUPANCY DETERMINATION AND ASSISTED PARKING APPLICATIONS",
+            "patentNumber": "20250282344",
+            "inventors": "LEE; Philip et al.",
+            "pageCount": 55,
+            "AI_Opinion": "这篇专利可能涉及使用人工智能模型，通过视觉数据进行高精度的占用检测和辅助泊车技术。"
+        },
+        {
+            "documentId": "US-20250284494-A1",
+            "datePublished": "2025-09-11",
+            "title": "ENHANCED GLOBAL FLAGS FOR SYNCHRONIZING COPROCESSORS IN PROCESSING SYSTEM",
+            "patentNumber": "20250284494",
+            "inventors": "Sassone; Peter et al.",
+            "pageCount": 13,
+            "AI_Opinion": "该专利可能涉及用于同步处理系统中协处理器的高级全局标志技术，以提高数据处理效率和同步性能。"
+        },
+        {
+            "documentId": "US-20250284767-A1",
+            "datePublished": "2025-09-11",
+            "title": "MATRIX MULTIPLICATION PERFORMED USING CONVOLUTION ENGINE WHICH INCLUDES ARRAY OF PROCESSING ELEMENTS",
+            "patentNumber": "20250284767",
+            "inventors": "Sachdev; Gagandeep et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及使用卷积引擎（包含处理元素阵列）进行矩阵乘法的技术，可能包含并行处理、硬件加速和优化算法。"
+        },
         {
             "documentId": "US-20250285372-A1",
             "datePublished": "2025-09-11",
@@ -2721,5 +2757,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 13 Sep 2025 01:05:35 GMT"
+    "Date": "Tue, 16 Sep 2025 01:09:47 GMT"
 }
