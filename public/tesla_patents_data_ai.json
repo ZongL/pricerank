@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1396,
+    "numFound": 1399,
     "docs": [
+        {
+            "documentId": "US-20250289514-A1",
+            "datePublished": "2025-09-18",
+            "title": "INFLATABLE AERODYNAMIC DEFLECTOR FOR CONVEYANCES",
+            "patentNumber": "20250289514",
+            "inventors": "Lamy; Adrian Gael et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及一种用于交通工具的充气式空气动力学偏转装置，旨在提高空气流动效率和减少阻力。"
+        },
+        {
+            "documentId": "US-20250289050-A1",
+            "datePublished": "2025-09-18",
+            "title": "METAL FORMING PROCESS FOR AUTOMOTIVE PANELS",
+            "patentNumber": "20250289050",
+            "inventors": "Rush; Benjamin et al.",
+            "pageCount": 13,
+            "AI_Opinion": "该专利可能涉及汽车面板金属成型的创新工艺，可能包括模具设计、材料选择、成型技术、自动化流程等。"
+        },
+        {
+            "documentId": "US-20250289502-A1",
+            "datePublished": "2025-09-18",
+            "title": "INTEGRATED ENERGY ABSORBING CASTINGS",
+            "patentNumber": "20250289502",
+            "inventors": "Rai; Adip et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及集成能量吸收铸造技术，用于提高汽车安全性能，通过铸造部件吸收碰撞能量。"
+        },
         {
             "documentId": "US-20250285372-A1",
             "datePublished": "2025-09-11",
@@ -2757,5 +2784,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Tue, 16 Sep 2025 01:09:47 GMT"
+    "Date": "Fri, 19 Sep 2025 01:11:56 GMT"
 }
