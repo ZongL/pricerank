@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1399,
+    "numFound": 1401,
     "docs": [
+        {
+            "documentId": "US-12420879-B1",
+            "datePublished": "2025-09-23",
+            "title": "Automated exterior vehicle part assembly using global datum",
+            "patentNumber": "12420879",
+            "inventors": "Normandeau; Hunter Robert et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及使用全球基准点来自动化组装特斯拉汽车外部零件的技术，可能包括机器人、传感器和精确定位系统。"
+        },
+        {
+            "documentId": "US-12426138-B2",
+            "datePublished": "2025-09-23",
+            "title": "LED headlight assembly and control",
+            "patentNumber": "12426138",
+            "inventors": "Harvey; Ross",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及LED大灯组件设计、光束控制技术、智能调节系统及能效优化。"
+        },
         {
             "documentId": "US-20250289514-A1",
             "datePublished": "2025-09-18",
@@ -2784,5 +2802,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 19 Sep 2025 01:11:56 GMT"
+    "Date": "Thu, 25 Sep 2025 01:11:23 GMT"
 }
