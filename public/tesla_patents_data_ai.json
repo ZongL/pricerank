@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1401,
+    "numFound": 1402,
     "docs": [
+        {
+            "documentId": "US-20250307206-A1",
+            "datePublished": "2025-10-02",
+            "title": "EFFICIENT SELECTION OF SINGLE INSTRUCTION MULTIPLE DATA OPERATIONS FOR NEURAL PROCESSING UNITS",
+            "patentNumber": "20250307206",
+            "inventors": "Hopper; Daniel et al.",
+            "pageCount": 12,
+            "AI_Opinion": "这篇专利可能涉及神经处理单元（NPU）中高效选择单指令多数据（SIMD）操作的技术，以优化并行处理和提高性能。"
+        },
         {
             "documentId": "US-12420879-B1",
             "datePublished": "2025-09-23",
@@ -2802,5 +2811,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 25 Sep 2025 01:11:23 GMT"
+    "Date": "Sat, 04 Oct 2025 01:06:47 GMT"
 }
