@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1402,
+    "numFound": 1405,
     "docs": [
+        {
+            "documentId": "US-20250316425-A1",
+            "datePublished": "2025-10-09",
+            "title": "COMPOSITIONS AND METHODS FOR ENERGY STORAGE DEVICE ELECTRODES",
+            "patentNumber": "20250316425",
+            "inventors": "RAMAN; Santhanam et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及新型电池电极材料和制造方法，旨在提高能量存储效率和稳定性。"
+        },
+        {
+            "documentId": "US-20250313788-A1",
+            "datePublished": "2025-10-09",
+            "title": "BIOREACTOR FOR RNA IN VITRO TRANSCRIPTION",
+            "patentNumber": "20250313788",
+            "inventors": "YAZDAN PANAH; Benyamin et al.",
+            "pageCount": 36,
+            "AI_Opinion": "这项专利可能涉及一种用于体外转录RNA的生物反应器技术，可能包括RNA合成、优化转录条件、提高产量和纯度的方法。"
+        },
+        {
+            "documentId": "US-D1096634-S",
+            "datePublished": "2025-10-07",
+            "title": "Grill portion for a battery enclosure",
+            "patentNumber": "D1096634",
+            "inventors": "Pilliod; Michael et al.",
+            "pageCount": 8,
+            "AI_Opinion": "专利标题“Grill portion for a battery enclosure”暗示了一种电池外壳的格栅部分，可能涉及电池散热、防护、美观或结构加固的技术。"
+        },
         {
             "documentId": "US-20250307206-A1",
             "datePublished": "2025-10-02",
@@ -2811,5 +2838,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 04 Oct 2025 01:06:47 GMT"
+    "Date": "Fri, 10 Oct 2025 01:11:06 GMT"
 }
