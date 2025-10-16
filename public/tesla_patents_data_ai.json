@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1405,
+    "numFound": 1406,
     "docs": [
+        {
+            "documentId": "US-12444833-B2",
+            "datePublished": "2025-10-14",
+            "title": "Multi-band antenna",
+            "patentNumber": "12444833",
+            "inventors": "Konanur; Anand S. et al.",
+            "pageCount": 24,
+            "AI_Opinion": "多频带天线技术，可能涉及不同频率信号的接收与发送，提高天线效率和覆盖范围。"
+        },
         {
             "documentId": "US-20250316425-A1",
             "datePublished": "2025-10-09",
@@ -2838,5 +2847,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 10 Oct 2025 01:11:06 GMT"
+    "Date": "Thu, 16 Oct 2025 01:12:41 GMT"
 }
