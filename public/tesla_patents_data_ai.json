@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1406,
+    "numFound": 1408,
     "docs": [
+        {
+            "documentId": "US-20250320757-A1",
+            "datePublished": "2025-10-16",
+            "title": "DOOR ASSEMBLY",
+            "patentNumber": "20250320757",
+            "inventors": "Pancholi; Rajeevkumar P. et al.",
+            "pageCount": 13,
+            "AI_Opinion": "Tesla的“DOOR ASSEMBLY”专利可能涉及电动门技术，包括自动开关、传感器、安全机制和集成设计。"
+        },
+        {
+            "documentId": "US-20250323309-A1",
+            "datePublished": "2025-10-16",
+            "title": "ALLOYING ANODE ACTIVE MATERIALS FOR SODIUM-ION ENERGY STORAGE DEVICES, AND METHODS THEREOF",
+            "patentNumber": "20250323309",
+            "inventors": "Dahn; Jeffery R. et al.",
+            "pageCount": 32,
+            "AI_Opinion": "该专利涉及钠离子储能设备用阳极活性材料的合金化技术及其方法，可能包括新型合金材料、制备工艺和提高电池性能的创新。"
+        },
         {
             "documentId": "US-12444833-B2",
             "datePublished": "2025-10-14",
@@ -2847,5 +2865,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 16 Oct 2025 01:12:41 GMT"
+    "Date": "Sun, 19 Oct 2025 01:20:32 GMT"
 }
