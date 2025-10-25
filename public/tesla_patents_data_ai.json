@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1408,
+    "numFound": 1410,
     "docs": [
+        {
+            "documentId": "US-20250329715-A1",
+            "datePublished": "2025-10-23",
+            "title": "COMPOSITIONS AND METHODS FOR ENERGY STORAGE DEVICES INCLUDING SALTS AND/OR FOAMS",
+            "patentNumber": "20250329715",
+            "inventors": "Petrowsky; Matt et al.",
+            "pageCount": 36,
+            "AI_Opinion": "该专利涉及能量存储设备，可能包含盐类和/或泡沫材料，用于提高电池性能和安全性。"
+        },
+        {
+            "documentId": "US-20250327152-A1",
+            "datePublished": "2025-10-23",
+            "title": "ALUMINUM ALLOYS FOR DIE CASTING",
+            "patentNumber": "20250327152",
+            "inventors": "Palanivel; Sivanesh et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及用于压铸的铝合金材料，包括合金配方、压铸工艺优化，以及提高材料强度和耐腐蚀性。"
+        },
         {
             "documentId": "US-20250320757-A1",
             "datePublished": "2025-10-16",
@@ -2865,5 +2883,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 19 Oct 2025 01:20:32 GMT"
+    "Date": "Sat, 25 Oct 2025 01:11:24 GMT"
 }
