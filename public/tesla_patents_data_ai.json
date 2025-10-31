@@ -1,7 +1,88 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1410,
+    "numFound": 1419,
     "docs": [
+        {
+            "documentId": "US-20250332890-A1",
+            "datePublished": "2025-10-30",
+            "title": "THIN SUN VISOR WITH ROTARY DETENT MECHANISM",
+            "patentNumber": "20250332890",
+            "inventors": "Boehm; Markus et al.",
+            "pageCount": 20,
+            "AI_Opinion": "这篇专利可能涉及一种薄型遮阳板，配备旋转锁定机制，用于汽车，以优化遮阳效果并节省空间。"
+        },
+        {
+            "documentId": "US-20250332816-A1",
+            "datePublished": "2025-10-30",
+            "title": "AUTOMOTIVE GLAZING FOR IMPROVED IMAGE CLARITY",
+            "patentNumber": "20250332816",
+            "inventors": "Murthy; Aditya Suresh et al.",
+            "pageCount": 8,
+            "AI_Opinion": "该专利可能涉及改进汽车玻璃技术，以提高图像清晰度，可能包括涂层、材料或结构设计创新。"
+        },
+        {
+            "documentId": "US-20250334856-A1",
+            "datePublished": "2025-10-30",
+            "title": "CONE-TEXTURED GLARE SHIELD FOR ENHANCED CAMERA VISION",
+            "patentNumber": "20250334856",
+            "inventors": "Boehm; Markus et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及一种锥形纹理的反光罩，用于提高摄像头视野和减少眩光，增强图像识别能力。"
+        },
+        {
+            "documentId": "US-20250335796-A1",
+            "datePublished": "2025-10-30",
+            "title": "MACHINE LEARNING MODELS OPERATING AT DIFFERENT FREQUENCIES FOR AUTONOMOUS VEHICLES",
+            "patentNumber": "20250335796",
+            "inventors": "Shen; Anting",
+            "pageCount": 13,
+            "AI_Opinion": "该专利可能涉及使用不同频率运行的机器学习模型来提高自动驾驶汽车的性能和响应速度。"
+        },
+        {
+            "documentId": "US-20250336974-A1",
+            "datePublished": "2025-10-30",
+            "title": "COMPOSITIONS AND METHODS FOR PARALLEL PROCESSING OF ELECTRODE FILM MIXTURES",
+            "patentNumber": "20250336974",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及电极薄膜混合物的并行处理技术，旨在提高电池制造效率和性能。"
+        },
+        {
+            "documentId": "US-12457687-B2",
+            "datePublished": "2025-10-28",
+            "title": "Stacked component array structure",
+            "patentNumber": "12457687",
+            "inventors": "Zhao; Jin et al.",
+            "pageCount": 23,
+            "AI_Opinion": "Tesla的\"Stacked component array structure\"可能涉及层叠组件阵列技术，用于优化电动汽车电池组设计，提高能量密度和效率。"
+        },
+        {
+            "documentId": "US-12455739-B2",
+            "datePublished": "2025-10-28",
+            "title": "Instruction set architecture for a vector computational unit",
+            "patentNumber": "12455739",
+            "inventors": "Das Sarma; Debjit et al.",
+            "pageCount": 37,
+            "AI_Opinion": "该专利可能涉及向量计算单元的指令集架构，用于优化并行处理和提高计算效率。"
+        },
+        {
+            "documentId": "US-12456777-B2",
+            "datePublished": "2025-10-28",
+            "title": "Integrated energy storage system",
+            "patentNumber": "12456777",
+            "inventors": "Pires; Andrew et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及集成储能系统，包括电池管理、能量转换、优化储能效率和电网交互技术。"
+        },
+        {
+            "documentId": "US-D1099825-S",
+            "datePublished": "2025-10-28",
+            "title": "Electric vehicle charging station",
+            "patentNumber": "D1099825",
+            "inventors": "Verdura; Javier et al.",
+            "pageCount": 9,
+            "AI_Opinion": "专利可能涉及电动车充电技术、充电站设计、充电效率优化、能源管理、充电接口兼容性、充电网络布局等。"
+        },
         {
             "documentId": "US-20250329715-A1",
             "datePublished": "2025-10-23",
@@ -2883,5 +2964,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 25 Oct 2025 01:11:24 GMT"
+    "Date": "Fri, 31 Oct 2025 01:15:01 GMT"
 }
