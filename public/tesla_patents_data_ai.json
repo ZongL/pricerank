@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1419,
+    "numFound": 1424,
     "docs": [
+        {
+            "documentId": "US-12460635-B2",
+            "datePublished": "2025-11-04",
+            "title": "Electric pump system and method with hollow shaft and temperature sensor",
+            "patentNumber": "12460635",
+            "inventors": "Graves; Scott Michael et al.",
+            "pageCount": 30,
+            "AI_Opinion": "该专利涉及一种带有空心轴和温度传感器的电动泵系统，可能包括空心轴设计以减少材料使用，温度传感器用于监测和控制泵的运行温度，以提高效率和安全性。"
+        },
+        {
+            "documentId": "US-12464081-B2",
+            "datePublished": "2025-11-04",
+            "title": "Kinematic assessment and verification of paper documents for processing and analysis thereof",
+            "patentNumber": "12464081",
+            "inventors": "Pulitzer; Jovan Hutton",
+            "pageCount": 34,
+            "AI_Opinion": "这篇专利可能涉及的技术包括：文档运动学评估、验证、处理和分析方法。"
+        },
+        {
+            "documentId": "US-12463256-B2",
+            "datePublished": "2025-11-04",
+            "title": "Cell with a tabless electrode",
+            "patentNumber": "12463256",
+            "inventors": "Tsuruta; Kunio et al.",
+            "pageCount": 22,
+            "AI_Opinion": "\"Cell with a tabless electrode\" 可能指一种无隔板电池技术，这种电池使用无隔板电极，可能提高能量密度和安全性。"
+        },
+        {
+            "documentId": "US-12462575-B2",
+            "datePublished": "2025-11-04",
+            "title": "Vision-based machine learning model for autonomous driving with adjustable virtual camera",
+            "patentNumber": "12462575",
+            "inventors": "Emmons; John et al.",
+            "pageCount": 28,
+            "AI_Opinion": "该专利可能涉及使用机器学习进行自动驾驶的视觉识别技术，包括可调节虚拟摄像头以优化图像数据。"
+        },
+        {
+            "documentId": "US-12459020-B2",
+            "datePublished": "2025-11-04",
+            "title": "System and method for facilitating pulsed spray quench of extruded objects",
+            "patentNumber": "12459020",
+            "inventors": "Ottmann; Jared E.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及一种系统和方法，用于脉冲喷雾冷却挤出物体。技术可能包括挤出物的冷却、脉冲喷雾系统设计、温度控制和材料特性优化。"
+        },
         {
             "documentId": "US-20250332890-A1",
             "datePublished": "2025-10-30",
@@ -2964,5 +3009,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 31 Oct 2025 01:15:01 GMT"
+    "Date": "Fri, 07 Nov 2025 01:15:55 GMT"
 }
