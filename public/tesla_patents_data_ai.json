@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1424,
+    "numFound": 1426,
     "docs": [
+        {
+            "documentId": "US-12469999-B2",
+            "datePublished": "2025-11-11",
+            "title": "Liquid-cooled charging connector",
+            "patentNumber": "12469999",
+            "inventors": "Chou; Chuen et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及一种充电连接器，利用液体冷却技术以提高充电效率，减少热量积累，确保充电安全。"
+        },
+        {
+            "documentId": "US-12469160-B2",
+            "datePublished": "2025-11-11",
+            "title": "Artificial intelligence modeling techniques for vision-based occupancy determination",
+            "patentNumber": "12469160",
+            "inventors": "Duan; Pengfei et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及使用AI模型，如深度学习，通过图像识别技术来确定车辆占用情况。"
+        },
         {
             "documentId": "US-12460635-B2",
             "datePublished": "2025-11-04",
@@ -3009,5 +3027,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 07 Nov 2025 01:15:55 GMT"
+    "Date": "Thu, 13 Nov 2025 01:17:02 GMT"
 }
