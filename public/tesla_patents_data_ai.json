@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1426,
+    "numFound": 1427,
     "docs": [
+        {
+            "documentId": "US-20250346011-A1",
+            "datePublished": "2025-11-13",
+            "title": "BEARING BLOCK ASSEMBLY FOR CALENDER ROLLERS, SYSTEMS AND METHODS THEREOF",
+            "patentNumber": "20250346011",
+            "inventors": "Matsumoto; Matthew et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及滚压机轴承座组件，可能包含滚轮轴承的创新设计、安装方法和系统，旨在提高效率和耐用性。"
+        },
         {
             "documentId": "US-12469999-B2",
             "datePublished": "2025-11-11",
@@ -3027,5 +3036,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 13 Nov 2025 01:17:02 GMT"
+    "Date": "Sun, 16 Nov 2025 01:21:25 GMT"
 }
