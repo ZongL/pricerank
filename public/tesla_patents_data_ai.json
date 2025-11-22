@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1427,
+    "numFound": 1431,
     "docs": [
+        {
+            "documentId": "US-20250357799-A1",
+            "datePublished": "2025-11-20",
+            "title": "SWITCHING CIRCUITS TO REDUCE LEAKAGE CURRENT IN INDUCTIVE CHARGING",
+            "patentNumber": "20250357799",
+            "inventors": "Zheng; Liran et al.",
+            "pageCount": 35,
+            "AI_Opinion": "该专利可能涉及通过切换电路减少感应充电中的漏电流技术，以提高能效和安全性。"
+        },
+        {
+            "documentId": "US-20250356636-A1",
+            "datePublished": "2025-11-20",
+            "title": "SYSTEMS AND METHODS FOR LABELING IMAGES FOR TRAINING MACHINE LEARNING MODEL",
+            "patentNumber": "20250356636",
+            "inventors": "Karpathy; Andrej et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利可能涉及图像标注技术，用于训练机器学习模型，可能包括自动化标注、数据增强和图像识别算法。"
+        },
+        {
+            "documentId": "US-20250357243-A1",
+            "datePublished": "2025-11-20",
+            "title": "SEMICONDUCTOR DEVICE PACKAGE WITH DUAL-SIDED COOLING",
+            "patentNumber": "20250357243",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及一种半导体器件封装技术，具备双面冷却功能，以提高散热效率和性能。"
+        },
+        {
+            "documentId": "US-20250357544-A1",
+            "datePublished": "2025-11-20",
+            "title": "CARBONATE COMPOUNDS FOR ENERGY STORAGE DEVICE ELECTROLYTE COMPOSITIONS, AND METHODS THEREOF",
+            "patentNumber": "20250357544",
+            "inventors": "Dahn; Jeffery R. et al.",
+            "pageCount": 49,
+            "AI_Opinion": "该专利涉及用于能量存储设备电解液的碳酸化合物、组成及方法，可能包括新型电解液配方、提升电池性能和安全性的技术。"
+        },
         {
             "documentId": "US-20250346011-A1",
             "datePublished": "2025-11-13",
@@ -3036,5 +3072,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 16 Nov 2025 01:21:25 GMT"
+    "Date": "Sat, 22 Nov 2025 01:13:14 GMT"
 }
