@@ -1,7 +1,79 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1435,
+    "numFound": 1443,
     "docs": [
+        {
+            "documentId": "US-20250368267-A1",
+            "datePublished": "2025-12-04",
+            "title": "VEHICLE ROOF ASSEMBLY WITH INTEGRATED RF TRANSPARENCY FOR ELECTRONIC MODULE CONSOLIDATION",
+            "patentNumber": "20250368267",
+            "inventors": "Zucker; George et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及集成射频透明的车顶组件，用于电子模块整合，可能包括无线通信技术。"
+        },
+        {
+            "documentId": "US-20250368012-A1",
+            "datePublished": "2025-12-04",
+            "title": "PRINTED CIRCUIT GLASS",
+            "patentNumber": "20250368012",
+            "inventors": "Mehta; Harsh et al.",
+            "pageCount": 15,
+            "AI_Opinion": "\"PRINTED CIRCUIT GLASS\" 可能涉及在玻璃基板上印刷电路的技术，用于制造透明或半透明的电子设备。"
+        },
+        {
+            "documentId": "US-20250373083-A1",
+            "datePublished": "2025-12-04",
+            "title": "SWITCH CONFIGURATION CONTROL FOR WIRELESS CHARGING CIRCUITS",
+            "patentNumber": "20250373083",
+            "inventors": "Zheng; Liran et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及无线充电电路的开关配置控制技术，用于优化充电效率和安全性。"
+        },
+        {
+            "documentId": "US-20250368284-A1",
+            "datePublished": "2025-12-04",
+            "title": "AUTOMATED EXTERIOR VEHICLE PART ASSEMBLY USING GLOBAL DATUM",
+            "patentNumber": "20250368284",
+            "inventors": "Normandeau; Hunter Robert et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及使用全局基准点自动化组装车辆外部部件的技术。"
+        },
+        {
+            "documentId": "US-20250374398-A1",
+            "datePublished": "2025-12-04",
+            "title": "LED HEADLIGHT ASSEMBLY AND CONTROL",
+            "patentNumber": "20250374398",
+            "inventors": "Harvey; Ross",
+            "pageCount": 19,
+            "AI_Opinion": "专利可能涉及LED头灯组件设计、控制技术，包括光束调整、能效优化和智能照明系统。"
+        },
+        {
+            "documentId": "US-20250372716-A1",
+            "datePublished": "2025-12-04",
+            "title": "NOVEL BATTERY SYSTEMS BASED ON TWO-ADDITIVE ELECTROLYTE SYSTEMS INCLUDING 1,2,6-OXODITHIANE-2,2,6,6-TETRAOXIDE",
+            "patentNumber": "20250372716",
+            "inventors": "Dahn; Jeffery Raymond et al.",
+            "pageCount": 45,
+            "AI_Opinion": "该专利涉及基于两种添加剂的新型电池系统，包括1,2,6-氧化二硫环-2,2,6,6-四氧化物，可能涉及改进电池性能和安全性的电解质技术。"
+        },
+        {
+            "documentId": "US-20250373569-A1",
+            "datePublished": "2025-12-04",
+            "title": "VEHICLE NETWORK AND METHOD OF COMMUNICATION",
+            "patentNumber": "20250373569",
+            "inventors": "ESMAIL; Adnan et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及特斯拉车辆网络通信技术，包括车辆间数据交换、网络架构、通信协议优化等。"
+        },
+        {
+            "documentId": "US-20250372629-A1",
+            "datePublished": "2025-12-04",
+            "title": "SILICON COMPOSITE ANODE MATERIALS FOR ENERGY STORAGE DEVICES, AND METHODS THEREOF",
+            "patentNumber": "20250372629",
+            "inventors": "Sinha; Nupur Nikkan et al.",
+            "pageCount": 24,
+            "AI_Opinion": "这篇专利可能涉及用于能量存储设备的硅基复合负极材料及其制备方法，旨在提高电池性能和稳定性。"
+        },
         {
             "documentId": "US-12485730-B2",
             "datePublished": "2025-12-02",
@@ -3108,5 +3180,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 04 Dec 2025 01:18:33 GMT"
+    "Date": "Sun, 07 Dec 2025 01:25:54 GMT"
 }
