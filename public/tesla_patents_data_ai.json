@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1444,
+    "numFound": 1448,
     "docs": [
+        {
+            "documentId": "US-20250385339-A1",
+            "datePublished": "2025-12-18",
+            "title": "INTEGRATED HEATER FOR BATTERY",
+            "patentNumber": "20250385339",
+            "inventors": "Ong; Aaron Cheston Lim et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及一种集成于电池中的加热系统，用于提升电池性能和安全性。"
+        },
+        {
+            "documentId": "US-20250385543-A1",
+            "datePublished": "2025-12-18",
+            "title": "POWER DISCONNECT SYSTEM AND METHOD",
+            "patentNumber": "20250385543",
+            "inventors": "Evans; Kyle Breuning et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及一种用于电动汽车的电源断开系统和方法，旨在提高安全性、效率和可靠性，通过智能控制实现电池与车辆的快速安全断开。"
+        },
+        {
+            "documentId": "US-12500272-B2",
+            "datePublished": "2025-12-16",
+            "title": "Non-aqueous solvent electrolyte formulations for energy storage devices",
+            "patentNumber": "12500272",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利涉及非水性溶剂电解质配方，用于提高能量存储设备性能。"
+        },
+        {
+            "documentId": "US-12497105-B2",
+            "datePublished": "2025-12-16",
+            "title": "Integrated components for vehicles",
+            "patentNumber": "12497105",
+            "inventors": "Stack; Marcus et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及车辆集成组件技术，如电池、电机和电子控制单元一体化设计，以提高效率和空间利用率。"
+        },
         {
             "documentId": "US-12494473-B2",
             "datePublished": "2025-12-09",
@@ -3189,5 +3225,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 10 Dec 2025 01:20:15 GMT"
+    "Date": "Fri, 19 Dec 2025 01:20:51 GMT"
 }
