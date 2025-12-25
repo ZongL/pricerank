@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1448,
+    "numFound": 1449,
     "docs": [
+        {
+            "documentId": "US-12503165-B2",
+            "datePublished": "2025-12-23",
+            "title": "Integrated energy absorbing castings",
+            "patentNumber": "12503165",
+            "inventors": "Rai; Adip et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及集成式能量吸收铸件技术，用于提高汽车安全性能，通过铸件设计吸收撞击能量，保护乘客。"
+        },
         {
             "documentId": "US-20250385339-A1",
             "datePublished": "2025-12-18",
@@ -3225,5 +3234,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 19 Dec 2025 01:20:51 GMT"
+    "Date": "Thu, 25 Dec 2025 01:20:53 GMT"
 }
