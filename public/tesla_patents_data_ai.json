@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1451,
+    "numFound": 1453,
     "docs": [
+        {
+            "documentId": "US-12512475-B2",
+            "datePublished": "2025-12-30",
+            "title": "Compositions and methods for dry electrode films including elastic polymer binders",
+            "patentNumber": "12512475",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 34,
+            "AI_Opinion": "该专利涉及包含弹性聚合物粘合剂的干电极膜的组成和方法，可能涉及制备弹性聚合物粘合剂以增强电极膜性能和稳定性的技术。"
+        },
+        {
+            "documentId": "US-12512478-B2",
+            "datePublished": "2025-12-30",
+            "title": "Compositions and methods for dry electrode films including microparticulate non-fibrillizable binders",
+            "patentNumber": "12512478",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及干电极膜技术，可能包括微粒状非纤维化粘合剂，用于提高电池性能和稳定性。"
+        },
         {
             "documentId": "US-20250389610-A1",
             "datePublished": "2025-12-25",
@@ -3252,5 +3270,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 28 Dec 2025 01:38:55 GMT"
+    "Date": "Wed, 31 Dec 2025 01:22:25 GMT"
 }
