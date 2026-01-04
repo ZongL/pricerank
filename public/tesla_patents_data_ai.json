@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1453,
+    "numFound": 1455,
     "docs": [
+        {
+            "documentId": "US-20260002881-A1",
+            "datePublished": "2026-01-01",
+            "title": "SYSTEM FOR WINDSHIELD RESIDUE DETECTION AND QUANTIFICATION",
+            "patentNumber": "20260002881",
+            "inventors": "ZHENG; Jiasen et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及利用传感器、图像识别和算法来检测和量化挡风玻璃上的残留物。"
+        },
+        {
+            "documentId": "US-20260005219-A1",
+            "datePublished": "2026-01-01",
+            "title": "METHOD OF MANUFACTURING A DRY ELECTRODE",
+            "patentNumber": "20260005219",
+            "inventors": "Mitchell; Porter",
+            "pageCount": 20,
+            "AI_Opinion": "该专利可能涉及制造干电极的新方法，可能包括改进材料配方、电极结构或生产过程，以提高电池性能和降低成本。"
+        },
         {
             "documentId": "US-12512475-B2",
             "datePublished": "2025-12-30",
@@ -3270,5 +3288,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 31 Dec 2025 01:22:25 GMT"
+    "Date": "Sun, 04 Jan 2026 01:39:59 GMT"
 }
