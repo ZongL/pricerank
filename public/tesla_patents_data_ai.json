@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1456,
+    "numFound": 1460,
     "docs": [
+        {
+            "documentId": "US-20260008433-A1",
+            "datePublished": "2026-01-08",
+            "title": "ULTRA WIDE BAND (UWB) BASED AUTOMATIC TRUNK ADJUSTMENT",
+            "patentNumber": "20260008433",
+            "inventors": "Jain; Brahmesh Saligrama Dhara et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及使用超宽带（UWB）技术自动调整汽车后备箱高度，以适应不同用户身高或物品高度。"
+        },
+        {
+            "documentId": "US-20260011194-A1",
+            "datePublished": "2026-01-08",
+            "title": "ULTRA WIDE BAND (UWB) BASED AUTOMATIC MOVEABLE CLOSURE ADJUSTMENT",
+            "patentNumber": "20260011194",
+            "inventors": "Jain; Brahmesh Saligrama Dhara et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及使用超宽带（UWB）技术自动调整可移动闭合装置，以提高精确性和响应速度。"
+        },
+        {
+            "documentId": "US-20260009310-A1",
+            "datePublished": "2026-01-08",
+            "title": "SYSTEMS AND METHODS FOR TEMPERATURE TRACKING AND DETECTION OF LEAKS",
+            "patentNumber": "20260009310",
+            "inventors": "Tesla; Marlon J.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及温度监测系统和泄漏检测方法，可能利用传感器、数据分析和算法来实时监控温度变化和检测潜在泄漏。"
+        },
+        {
+            "documentId": "US-20260012107-A1",
+            "datePublished": "2026-01-08",
+            "title": "HYBRID TRACTION INVERTERS FOR ELECTRIC TRACTION MOTORS",
+            "patentNumber": "20260012107",
+            "inventors": "Praglin; Maxwell et al.",
+            "pageCount": 35,
+            "AI_Opinion": "该专利可能涉及混合动力牵引逆变器技术，用于电动牵引电机，可能包括能量转换、效率优化和控制策略。"
+        },
         {
             "documentId": "US-12518574-B1",
             "datePublished": "2026-01-06",
@@ -3297,5 +3333,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 07 Jan 2026 01:22:49 GMT"
+    "Date": "Sat, 10 Jan 2026 01:20:59 GMT"
 }
