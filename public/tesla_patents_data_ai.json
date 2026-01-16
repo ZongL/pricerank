@@ -1,7 +1,61 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1460,
+    "numFound": 1466,
     "docs": [
+        {
+            "documentId": "US-20260017019-A1",
+            "datePublished": "2026-01-15",
+            "title": "HIGH PRECISION COMPLEX NUMBER BASED ROTARY POSITIONAL ENCODING CALCULATION ON 8-BIT COMPUTE HARDWARE",
+            "patentNumber": "20260017019",
+            "inventors": "UNLU; Hasan et al.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利涉及在8位计算硬件上进行高精度复数基础的旋转位置编码计算技术。"
+        },
+        {
+            "documentId": "US-20260017051-A1",
+            "datePublished": "2026-01-15",
+            "title": "SPECIAL INPUT FORMATTING FOR BINARY INPUT DATA TO BE ABLE TO PROCESS AS SAME THROUGHPUT AS SMALLER BINARY DATA",
+            "patentNumber": "20260017051",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及优化二进制数据输入格式，以提高处理效率，使其与小规模二进制数据处理速度相当。"
+        },
+        {
+            "documentId": "US-20260017503-A1",
+            "datePublished": "2026-01-15",
+            "title": "SYSTEMS AND METHODS FOR BIT-AUGMENTED ARITHMETIC CONVOLUTION",
+            "patentNumber": "20260017503",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及一种用于增强算术卷积的系统和方法，通过位扩展技术提高计算精度和效率。"
+        },
+        {
+            "documentId": "US-20260019717-A1",
+            "datePublished": "2026-01-15",
+            "title": "DIRECT RAW BAYER IMAGE INPUT TO COMPUTE HARDWARE",
+            "patentNumber": "20260019717",
+            "inventors": "UNLU; Hasan et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该技术可能涉及将原始Bayer图像直接输入到计算硬件中，以提高图像处理速度和效率。"
+        },
+        {
+            "documentId": "US-20260017875-A1",
+            "datePublished": "2026-01-15",
+            "title": "SIMULATION OF VIEWPOINT CAPTURE FROM ENVIRONMENT RENDERED WITH GROUND TRUTH HEURISTICS",
+            "patentNumber": "20260017875",
+            "inventors": "HENDEN; Charles et al.",
+            "pageCount": 35,
+            "AI_Opinion": "这篇专利可能涉及使用地面真实启发式算法来模拟从环境渲染中捕获视角的技术。"
+        },
+        {
+            "documentId": "US-12522243-B2",
+            "datePublished": "2026-01-13",
+            "title": "Vision-based system training with simulated content",
+            "patentNumber": "12522243",
+            "inventors": "Abfall; David et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及使用模拟内容训练基于视觉的系统，以提高自动驾驶等应用的准确性和安全性。"
+        },
         {
             "documentId": "US-20260008433-A1",
             "datePublished": "2026-01-08",
@@ -3333,5 +3387,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 10 Jan 2026 01:20:59 GMT"
+    "Date": "Fri, 16 Jan 2026 01:23:57 GMT"
 }
