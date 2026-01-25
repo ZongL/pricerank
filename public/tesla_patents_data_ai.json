@@ -1,7 +1,16 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1467,
+    "numFound": 1468,
     "docs": [
+        {
+            "documentId": "US-20260025921-A1",
+            "datePublished": "2026-01-22",
+            "title": "METHODS OF ASSEMBLING STACKED PRINTED CIRCUIT BOARD COMPONENT ARRAY",
+            "patentNumber": "20260025921",
+            "inventors": "Zhao; Jin et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利可能涉及多层印刷电路板组件的组装技术，包括层叠、互连和封装方法，以优化性能和空间利用率。"
+        },
         {
             "documentId": "US-12530047-B2",
             "datePublished": "2026-01-20",
@@ -3396,5 +3405,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 22 Jan 2026 01:25:49 GMT"
+    "Date": "Sun, 25 Jan 2026 01:41:22 GMT"
 }
