@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1468,
+    "numFound": 1470,
     "docs": [
+        {
+            "documentId": "US-12534092-B2",
+            "datePublished": "2026-01-27",
+            "title": "Automated adjustment of vehicle direction based on environment analysis",
+            "patentNumber": "12534092",
+            "inventors": "Shivaprasad; Shreyas et al.",
+            "pageCount": 28,
+            "AI_Opinion": "该专利可能涉及基于环境分析自动调整车辆方向的技术，包括传感器数据收集、环境识别、决策算法和方向控制。"
+        },
+        {
+            "documentId": "US-12536131-B2",
+            "datePublished": "2026-01-27",
+            "title": "Vector computational unit",
+            "patentNumber": "12536131",
+            "inventors": "Das Sarma; Debjit et al.",
+            "pageCount": 37,
+            "AI_Opinion": "该专利可能涉及向量计算单元，用于加速并行数据处理，可能应用于深度学习、图像处理等领域。"
+        },
         {
             "documentId": "US-20260025921-A1",
             "datePublished": "2026-01-22",
@@ -3405,5 +3423,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 25 Jan 2026 01:41:22 GMT"
+    "Date": "Wed, 28 Jan 2026 01:25:31 GMT"
 }
