@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1470,
+    "numFound": 1472,
     "docs": [
+        {
+            "documentId": "US-20260031317-A1",
+            "datePublished": "2026-01-29",
+            "title": "COMPOSITIONS AND METHODS FOR DRY ELECTRODE FILMS HAVING REDUCED BINDER CONTENT",
+            "patentNumber": "20260031317",
+            "inventors": "Yudi; Yudi et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利涉及减少粘合剂含量的干电极膜技术。可能包括新型电极材料、低粘合剂配方、改进的制造工艺。"
+        },
+        {
+            "documentId": "US-20260031463-A1",
+            "datePublished": "2026-01-29",
+            "title": "INTEGRATED ENERGY STORAGE SYSTEM",
+            "patentNumber": "20260031463",
+            "inventors": "Pires; Andrew et al.",
+            "pageCount": 18,
+            "AI_Opinion": "特斯拉的“集成能源存储系统”可能包含高效电池管理、模块化存储单元、智能电网集成、能量优化算法等技术。"
+        },
         {
             "documentId": "US-12534092-B2",
             "datePublished": "2026-01-27",
@@ -3423,5 +3441,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 28 Jan 2026 01:25:31 GMT"
+    "Date": "Sat, 31 Jan 2026 01:43:00 GMT"
 }
