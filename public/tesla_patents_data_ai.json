@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1474,
+    "numFound": 1476,
     "docs": [
+        {
+            "documentId": "US-20260038882-A1",
+            "datePublished": "2026-02-05",
+            "title": "CELL WITH A TABLESS ELECTRODE",
+            "patentNumber": "20260038882",
+            "inventors": "Tsuruta; Kunio et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及无极板电池技术，可能包括新型电极结构、材料或制造方法，以提高电池性能和安全性。"
+        },
+        {
+            "documentId": "US-20260036178-A1",
+            "datePublished": "2026-02-05",
+            "title": "OSCILLATING INERTIAL LATCH",
+            "patentNumber": "20260036178",
+            "inventors": "Shreyash; Joshi",
+            "pageCount": 13,
+            "AI_Opinion": "\"振荡惯性锁\"技术可能涉及利用振荡或摆动原理来实现锁的开闭机制，可能具有提高安全性和减少能耗的特点。"
+        },
         {
             "documentId": "US-12540697-B2",
             "datePublished": "2026-02-03",
@@ -3459,5 +3477,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 04 Feb 2026 01:47:47 GMT"
+    "Date": "Sat, 07 Feb 2026 01:45:14 GMT"
 }
