@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1476,
+    "numFound": 1481,
     "docs": [
+        {
+            "documentId": "US-20260046983-A1",
+            "datePublished": "2026-02-12",
+            "title": "AUTOMOTIVE GLAZING HEATING SYSTEM WITH INDEPENDENT ZONE ACTIVATION",
+            "patentNumber": "20260046983",
+            "inventors": "Murthy; Aditya Suresh et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及汽车玻璃加热系统，具备独立区域激活功能，用于快速除雾或除霜，提升驾驶安全。"
+        },
+        {
+            "documentId": "US-20260045480-A1",
+            "datePublished": "2026-02-12",
+            "title": "METHOD FOR ENHANCING DRY ELECTRODE ELECTROLYTE ABSORPTION AND SEPARATOR ADHESION, AND SYSTEMS THEREOF",
+            "patentNumber": "20260045480",
+            "inventors": "Atadana; Frederick et al.",
+            "pageCount": 36,
+            "AI_Opinion": "该专利涉及提高干电极电解质吸收和隔膜粘附的方法及系统，可能包括改进电极制造、优化电解质配方和隔膜材料，以提升电池性能和寿命。"
+        },
+        {
+            "documentId": "US-20260042486-A1",
+            "datePublished": "2026-02-12",
+            "title": "INTEGRATED COMPONENTS FOR VEHICLES",
+            "patentNumber": "20260042486",
+            "inventors": "Stack; Marcus et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及特斯拉车辆的集成组件技术，如电池、电机、电子控制单元等，旨在提高效率、降低成本和提升性能。"
+        },
+        {
+            "documentId": "US-12547228-B2",
+            "datePublished": "2026-02-10",
+            "title": "Computing system with vertical clock delivery architecture",
+            "patentNumber": "12547228",
+            "inventors": "Zhao; Jin et al.",
+            "pageCount": 11,
+            "AI_Opinion": "垂直时钟传递架构的计算系统可能涉及高效的时钟信号分配技术，用于优化数据同步和减少延迟。"
+        },
+        {
+            "documentId": "US-12548351-B2",
+            "datePublished": "2026-02-10",
+            "title": "Vision-based machine learning model for lane connectivity in autonomous or semi-autonomous driving",
+            "patentNumber": "12548351",
+            "inventors": "Cho; Patrick et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及使用机器学习对车辆行驶路径进行视觉识别，以实现自动驾驶或半自动驾驶中车道连接的智能决策。"
+        },
         {
             "documentId": "US-20260038882-A1",
             "datePublished": "2026-02-05",
@@ -3477,5 +3522,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 07 Feb 2026 01:45:14 GMT"
+    "Date": "Fri, 13 Feb 2026 01:57:40 GMT"
 }
