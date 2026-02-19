@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1481,
+    "numFound": 1483,
     "docs": [
+        {
+            "documentId": "US-12554467-B2",
+            "datePublished": "2026-02-17",
+            "title": "Accelerated mathematical engine",
+            "patentNumber": "12554467",
+            "inventors": "Bannon; Peter Joseph et al.",
+            "pageCount": 26,
+            "AI_Opinion": "\"Accelerated mathematical engine\"可能涉及提升计算速度的技术，如硬件加速、算法优化或并行处理。"
+        },
+        {
+            "documentId": "US-12554302-B2",
+            "datePublished": "2026-02-17",
+            "title": "Multi-stage array based vertically integrated power delivery",
+            "patentNumber": "12554302",
+            "inventors": "Zhao; Jin et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及多级阵列式垂直集成电力传输技术，用于优化特斯拉电动汽车的能源效率和电池管理。"
+        },
         {
             "documentId": "US-20260046983-A1",
             "datePublished": "2026-02-12",
@@ -3522,5 +3540,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 13 Feb 2026 01:57:40 GMT"
+    "Date": "Thu, 19 Feb 2026 01:53:44 GMT"
 }
