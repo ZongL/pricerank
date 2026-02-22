@@ -1,7 +1,61 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1483,
+    "numFound": 1489,
     "docs": [
+        {
+            "documentId": "US-20260049667-A1",
+            "datePublished": "2026-02-19",
+            "title": "FAST FILL VALVE FOR CLOSED LOOP FLUID SYSTEM",
+            "patentNumber": "20260049667",
+            "inventors": "Kopitz; Jan et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及一种快速填充阀门，用于封闭流体系统中，可能包含创新的流体控制技术，提高流体填充效率和安全性。"
+        },
+        {
+            "documentId": "US-20260048683-A1",
+            "datePublished": "2026-02-19",
+            "title": "ELECTRIC VEHICLE RANGE EXTENDER INTEGRATION",
+            "patentNumber": "20260048683",
+            "inventors": "Morrill; Westbrook et al.",
+            "pageCount": 40,
+            "AI_Opinion": "该专利可能涉及电动汽车增程器集成技术，包括电池、电机、控制系统优化，以提升续航里程和效率。"
+        },
+        {
+            "documentId": "US-20260049824-A1",
+            "datePublished": "2026-02-19",
+            "title": "AUTOMATED VEHICLE MANAGEMENT FOR OCCUPANT-COUNT RESTRICTED ROAD SEGMENTS",
+            "patentNumber": "20260049824",
+            "inventors": "Bhatia; Dev Urvi Jatin et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及自动驾驶技术，用于管理车辆在特定路段的通行，以限制乘客数量。"
+        },
+        {
+            "documentId": "US-20260048739-A1",
+            "datePublished": "2026-02-19",
+            "title": "BRAKE TEMPERATURE BASED SPEED-CONTROLLING",
+            "patentNumber": "20260048739",
+            "inventors": "Swaminathan; Anand et al.",
+            "pageCount": 14,
+            "AI_Opinion": "这项技术可能涉及利用刹车温度数据来调整车速，以优化刹车性能和延长使用寿命。"
+        },
+        {
+            "documentId": "US-20260050706-A1",
+            "datePublished": "2026-02-19",
+            "title": "CLOCK TIMING IN REPLICATED ARRAYS",
+            "patentNumber": "20260050706",
+            "inventors": "Nivarti; Anantha Kumar et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及在复制阵列中同步时钟信号的技术，以确保数据一致性和系统性能。"
+        },
+        {
+            "documentId": "US-20260052110-A1",
+            "datePublished": "2026-02-19",
+            "title": "LINK TIMER FOR ETHERNET",
+            "patentNumber": "20260052110",
+            "inventors": "Quinnell; Eric C. et al.",
+            "pageCount": 34,
+            "AI_Opinion": "\"LINK TIMER FOR ETHERNET\" 可能涉及以太网链路管理技术，用于优化数据传输效率和稳定性，通过定时器控制链路状态。"
+        },
         {
             "documentId": "US-12554467-B2",
             "datePublished": "2026-02-17",
@@ -3540,5 +3594,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 19 Feb 2026 01:53:44 GMT"
+    "Date": "Sun, 22 Feb 2026 01:52:48 GMT"
 }
