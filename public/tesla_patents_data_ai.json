@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1491,
+    "numFound": 1494,
     "docs": [
+        {
+            "documentId": "US-20260061898-A1",
+            "datePublished": "2026-03-05",
+            "title": "VEHICLE SEAT SYSTEM",
+            "patentNumber": "20260061898",
+            "inventors": "Yuan; Cheng Hao et al.",
+            "pageCount": 29,
+            "AI_Opinion": "Tesla的“VEHICLE SEAT SYSTEM”专利可能涉及座椅设计、舒适性、安全性、电动调节、智能感应等方面的创新技术。"
+        },
+        {
+            "documentId": "US-20260068669-A1",
+            "datePublished": "2026-03-05",
+            "title": "METHOD OF MAKING AN INVERTER",
+            "patentNumber": "20260068669",
+            "inventors": "Liu; Wenjun et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利可能涉及创新的逆变器制造技术，包括提高效率、降低成本、优化设计或增强可靠性的方法。"
+        },
+        {
+            "documentId": "US-20260066263-A1",
+            "datePublished": "2026-03-05",
+            "title": "SYSTEM AND METHODS FOR MANUFACTURING A DRY ELECTRODE",
+            "patentNumber": "20260066263",
+            "inventors": "Mitchell; Porter",
+            "pageCount": 20,
+            "AI_Opinion": "该专利涉及制造干电极系统和方法，可能包含电极制备、材料配方、干燥技术等创新。"
+        },
         {
             "documentId": "US-20260056572-A1",
             "datePublished": "2026-02-26",
@@ -3612,5 +3639,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 28 Feb 2026 01:39:23 GMT"
+    "Date": "Sat, 07 Mar 2026 01:43:20 GMT"
 }
