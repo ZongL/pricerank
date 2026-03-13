@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1494,
+    "numFound": 1499,
     "docs": [
+        {
+            "documentId": "US-20260071384-A1",
+            "datePublished": "2026-03-12",
+            "title": "METHOD AND DEVICE FOR IN PLACE CALENDER ROLLER DENT INSPECTION AND REPAIR",
+            "patentNumber": "20260071384",
+            "inventors": "Han; Sang Yun et al.",
+            "pageCount": 39,
+            "AI_Opinion": "该专利涉及一种现场检测和修复日历辊凹陷的方法和设备，可能包括自动化检测技术、凹陷识别算法和修复机械装置。"
+        },
+        {
+            "documentId": "US-20260070449-A1",
+            "datePublished": "2026-03-12",
+            "title": "DYNAMIC ADJUSTMENT FOR WIRELESS CHARGING COUPLING COEFFICIENTS",
+            "patentNumber": "20260070449",
+            "inventors": "Andros; Carl et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及无线充电技术，通过动态调整耦合系数来优化充电效率和功率传输。"
+        },
+        {
+            "documentId": "US-20260073549-A1",
+            "datePublished": "2026-03-12",
+            "title": "ARTIFICIAL INTELLIGENCE MODELING TECHNIQUES FOR VISION-BASED OCCUPANCY DETERMINATION",
+            "patentNumber": "20260073549",
+            "inventors": "DUAN; Pengfei et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及利用AI技术，通过视觉数据来识别和确定空间占用情况。"
+        },
+        {
+            "documentId": "US-20260074293-A1",
+            "datePublished": "2026-03-12",
+            "title": "NON-AQUEOUS SOLVENT ELECTROLYTE FORMULATIONS FOR ENERGY STORAGE DEVICES",
+            "patentNumber": "20260074293",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利涉及非水性溶剂电解质配方，用于提高能量存储设备性能，可能包括新型电解质材料、配方和制备方法。"
+        },
+        {
+            "documentId": "US-20260070120-A1",
+            "datePublished": "2026-03-12",
+            "title": "COUNTER-PISTON CENTRAL INJECTION DIE CASTING",
+            "patentNumber": "20260070120",
+            "inventors": "Huang; Changhua",
+            "pageCount": 22,
+            "AI_Opinion": "该专利涉及一种中央注射式铸铝技术，可能包含活塞中心注入系统和铸铝模具设计，以提高铸件质量和生产效率。"
+        },
         {
             "documentId": "US-20260061898-A1",
             "datePublished": "2026-03-05",
@@ -3639,5 +3684,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 07 Mar 2026 01:43:20 GMT"
+    "Date": "Fri, 13 Mar 2026 01:49:02 GMT"
 }
