@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1499,
+    "numFound": 1503,
     "docs": [
+        {
+            "documentId": "US-12576901-B2",
+            "datePublished": "2026-03-17",
+            "title": "System and method for haptic calibration",
+            "patentNumber": "12576901",
+            "inventors": "Kessler; Michael et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及触觉反馈系统的校准技术，用于调整和优化触觉设备的性能，以提供更准确的触觉体验。"
+        },
+        {
+            "documentId": "US-12580517-B2",
+            "datePublished": "2026-03-17",
+            "title": "Photovoltaic roofing tile foot",
+            "patentNumber": "12580517",
+            "inventors": "Molina; David et al.",
+            "pageCount": 32,
+            "AI_Opinion": "\"Photovoltaic roofing tile foot\" 可能涉及太阳能瓦片的支撑结构技术，用于固定和连接太阳能瓦片至屋顶，确保稳定性和电力输出。"
+        },
+        {
+            "documentId": "US-12576807-B2",
+            "datePublished": "2026-03-17",
+            "title": "Vehicle hood hinge assembly",
+            "patentNumber": "12576807",
+            "inventors": "Rahman; Rafath et al.",
+            "pageCount": 26,
+            "AI_Opinion": "Tesla专利“Vehicle hood铰链组件”可能涉及：1) 创新铰链设计，提升安全性与便利性；2) 材料优化，增强耐用性；3) 集成传感器或电子系统，实现智能控制。"
+        },
+        {
+            "documentId": "US-12581588-B2",
+            "datePublished": "2026-03-17",
+            "title": "Press-fit fasteners for securing components together",
+            "patentNumber": "12581588",
+            "inventors": "Hasan; Rameez et al.",
+            "pageCount": 33,
+            "AI_Opinion": "该专利可能涉及用于组件固定的压力配合紧固件技术，可能包括紧固件设计、装配方法和提高组件连接强度的创新。"
+        },
         {
             "documentId": "US-20260071384-A1",
             "datePublished": "2026-03-12",
@@ -3684,5 +3720,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 13 Mar 2026 01:49:02 GMT"
+    "Date": "Thu, 19 Mar 2026 01:56:39 GMT"
 }
