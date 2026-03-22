@@ -1,7 +1,34 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1503,
+    "numFound": 1506,
     "docs": [
+        {
+            "documentId": "US-20260077802-A1",
+            "datePublished": "2026-03-19",
+            "title": "MULTI-TURN STEERING FEEDBACK ACTUATOR",
+            "patentNumber": "20260077802",
+            "inventors": "Harasym; Stephen Alexander et al.",
+            "pageCount": 25,
+            "AI_Opinion": "这项专利可能涉及多圈转向反馈执行器，技术可能包括精密转向控制、力反馈机制和电子助力转向系统。"
+        },
+        {
+            "documentId": "US-20260081232-A1",
+            "datePublished": "2026-03-19",
+            "title": "METHYL ACETATE SOLVENT FOR ENERGY STORAGE DEVICE",
+            "patentNumber": "20260081232",
+            "inventors": "Petibon; Remi et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及使用甲基丙烯酸酯作为溶剂，提高能量存储设备的效率和性能。"
+        },
+        {
+            "documentId": "US-20260079125-A1",
+            "datePublished": "2026-03-19",
+            "title": "DEVICE FOR QUANTIFYING ANALYTES IN LIQUID SAMPLES",
+            "patentNumber": "20260079125",
+            "inventors": "Moschou; Despina",
+            "pageCount": 9,
+            "AI_Opinion": "该专利可能涉及一种用于液体样本中定量分析物质的设备，可能包括传感器、检测器、分析算法等技术。"
+        },
         {
             "documentId": "US-12576901-B2",
             "datePublished": "2026-03-17",
@@ -3720,5 +3747,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 19 Mar 2026 01:56:39 GMT"
+    "Date": "Sun, 22 Mar 2026 01:56:31 GMT"
 }
