@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1508,
+    "numFound": 1510,
     "docs": [
+        {
+            "documentId": "US-20260089878-A1",
+            "datePublished": "2026-03-26",
+            "title": "LIQUID COOLED PROCESSING SYSTEM WITH REPLACEABLE MODULES",
+            "patentNumber": "20260089878",
+            "inventors": "Nasr; Mohamed Haitham Helmy et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及一种模块化液态冷却系统，用于电子设备散热，模块可更换，以提高效率和维护便捷性。"
+        },
+        {
+            "documentId": "US-20260088273-A1",
+            "datePublished": "2026-03-26",
+            "title": "COMPOSITIONS AND METHODS FOR PRELITHIATING ENERGY STORAGE DEVICES",
+            "patentNumber": "20260088273",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及预锂化技术，用于提高能量存储设备的效率和寿命。"
+        },
         {
             "documentId": "US-12583274-B2",
             "datePublished": "2026-03-24",
@@ -3765,5 +3783,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 25 Mar 2026 01:54:58 GMT"
+    "Date": "Sat, 28 Mar 2026 01:53:22 GMT"
 }
