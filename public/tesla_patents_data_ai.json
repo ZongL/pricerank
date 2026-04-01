@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1510,
+    "numFound": 1514,
     "docs": [
+        {
+            "documentId": "US-12589814-B2",
+            "datePublished": "2026-03-31",
+            "title": "Automotive perforated insulated glass structure",
+            "patentNumber": "12589814",
+            "inventors": "Mottsmith; Rosemary et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利可能涉及汽车用穿孔隔热玻璃结构，技术特点可能包括：1) 穿孔设计以优化通风和隔音；2) 隔热材料提高能效；3) 结构强度和安全性考量。"
+        },
+        {
+            "documentId": "US-12589715-B2",
+            "datePublished": "2026-03-31",
+            "title": "Pulsed laser cleaning of debris accumulated on glass articles in vehicles and photovoltaic assemblies",
+            "patentNumber": "12589715",
+            "inventors": "Dalal; Phiroze",
+            "pageCount": 14,
+            "AI_Opinion": "该专利涉及使用脉冲激光技术清除车辆和光伏组件上积累的玻璃碎片。"
+        },
+        {
+            "documentId": "US-12591040-B2",
+            "datePublished": "2026-03-31",
+            "title": "Determining antenna phase center using baseband data",
+            "patentNumber": "12591040",
+            "inventors": "Konanur; Anand S. et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及使用基带数据确定天线相位中心的技术，用于提高无线通信系统的定位精度和信号同步。"
+        },
+        {
+            "documentId": "US-12591240-B2",
+            "datePublished": "2026-03-31",
+            "title": "Multi-channel sensor simulation for autonomous control systems",
+            "patentNumber": "12591240",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利可能涉及多传感器模拟技术，用于自动驾驶系统，可能包括数据融合、传感器校准和环境模拟。"
+        },
         {
             "documentId": "US-20260089878-A1",
             "datePublished": "2026-03-26",
@@ -3783,5 +3819,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 28 Mar 2026 01:53:22 GMT"
+    "Date": "Wed, 01 Apr 2026 02:11:34 GMT"
 }
