@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1514,
+    "numFound": 1519,
     "docs": [
+        {
+            "documentId": "US-20260091643-A1",
+            "datePublished": "2026-04-02",
+            "title": "AIRFLOW OPTIMIZATION FOR CABIN COMFORT",
+            "patentNumber": "20260091643",
+            "inventors": "Hanks; Daniel F. et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及优化车内气流分布技术，以提升乘客舒适度。"
+        },
+        {
+            "documentId": "US-20260091697-A1",
+            "datePublished": "2026-04-02",
+            "title": "DRIVE UNIT BOOST CONVERTER FOR ELECTRIC VEHICLES",
+            "patentNumber": "20260091697",
+            "inventors": "Cohen; Justin Ty et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及电动汽车的驱动单元增压转换器技术，旨在提高能效和性能。"
+        },
+        {
+            "documentId": "US-20260094948-A1",
+            "datePublished": "2026-04-02",
+            "title": "FLAGGED ELECTRODES FOR TABLESS ENERGY STORAGE DEVICES, ELECTRICAL CONNECTIONS, AND PROCESSES THEREOF",
+            "patentNumber": "20260094948",
+            "inventors": "Patil; Shubham et al.",
+            "pageCount": 30,
+            "AI_Opinion": "该专利可能涉及无电池能量存储设备中标记电极的技术，包括电极设计、电连接和制造过程。"
+        },
+        {
+            "documentId": "US-20260094835-A1",
+            "datePublished": "2026-04-02",
+            "title": "COMPOSITIONS AND METHODS FOR DRY ELECTRODE FILMS INCLUDING ELASTIC POLYMER BINDERS",
+            "patentNumber": "20260094835",
+            "inventors": "Shin; Joon Ho et al.",
+            "pageCount": 33,
+            "AI_Opinion": "该专利涉及使用弹性聚合物作为粘合剂的干电极膜材料和制备方法，可能包含新型聚合物配方和电极制造技术。"
+        },
+        {
+            "documentId": "US-20260091807-A1",
+            "datePublished": "2026-04-02",
+            "title": "REAL TIME TRAJECTORY PLANNING SYSTEM WITH DYNAMIC MODELLING OF COMPONENT LEVEL SYSTEM LATENCY FOR SELF DRIVING VEHICLES",
+            "patentNumber": "20260091807",
+            "inventors": "JAIN; Paril et al.",
+            "pageCount": 25,
+            "AI_Opinion": "这篇专利可能涉及实时轨迹规划系统，包括动态建模组件级系统延迟，用于自动驾驶车辆。"
+        },
         {
             "documentId": "US-12589814-B2",
             "datePublished": "2026-03-31",
@@ -3819,5 +3864,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 01 Apr 2026 02:11:34 GMT"
+    "Date": "Sat, 04 Apr 2026 01:53:38 GMT"
 }
