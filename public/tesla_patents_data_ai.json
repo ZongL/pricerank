@@ -1,7 +1,79 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1519,
+    "numFound": 1527,
     "docs": [
+        {
+            "documentId": "US-20260097742-A1",
+            "datePublished": "2026-04-09",
+            "title": "WIPER FRICTION ESTIMATION FOR AUTOWIPER PERFORMANCE IMPROVEMENT",
+            "patentNumber": "20260097742",
+            "inventors": "Alley; Edward Hugh Robert et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及通过估计雨刷摩擦来优化自动雨刷性能的技术，可能包括传感器、数据分析和算法改进。"
+        },
+        {
+            "documentId": "US-20260100634-A1",
+            "datePublished": "2026-04-09",
+            "title": "SWITCH CONTROL SCHEME FOR WIRELESS CHARGING DEVICE",
+            "patentNumber": "20260100634",
+            "inventors": "Zheng; Liran et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及无线充电设备的开关控制技术，旨在优化无线充电效率和安全性。"
+        },
+        {
+            "documentId": "US-20260100606-A1",
+            "datePublished": "2026-04-09",
+            "title": "TUNABLE IMPEDANCE CIRCUITS FOR WIRELESS CHARGING DEVICE",
+            "patentNumber": "20260100606",
+            "inventors": "Zheng; Liran",
+            "pageCount": 22,
+            "AI_Opinion": "该专利可能涉及无线充电设备中可调阻抗电路技术，用于优化能量传输效率和兼容性。"
+        },
+        {
+            "documentId": "US-20260097493-A1",
+            "datePublished": "2026-04-09",
+            "title": "SYSTEMS AND METHODS FOR A ROBOT KNEE JOINT ASSEMBLY",
+            "patentNumber": "20260097493",
+            "inventors": "JAFARI; Rod",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及机器人膝关节组装系统和方法，包括机械结构、自动化流程、精确控制技术。"
+        },
+        {
+            "documentId": "US-20260098740-A1",
+            "datePublished": "2026-04-09",
+            "title": "MODELING TECHNIQUES FOR VISION-BASED PATH DETERMINATION",
+            "patentNumber": "20260098740",
+            "inventors": "MAHDAVI; Shayan et al.",
+            "pageCount": 36,
+            "AI_Opinion": "该专利可能涉及使用计算机视觉技术来识别路径，通过图像处理和机器学习算法来确定车辆行驶的最佳路线。"
+        },
+        {
+            "documentId": "US-20260099179-A1",
+            "datePublished": "2026-04-09",
+            "title": "STRUCTURAL BUSBAR FOR POWER DELIVERY IN COMPUTING SYSTEM",
+            "patentNumber": "20260099179",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 24,
+            "AI_Opinion": "这篇专利可能涉及用于计算系统的结构化汇流排技术，旨在优化电力传输效率和可靠性。"
+        },
+        {
+            "documentId": "US-12594806-B2",
+            "datePublished": "2026-04-07",
+            "title": "Vehicle suspension control system",
+            "patentNumber": "12594806",
+            "inventors": "Frye; Blane et al.",
+            "pageCount": 17,
+            "AI_Opinion": "Tesla的“Vehicle suspension control system”专利可能涉及自适应悬挂技术，通过传感器实时调整悬挂硬度和高度，以优化车辆稳定性和舒适性。"
+        },
+        {
+            "documentId": "US-12598838-B2",
+            "datePublished": "2026-04-07",
+            "title": "System and methods for achieving a micro louver effect in a photovoltaic cell",
+            "patentNumber": "12598838",
+            "inventors": "Mayer; Alex Christopher et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及利用微百叶窗效应提高光伏电池效率的技术，通过控制光线入射角度，优化光吸收。"
+        },
         {
             "documentId": "US-20260091643-A1",
             "datePublished": "2026-04-02",
@@ -3864,5 +3936,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 04 Apr 2026 01:53:38 GMT"
+    "Date": "Fri, 10 Apr 2026 02:09:21 GMT"
 }
