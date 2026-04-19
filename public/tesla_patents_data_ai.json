@@ -1,7 +1,115 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1528,
+    "numFound": 1540,
     "docs": [
+        {
+            "documentId": "US-20260103177-A1",
+            "datePublished": "2026-04-16",
+            "title": "HYDRAULIC OVERLAY SYSTEM FOR REDUCING BRAKE DRAG",
+            "patentNumber": "20260103177",
+            "inventors": "Shiff; Benjamin Marc Russell et al.",
+            "pageCount": 9,
+            "AI_Opinion": "该专利可能涉及一种液压系统，用于减少制动时的拖曳力，提高制动效率。"
+        },
+        {
+            "documentId": "US-20260104150-A1",
+            "datePublished": "2026-04-16",
+            "title": "ADAPTIVE LIGHTING SYSTEM",
+            "patentNumber": "20260104150",
+            "inventors": "Ring; John G. et al.",
+            "pageCount": 7,
+            "AI_Opinion": "特斯拉的“自适应照明系统”可能包含以下技术：动态LED灯、传感器检测环境光线、自动调整亮度和方向、基于GPS和车辆速度的智能控制。"
+        },
+        {
+            "documentId": "US-20260106516-A1",
+            "datePublished": "2026-04-16",
+            "title": "ELECTRICAL TRANSMISSION THROUGH RECONFIGURED CLOCKSPRING",
+            "patentNumber": "20260106516",
+            "inventors": "Tai; Albert et al.",
+            "pageCount": 38,
+            "AI_Opinion": "该专利可能涉及通过重新配置的钟形弹簧进行电气传输的技术，可能包括电缆设计、电气连接优化和信号传输效率提升。"
+        },
+        {
+            "documentId": "US-20260103926-A1",
+            "datePublished": "2026-04-16",
+            "title": "ADAPTIVE ELECTROMAGNETIC DAMPING FOR STORAGE COMPARTMENT",
+            "patentNumber": "20260103926",
+            "inventors": "Trivedi; Shail et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该技术可能涉及电磁阻尼系统，用于调节储物箱内物品的振动和冲击，以保护物品安全。"
+        },
+        {
+            "documentId": "US-20260103654-A1",
+            "datePublished": "2026-04-16",
+            "title": "MOTOR AND GEARBOX FLUID FORMULATIONS AND USES THEREOF",
+            "patentNumber": "20260103654",
+            "inventors": "Zhang; Wenyang et al.",
+            "pageCount": 35,
+            "AI_Opinion": "该专利涉及特斯拉的电机和变速箱流体配方及其应用。可能包含新型润滑液、冷却液配方，旨在提高性能、降低磨损、优化热管理。"
+        },
+        {
+            "documentId": "US-20260105729-A1",
+            "datePublished": "2026-04-16",
+            "title": "SYSTEMS AND METHODS FOR ACCELERATED VIDEO-BASED TRAINING OF MACHINE LEARNING MODELS",
+            "patentNumber": "20260105729",
+            "inventors": "ZAMAN; Tim et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及利用视频数据加速机器学习模型训练的技术，可能包括视频处理、特征提取和训练优化方法。"
+        },
+        {
+            "documentId": "US-20260102810-A1",
+            "datePublished": "2026-04-16",
+            "title": "SYSTEM AND METHOD FOR FACILITATING PULSED SPRAY QUENCH OF EXTRUDED OBJECTS",
+            "patentNumber": "20260102810",
+            "inventors": "Ottmann; Jared E.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及一种系统和方法，用于脉冲式喷雾冷却挤出物体。技术可能包括精确控制喷雾脉冲、温度监测和挤出物冷却效率优化。"
+        },
+        {
+            "documentId": "US-20260107409-A1",
+            "datePublished": "2026-04-16",
+            "title": "COMPUTING CABINET AND RELATED COMPUTING SYSTEM",
+            "patentNumber": "20260107409",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及用于电动汽车的高性能计算柜，包括散热、电源管理、数据处理和存储技术。"
+        },
+        {
+            "documentId": "US-20260105614-A1",
+            "datePublished": "2026-04-16",
+            "title": "ARTIFICIAL INTELLIGENCE MODELING TECHNIQUES FOR JOINT BEHAVIOR PLANNING AND FORECASTING",
+            "patentNumber": "20260105614",
+            "inventors": "ELLUSWAMY; Ashok Kumar et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及使用AI技术进行行为规划和预测，包括机器学习、深度学习、强化学习等，以优化决策和预测结果。"
+        },
+        {
+            "documentId": "US-20260104893-A1",
+            "datePublished": "2026-04-16",
+            "title": "AI INFERENCE COMPILER AND RUNTIME TOOL CHAIN",
+            "patentNumber": "20260104893",
+            "inventors": "SAMPATHKUMAR; Srihari et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及AI模型编译和运行时工具链，用于优化AI模型部署和执行效率。"
+        },
+        {
+            "documentId": "US-20260105765-A1",
+            "datePublished": "2026-04-16",
+            "title": "LABELING TRAINING DATA USING HIGH-VOLUME NAVIGATION DATA",
+            "patentNumber": "20260105765",
+            "inventors": "JEONG; Yekeun et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及使用大量导航数据来标记训练数据的技术，可能包括机器学习、数据挖掘和自动化标注方法。"
+        },
+        {
+            "documentId": "US-20260106175-A1",
+            "datePublished": "2026-04-16",
+            "title": "SHAPED ELECTRODE FILMS, AND METHODS THEREOF",
+            "patentNumber": "20260106175",
+            "inventors": "Shah; Vivek Bharat et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及形状特定的电极薄膜及其制造方法，可能包括薄膜设计、材料选择和制造过程，以优化电池性能和寿命。"
+        },
         {
             "documentId": "US-12602525-B2",
             "datePublished": "2026-04-14",
@@ -3945,5 +4053,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 16 Apr 2026 02:23:06 GMT"
+    "Date": "Sun, 19 Apr 2026 02:23:19 GMT"
 }
