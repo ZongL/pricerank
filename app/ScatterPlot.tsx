@@ -1,17 +1,21 @@
 import { useEffect } from 'react';
 import * as echarts from 'echarts';
-import { cardata_all_new } from './data/carData';
+import { useCarData } from './data/carData';
 
 
 
 const ScatterPlot = () => {
+  const carData = useCarData();
+
   useEffect(() => {
+    if (carData.length === 0) return;
+
     const myChart = echarts.init(document.getElementById('scatter-chart'));
-    const xAxisData = cardata_all_new.flatMap(brandData => brandData.detaildata.map(car => car[0]));
-    const yAxisData = cardata_all_new.flatMap(brandData => brandData.detaildata.map(car => car[1]));
+    const xAxisData = carData.flatMap(brandData => brandData.detaildata.map(car => car[0]));
+    const yAxisData = carData.flatMap(brandData => brandData.detaildata.map(car => car[1]));
     const option = {
       title: {
-        text: ' 汽车价格分布图（数据日期：2024-09-02）',
+        text: ' 汽车价格分布图（数据日期：2026-04-20）',
         left: 'center'
       },
       tooltip: {
@@ -48,7 +52,7 @@ const ScatterPlot = () => {
         }
       ],
       series: [{
-        data: cardata_all_new.flatMap(brandData => brandData.detaildata),
+        data: carData.flatMap(brandData => brandData.detaildata),
         type: 'scatter',
         symbolSize: (value: number[]) => Math.log10(value[1]) * 5, // 根据价格设置点的大小
         label: {
@@ -66,7 +70,7 @@ const ScatterPlot = () => {
     return () => {
       myChart.dispose();
     };
-  }, []);
+  }, [carData]);
 
   return (
     <div id="scatter-chart" style={{ width: '100%', height: '400px' }}></div>

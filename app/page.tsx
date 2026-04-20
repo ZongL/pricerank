@@ -12,10 +12,12 @@ import { useEffect, useState} from 'react';
 import * as cardatashow from './data/carData';
 import ScatterPlot from './ScatterPlot';
 import { renderData } from './ScatterPlot';
+import { useCarData } from './data/carData';
 
 
 
 export default function Page() {
+  const carData = useCarData();
 
   return (
     <main className="flex min-h-screen flex-col p-6">
@@ -38,7 +40,7 @@ export default function Page() {
       </div>
 
       <div>
-        {cardatashow.cardata_all_new.reduce((rows: JSX.Element[][], brandData, brandIndex) => {
+        {carData.reduce((rows: JSX.Element[][], brandData, brandIndex) => {
           if (brandIndex % 5 === 0) rows.push([]);
           rows[rows.length - 1].push(
             <div key={brandIndex} className="flex flex-col series-container gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-1/5 md:px-10">
