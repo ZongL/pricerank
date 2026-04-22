@@ -14,13 +14,57 @@ import ScatterPlot from './ScatterPlot';
 import { renderData } from './ScatterPlot';
 import { useCarData } from './data/carData';
 
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://pricerank.vercel.app';
 
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE_URL}/#website`,
+      url: SITE_URL,
+      name: '特斯拉专利追踪 Tesla Patents Tracker',
+      alternateName: 'Tesla Patents Tracker',
+      description:
+        '每日更新的特斯拉公开专利数据与 AI 解读，覆盖电动车、自动驾驶、电池、能源等领域。',
+      inLanguage: ['zh-CN', 'en'],
+      publisher: { '@id': `${SITE_URL}/#person` },
+    },
+    {
+      '@type': 'Person',
+      '@id': `${SITE_URL}/#person`,
+      name: 'ZongL',
+      url: 'https://zongl.github.io/',
+    },
+    {
+      '@type': 'WebPage',
+      '@id': `${SITE_URL}/#webpage`,
+      url: SITE_URL,
+      name: '特斯拉专利追踪 Tesla Patents Tracker 首页',
+      isPartOf: { '@id': `${SITE_URL}/#website` },
+      about: {
+        '@type': 'Organization',
+        name: 'Tesla, Inc.',
+        url: 'https://www.tesla.com',
+      },
+      inLanguage: 'zh-CN',
+    },
+  ],
+};
 
 export default function Page() {
   const carData = useCarData();
 
   return (
     <main className="flex min-h-screen flex-col p-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
+      <h1 className="sr-only">
+        特斯拉专利追踪 Tesla Patents Tracker - 每日更新的特斯拉公开专利与 AI 解读
+      </h1>
       <div>
         <NavigationPage/>
       </div>

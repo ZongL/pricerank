@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import { useEffect } from 'react';  
+import { useEffect } from 'react';
+import Head from 'next/head';
 import { teslatechData } from "@/app/data/TechData_tesla";
 
-import 'tailwindcss/tailwind.css'; 
+import 'tailwindcss/tailwind.css';
 
 import DataTable from 'datatables.net-dt';
 import 'datatables.net-dt/css/dataTables.dataTables.css';
@@ -15,6 +16,14 @@ import {NavigationPage} from '@/app/NavigationPage'
 // 导入Waline客户端
 import { init } from '@waline/client';
 import '@waline/client/style';
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://pricerank.vercel.app';
+
+const PAGE_TITLE =
+  '特斯拉技术笔记 Tesla Tech Notes | 专利原理与 AI 拆解';
+const PAGE_DESCRIPTION =
+  '围绕特斯拉（Tesla）核心专利与技术方向整理的学习笔记，涵盖电池、自动驾驶、电机、充电等领域的公开资料与 AI 观点，附评论互动。';
 
 export default function Patents(){
   const [scale, setScale] = useState(1); // 初始缩放比例为1
@@ -54,12 +63,33 @@ export default function Patents(){
   };
 
   return (
-     <main className="flex min-h-screen flex-col p-6">
+     <>
+      <Head>
+        <title>{PAGE_TITLE}</title>
+        <meta name="description" content={PAGE_DESCRIPTION} />
+        <meta
+          name="keywords"
+          content="特斯拉技术,Tesla technology,特斯拉专利解读,Tesla patent analysis,4680 电池,FSD,自动驾驶原理,特斯拉学习笔记"
+        />
+        <link rel="canonical" href={`${SITE_URL}/teslatech`} />
+        <meta property="og:type" content="article" />
+        <meta property="og:locale" content="zh_CN" />
+        <meta property="og:url" content={`${SITE_URL}/teslatech`} />
+        <meta property="og:title" content={PAGE_TITLE} />
+        <meta property="og:description" content={PAGE_DESCRIPTION} />
+        <meta property="og:image" content={`${SITE_URL}/opengraph-image.png`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={PAGE_TITLE} />
+        <meta name="twitter:description" content={PAGE_DESCRIPTION} />
+        <meta name="twitter:image" content={`${SITE_URL}/opengraph-image.png`} />
+        <meta name="robots" content="index,follow,max-image-preview:large" />
+      </Head>
+      <main className="flex min-h-screen flex-col p-6">
       <div>
         <NavigationPage/>
       </div>
-      <div>  
-        <h1>Tesla patent</h1>  
+      <div>
+        <h1>Tesla patent</h1>
         <table id="myTable" className="display responsive" style={{ width:'100%'}}>  
           <thead>  
             <tr>  
@@ -110,6 +140,7 @@ export default function Patents(){
       </div>
       <div id="waline" className="mt-8" style={{ width: '50%', margin: '0 auto' }}></div>
     </main>
+    </>
   );
 };
 
