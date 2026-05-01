@@ -1,7 +1,97 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1540,
+    "numFound": 1550,
     "docs": [
+        {
+            "documentId": "US-20260121013-A1",
+            "datePublished": "2026-04-30",
+            "title": "REAL GAP AND MINIMUM GAP METHODS OF CALENDERING A DRY ELECTRODE FILM, AND SYSTEMS THEREOF",
+            "patentNumber": "20260121013",
+            "inventors": "Ren; Zihang et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及干电极薄膜的校准技术，包括实际间隙和最小间隙方法，以及相关系统。"
+        },
+        {
+            "documentId": "US-20260121885-A1",
+            "datePublished": "2026-04-30",
+            "title": "ENHANCED NETWORK ARCHITECTURE FOR VEHICLES",
+            "patentNumber": "20260121885",
+            "inventors": "Kessler; Michael et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及车辆网络架构的改进，包括数据传输、通信效率、安全性和系统集成。"
+        },
+        {
+            "documentId": "US-20260115965-A1",
+            "datePublished": "2026-04-30",
+            "title": "CONE FEEDING ELECTRODE POWDER DISTRIBUTION",
+            "patentNumber": "20260115965",
+            "inventors": "Laxman Nevase; Shamali et al.",
+            "pageCount": 20,
+            "AI_Opinion": "这项专利可能涉及一种圆锥形的粉末分配系统，用于在电池制造过程中均匀地向电极输送粉末。"
+        },
+        {
+            "documentId": "US-20260121060-A1",
+            "datePublished": "2026-04-30",
+            "title": "COMPOSITIONS AND METHODS FOR DRY ELECTRODE FILMS INCLUDING MICROPARTICULATE NON-FIBRILLIZABLE BINDERS",
+            "patentNumber": "20260121060",
+            "inventors": "Wang; Ziying et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及干电极膜技术，可能包括非纤维化微粒状粘合剂的应用，用于提高电池性能和生产效率。"
+        },
+        {
+            "documentId": "US-20260110052-A1",
+            "datePublished": "2026-04-23",
+            "title": "SELECTIVE EXTRACTION OF LITHIUM FROM CLAY MINERALS",
+            "patentNumber": "20260110052",
+            "inventors": "Sun; Zhiwen et al.",
+            "pageCount": 19,
+            "AI_Opinion": "这项技术可能涉及从黏土矿物中选择性提取锂的方法，可能包括化学处理、物理分离或生物技术等手段。"
+        },
+        {
+            "documentId": "US-20260109027-A1",
+            "datePublished": "2026-04-23",
+            "title": "ACTUATOR AND ACTUATOR DESIGN METHODOLOGY",
+            "patentNumber": "20260109027",
+            "inventors": "VAMVAKAS; Georgios et al.",
+            "pageCount": 30,
+            "AI_Opinion": "该专利可能涉及执行器及其设计方法，可能包括新型执行器结构、控制算法或优化设计流程。"
+        },
+        {
+            "documentId": "US-20260109373-A1",
+            "datePublished": "2026-04-23",
+            "title": "GENERATING LANE SEGMENTS USING EMBEDDINGS FOR AUTONOMOUS VEHICLE NAVIGATION",
+            "patentNumber": "20260109373",
+            "inventors": "CHO; Patrick et al.",
+            "pageCount": 35,
+            "AI_Opinion": "该专利可能涉及利用嵌入技术生成车道段，以实现自动驾驶车辆的导航。"
+        },
+        {
+            "documentId": "US-20260108943-A1",
+            "datePublished": "2026-04-23",
+            "title": "POWDER BRIDGE VALVE METERING DEVICE FOR DRY BATTERY ELECTRODE MANUFACTURING",
+            "patentNumber": "20260108943",
+            "inventors": "Matsumoto; Matthew Thomas et al.",
+            "pageCount": 22,
+            "AI_Opinion": "该专利涉及干电池电极制造中粉末桥阀计量装置，可能包括粉末输送、计量控制和电极成型技术。"
+        },
+        {
+            "documentId": "US-20260110320-A1",
+            "datePublished": "2026-04-23",
+            "title": "LOW-PROFILE RATTLE MITIGATION TRIM CLIP",
+            "patentNumber": "20260110320",
+            "inventors": "Yu; Yongquan et al.",
+            "pageCount": 13,
+            "AI_Opinion": "该专利可能涉及一种低轮廓的防震或减少噪音的装饰性夹子，用于汽车内饰，以减少噪音和振动。"
+        },
+        {
+            "documentId": "US-12606065-B2",
+            "datePublished": "2026-04-21",
+            "title": "Vehicular seat suspension system for belted seats",
+            "patentNumber": "12606065",
+            "inventors": "Sadoo; Olav et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及安全带座椅的悬挂系统，包括座椅结构、减震技术、安全带集成，以及提升乘坐舒适性和安全性的创新设计。"
+        },
         {
             "documentId": "US-20260103177-A1",
             "datePublished": "2026-04-16",
@@ -4053,5 +4143,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 19 Apr 2026 02:23:19 GMT"
+    "Date": "Fri, 01 May 2026 01:49:19 GMT"
 }
