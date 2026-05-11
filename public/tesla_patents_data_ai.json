@@ -1,7 +1,79 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1550,
+    "numFound": 1558,
     "docs": [
+        {
+            "documentId": "US-20260124655-A1",
+            "datePublished": "2026-05-07",
+            "title": "PRE-CALENDERING SYSTEM FOR REDUCING STRAIN IMBALANCES IN MULTILANE ELECTRODES",
+            "patentNumber": "20260124655",
+            "inventors": "Muthukumar; Siva Ram Kumar et al.",
+            "pageCount": 22,
+            "AI_Opinion": "预校准系统，用于减少多车道电极中的应力不平衡。"
+        },
+        {
+            "documentId": "US-20260125022-A1",
+            "datePublished": "2026-05-07",
+            "title": "INTEGRATED RESTRAINTS CONTROL MODULE",
+            "patentNumber": "20260125022",
+            "inventors": "Franco; Frank Anthony et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及集成式安全约束模块技术，用于优化车辆安全系统，通过整合控制模块提高响应速度和效率。"
+        },
+        {
+            "documentId": "US-20260124961-A1",
+            "datePublished": "2026-05-07",
+            "title": "ALTERNATING CURRENT BATTERY HEATING",
+            "patentNumber": "20260124961",
+            "inventors": "Patel; Saiyam et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及使用交流电（AC）为特斯拉电池加热的技术，以提高效率和性能。"
+        },
+        {
+            "documentId": "US-20260127780-A1",
+            "datePublished": "2026-05-07",
+            "title": "COMPUTING SYSTEM PARTITION GENERATOR",
+            "patentNumber": "20260127780",
+            "inventors": "Agrawal; Prateek et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及一种系统，用于生成和管理计算机系统的分区，以优化资源分配和提高性能。"
+        },
+        {
+            "documentId": "US-20260127891-A1",
+            "datePublished": "2026-05-07",
+            "title": "VISION-BASED MACHINE LEARNING MODEL FOR AUTONOMOUS DRIVING WITH ADJUSTABLE VIRTUAL CAMERA",
+            "patentNumber": "20260127891",
+            "inventors": "Emmons; John et al.",
+            "pageCount": 22,
+            "AI_Opinion": "这篇专利可能涉及基于视觉的机器学习技术，用于自动驾驶，通过可调节虚拟相机优化模型性能。"
+        },
+        {
+            "documentId": "US-20260126381-A1",
+            "datePublished": "2026-05-07",
+            "title": "INLINE TERAHERTZ MEASUREMENT DEVICE FOR DRY ELECTRODE FILM MANUFACTURING, AND METHODS THEREOF",
+            "patentNumber": "20260126381",
+            "inventors": "Zandiatashbar; Ardavan et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利涉及用于干电极薄膜制造的太赫兹测量设备及其方法，可能包括太赫兹波发射接收技术、薄膜厚度和材料特性的非接触式测量技术。"
+        },
+        {
+            "documentId": "US-12618976-B2",
+            "datePublished": "2026-05-05",
+            "title": "Annotation cross-labeling for autonomous control systems",
+            "patentNumber": "12618976",
+            "inventors": "Shen; Anting",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及自动驾驶系统中的标签交叉标注技术，用于提高系统识别和控制能力。"
+        },
+        {
+            "documentId": "US-D1124995-S",
+            "datePublished": "2026-05-05",
+            "title": "Double door ring",
+            "patentNumber": "D1124995",
+            "inventors": "Friesen; Samuel et al.",
+            "pageCount": 26,
+            "AI_Opinion": "\"Double door ring\"可能指的是一种双环门设计，用于提升车辆安全性和结构强度，可能涉及门环材料、制造工艺和安装技术。"
+        },
         {
             "documentId": "US-20260121013-A1",
             "datePublished": "2026-04-30",
@@ -4143,5 +4215,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 01 May 2026 01:49:19 GMT"
+    "Date": "Mon, 11 May 2026 01:53:00 GMT"
 }
