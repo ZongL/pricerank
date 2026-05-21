@@ -1,7 +1,88 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1558,
+    "numFound": 1567,
     "docs": [
+        {
+            "documentId": "US-20260131641-A1",
+            "datePublished": "2026-05-14",
+            "title": "MAGNETIC SPLITTABLE SUN VISOR",
+            "patentNumber": "20260131641",
+            "inventors": "Wiitala; Devan Maximo et al.",
+            "pageCount": 14,
+            "AI_Opinion": "特斯拉的“磁性可分式遮阳板”技术可能涉及磁性连接的遮阳板，便于拆卸和调整，提高使用灵活性。"
+        },
+        {
+            "documentId": "US-20260136440-A1",
+            "datePublished": "2026-05-14",
+            "title": "CONTROL AND MONITORING CIRCUITRY FOR ILLUMINATED INTERFACE",
+            "patentNumber": "20260136440",
+            "inventors": "Thwaits; Jason et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及用于控制和监控照明界面的电路技术，可能包括LED驱动、光感检测、能耗管理等。"
+        },
+        {
+            "documentId": "US-20260132050-A1",
+            "datePublished": "2026-05-14",
+            "title": "METHODS OF PREPARING ELECTRODE ACTIVE MATERIALS BY HOMOGENIZATION OF PRECURSOR MIXTURES, AND PRODUCTS THEREOF",
+            "patentNumber": "20260132050",
+            "inventors": "Wang; Siwei et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利涉及通过均化前体混合物制备电极活性材料的方法及其产品，可能涉及改进电池性能的新材料制备技术。"
+        },
+        {
+            "documentId": "US-20260131368-A1",
+            "datePublished": "2026-05-14",
+            "title": "TRIMMING AND PEELING SYSTEMS FOR MANUFACTURING DRY ELECTRODES",
+            "patentNumber": "20260131368",
+            "inventors": "MacNaughton; Daniel et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利涉及制造干电极的修整和剥皮系统，可能涉及电极制造过程中的自动化修整和剥皮技术，提高电池电极制造效率和质量。"
+        },
+        {
+            "documentId": "US-20260131807-A1",
+            "datePublished": "2026-05-14",
+            "title": "AUTOMATED ADJUSTMENT OF VEHICLE DIRECTION BASED ON ENVIRONMENT ANALYSIS",
+            "patentNumber": "20260131807",
+            "inventors": "Shivaprasad; Shreyas et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及利用传感器和算法自动分析环境，根据分析结果调整车辆方向以优化行驶路径和安全。"
+        },
+        {
+            "documentId": "US-20260131614-A1",
+            "datePublished": "2026-05-14",
+            "title": "VEHICLE SUSPENSION CONTROL SYSTEM",
+            "patentNumber": "20260131614",
+            "inventors": "Frye; Blane et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及车辆悬挂控制系统，包括传感器、执行器和算法，用于实时调整悬挂，改善驾驶稳定性和舒适性。"
+        },
+        {
+            "documentId": "US-12623691-B2",
+            "datePublished": "2026-05-12",
+            "title": "Fail-safe corrective actions based on vision information for autonomous vehicles",
+            "patentNumber": "12623691",
+            "inventors": "Balakrishnan; Uma et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及利用视觉信息进行故障安全校正，以提升自动驾驶车辆的安全性和可靠性。"
+        },
+        {
+            "documentId": "US-12626551-B2",
+            "datePublished": "2026-05-12",
+            "title": "Ultra wide band (UWB) based automatic moveable closure adjustment",
+            "patentNumber": "12626551",
+            "inventors": "Jain; Brahmesh Saligrama Dharanendra et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及使用超宽带（UWB）技术自动调整可移动结构（如车门、车窗）的开闭。"
+        },
+        {
+            "documentId": "US-12623631-B2",
+            "datePublished": "2026-05-12",
+            "title": "Ultra wide band (UWB) based automatic trunk adjustment",
+            "patentNumber": "12623631",
+            "inventors": "Jain; Brahmesh Saligrama Dharanendra et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及使用超宽带（UWB）技术自动调整汽车后备箱开启大小，以提高便利性和安全性。"
+        },
         {
             "documentId": "US-20260124655-A1",
             "datePublished": "2026-05-07",
@@ -4215,5 +4296,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Mon, 11 May 2026 01:53:00 GMT"
+    "Date": "Thu, 21 May 2026 01:59:14 GMT"
 }
