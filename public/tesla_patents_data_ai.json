@@ -1,7 +1,79 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1567,
+    "numFound": 1575,
     "docs": [
+        {
+            "documentId": "US-20260146667-A1",
+            "datePublished": "2026-05-28",
+            "title": "MECHANISM FOR PREVENTING BEARING CREEP",
+            "patentNumber": "20260146667",
+            "inventors": "Brown; Philip et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及一种防止轴承蠕变的机制，可能包括轴承设计、材料改进或润滑系统创新，以减少轴承在负载下缓慢移动的问题。"
+        },
+        {
+            "documentId": "US-20260145724-A1",
+            "datePublished": "2026-05-28",
+            "title": "SYSTEM AND METHOD FOR HAPTIC CALIBRATION",
+            "patentNumber": "20260145724",
+            "inventors": "Kessler; Michael et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利涉及触觉反馈校准系统和方法，可能包含传感器、算法和软件，用于调整和优化触觉设备性能。"
+        },
+        {
+            "documentId": "US-20260147540-A1",
+            "datePublished": "2026-05-28",
+            "title": "ACCELERATED MATHEMATICAL ENGINE",
+            "patentNumber": "20260147540",
+            "inventors": "Bannon; Peter Joseph et al.",
+            "pageCount": 18,
+            "AI_Opinion": "\"ACCELERATED MATHEMATICAL ENGINE\" 可能涉及一种优化的数学计算引擎，用于提高计算效率和速度。"
+        },
+        {
+            "documentId": "US-12636684-B1",
+            "datePublished": "2026-05-26",
+            "title": "Lens cleaning system",
+            "patentNumber": "12636684",
+            "inventors": "Rocha; Joao Nuno et al.",
+            "pageCount": 15,
+            "AI_Opinion": "Tesla的“Lens cleaning system”专利可能涉及自动清洁技术，包括传感器检测污垢、喷水或刷洗机制，以及可能的防冻和加热功能以适应恶劣天气。"
+        },
+        {
+            "documentId": "US-20260139776-A1",
+            "datePublished": "2026-05-21",
+            "title": "HYDRAULIC COUPLING DEVICE",
+            "patentNumber": "20260139776",
+            "inventors": "Subbayya; Vivek et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及一种液压耦合装置，用于连接或传递能量，可能包括液压泵、马达、阀门等组件，用于提高效率和性能。"
+        },
+        {
+            "documentId": "US-20260138565-A1",
+            "datePublished": "2026-05-21",
+            "title": "WINDSHIELD HEATER GRID",
+            "patentNumber": "20260138565",
+            "inventors": "Murthy; Aditya et al.",
+            "pageCount": 9,
+            "AI_Opinion": "Tesla的\"WINDSHIELD HEATER GRID\"专利可能涉及用于加热挡风玻璃以除霜、除雾的技术，可能包括加热元件的网格布局和控制算法。"
+        },
+        {
+            "documentId": "US-20260142064-A1",
+            "datePublished": "2026-05-21",
+            "title": "SLITTED MAGNET FOR SELECTIVE COERCIVITY, AND METHODS THEREOF",
+            "patentNumber": "20260142064",
+            "inventors": "Filip; Ethan et al.",
+            "pageCount": 14,
+            "AI_Opinion": "这篇专利可能涉及一种具有槽口的磁铁，用于选择性调整磁导率，以及相关的制造方法。"
+        },
+        {
+            "documentId": "US-20260138640-A1",
+            "datePublished": "2026-05-21",
+            "title": "VISION-BASED SYSTEM TRAINING WITH SIMULATED CONTENT",
+            "patentNumber": "20260138640",
+            "inventors": "ABFALL; David et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该技术可能涉及使用模拟内容训练基于视觉的系统，以提高自动驾驶车辆的视觉识别能力。"
+        },
         {
             "documentId": "US-20260131641-A1",
             "datePublished": "2026-05-14",
@@ -4296,5 +4368,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 21 May 2026 01:59:14 GMT"
+    "Date": "Sun, 31 May 2026 02:05:45 GMT"
 }
