@@ -1,7 +1,25 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1575,
+    "numFound": 1577,
     "docs": [
+        {
+            "documentId": "US-12651739-B2",
+            "datePublished": "2026-06-09",
+            "title": "Method of manufacturing a dry electrode",
+            "patentNumber": "12651739",
+            "inventors": "Mitchell; Porter",
+            "pageCount": 22,
+            "AI_Opinion": "Tesla的“制造干电极方法”专利可能涉及创新的电池电极制造技术，旨在提高效率、降低成本，可能包括改进材料配方、优化制造流程等。"
+        },
+        {
+            "documentId": "US-20260155691-A1",
+            "datePublished": "2026-06-04",
+            "title": "ROTOR STRUCTURE WITH NON-MAGNETIC FILLER",
+            "patentNumber": "20260155691",
+            "inventors": "Ge; Hao et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及一种非磁性填充物的转子结构，用于提高电机效率或降低成本。"
+        },
         {
             "documentId": "US-20260146667-A1",
             "datePublished": "2026-05-28",
@@ -4368,5 +4386,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 31 May 2026 02:05:45 GMT"
+    "Date": "Thu, 11 Jun 2026 02:15:29 GMT"
 }
