@@ -1,7 +1,115 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1577,
+    "numFound": 1589,
     "docs": [
+        {
+            "documentId": "US-20260171607-A1",
+            "datePublished": "2026-06-18",
+            "title": "SEPARATOR ASSEMBLIES FOR USE IN ENERGY STORAGE DEVICES, AND METHODS THEREOF",
+            "patentNumber": "20260171607",
+            "inventors": "Panchal; Sachin Nayan et al.",
+            "pageCount": 24,
+            "AI_Opinion": "这篇专利可能涉及用于能量存储设备的分离器组件及其制造方法，可能包括改进电池性能、安全性和寿命的技术。"
+        },
+        {
+            "documentId": "US-20260170852-A1",
+            "datePublished": "2026-06-18",
+            "title": "VISION-BASED MACHINE LEARNING MODEL FOR LANE CONNECTIVITY IN AUTONOMOUS OR SEMI-AUTONOMOUS DRIVING",
+            "patentNumber": "20260170852",
+            "inventors": "CHO; Patrick et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及基于视觉的机器学习模型，用于自动驾驶或半自动驾驶中的车道连接识别。可能技术包括：图像识别、深度学习、车道检测、路径规划。"
+        },
+        {
+            "documentId": "US-20260168491-A1",
+            "datePublished": "2026-06-18",
+            "title": "ELECTRIC PUMP SYSTEM AND METHOD WITH HOLLOW SHAFT AND TEMPERATURE SENSOR",
+            "patentNumber": "20260168491",
+            "inventors": "Graves; Scott Michael et al.",
+            "pageCount": 29,
+            "AI_Opinion": "该专利涉及一种带空心轴和温度传感器的电动泵系统，可能包含高效泵送技术、空心轴设计以减少重量、温度监测以优化性能和安全性。"
+        },
+        {
+            "documentId": "US-12654553-B2",
+            "datePublished": "2026-06-16",
+            "title": "Dual axis rotational mechanism",
+            "patentNumber": "12654553",
+            "inventors": "Jin; Ding et al.",
+            "pageCount": 19,
+            "AI_Opinion": "特斯拉的“双轴旋转机制”专利可能涉及一种能够实现两个独立旋转轴的机械系统，用于提高汽车部件的灵活性和效率。"
+        },
+        {
+            "documentId": "US-12654505-B2",
+            "datePublished": "2026-06-16",
+            "title": "Suspension actuator system for a vehicle",
+            "patentNumber": "12654505",
+            "inventors": "Doorlag; Brian Lee et al.",
+            "pageCount": 10,
+            "AI_Opinion": "该专利可能涉及车辆悬挂执行器系统，包括悬挂调整技术、传感器集成、控制系统优化等。"
+        },
+        {
+            "documentId": "US-D1130251-S",
+            "datePublished": "2026-06-16",
+            "title": "Wheel",
+            "patentNumber": "D1130251",
+            "inventors": "von Holzhausen; Franz et al.",
+            "pageCount": 9,
+            "AI_Opinion": "\"Wheel\"专利可能涉及新型车轮设计、材料、结构或功能，如轻量化、空气动力学优化、集成传感器、电动驱动技术等。"
+        },
+        {
+            "documentId": "US-D1130422-S",
+            "datePublished": "2026-06-16",
+            "title": "Data storage device",
+            "patentNumber": "D1130422",
+            "inventors": "Verdura; Javier et al.",
+            "pageCount": 26,
+            "AI_Opinion": "Tesla的“Data storage device”专利可能涉及高效数据存储技术，如固态硬盘（SSD）优化、热管理、数据加密和快速读写算法。"
+        },
+        {
+            "documentId": "US-20260162475-A1",
+            "datePublished": "2026-06-11",
+            "title": "VEHICLE SYSTEMS WITH INTEGRATED SENSORS AND INTEGRATED ACTUATORS",
+            "patentNumber": "20260162475",
+            "inventors": "Schotte; Christian",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及集成传感器和执行器的车辆系统，用于提高自动驾驶、安全性能和能效。"
+        },
+        {
+            "documentId": "US-20260158546-A1",
+            "datePublished": "2026-06-11",
+            "title": "ADDITIVE STEEL ALLOYS FOR CONTOURED COOLING INSERTS, AND METHODS THEREOF",
+            "patentNumber": "20260158546",
+            "inventors": "Kern; Christopher Paul et al.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利涉及用于制造轮廓冷却插入件的添加剂钢合金及其方法，可能包括特殊合金配方、3D打印技术、冷却效果优化等。"
+        },
+        {
+            "documentId": "US-20260162879-A1",
+            "datePublished": "2026-06-11",
+            "title": "ORTHOGONAL JOINED PLATE WINDINGS FOR TOROIDAL MAGNETICS",
+            "patentNumber": "20260162879",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 44,
+            "AI_Opinion": "特斯拉专利涉及环形磁体的正交连接板绕组技术，可能涉及创新的电磁线圈设计，以提高磁力效率和稳定性。"
+        },
+        {
+            "documentId": "US-20260160404-A1",
+            "datePublished": "2026-06-11",
+            "title": "MULTI-LAYER DISPLAY ELEMENT FOR SELECTIVE DISPLAY",
+            "patentNumber": "20260160404",
+            "inventors": "Swaminathan; Bharath et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及多层显示技术，用于实现选择性显示功能。"
+        },
+        {
+            "documentId": "US-20260159055-A1",
+            "datePublished": "2026-06-11",
+            "title": "SYSTEMS AND METHODS FOR INSTALLING A BOOSTER TO A VEHICLE",
+            "patentNumber": "20260159055",
+            "inventors": "Yu; Yongquan et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利涉及车辆安装助推器的系统和方法，可能包括助推器设计、安装技术、与车辆的集成以及安全机制。"
+        },
         {
             "documentId": "US-12651739-B2",
             "datePublished": "2026-06-09",
@@ -4386,5 +4494,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 11 Jun 2026 02:15:29 GMT"
+    "Date": "Sun, 21 Jun 2026 02:27:42 GMT"
 }
