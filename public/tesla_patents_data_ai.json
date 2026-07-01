@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1589,
+    "numFound": 1594,
     "docs": [
+        {
+            "documentId": "US-12668095-B2",
+            "datePublished": "2026-06-30",
+            "title": "Vehicle thermal management systems",
+            "patentNumber": "12668095",
+            "inventors": "Mancini; Nicholas et al.",
+            "pageCount": 56,
+            "AI_Opinion": "Tesla的“Vehicle thermal management systems”专利可能涉及电动汽车的热管理系统，包括电池冷却、加热和温度控制技术，以提高效率和性能。"
+        },
+        {
+            "documentId": "US-20260179833-A1",
+            "datePublished": "2026-06-25",
+            "title": "METALLIZED FERRITE PLANAR TRANSFORMER",
+            "patentNumber": "20260179833",
+            "inventors": "Goodwin-Wilson; Geoff et al.",
+            "pageCount": 11,
+            "AI_Opinion": "该专利涉及金属化铁氧体平面变压器技术，可能包括铁氧体材料、金属化工艺、平面结构设计，以及变压器性能优化。"
+        },
+        {
+            "documentId": "US-12665198-B2",
+            "datePublished": "2026-06-23",
+            "title": "Compositions and methods for passivation of electrode binders",
+            "patentNumber": "12665198",
+            "inventors": "Saidi; Mohammed-Yazid",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及电极粘合剂的钝化技术，旨在提高电池性能和稳定性。"
+        },
+        {
+            "documentId": "US-12662050-B2",
+            "datePublished": "2026-06-23",
+            "title": "Autonomous driving system emergency signaling",
+            "patentNumber": "12662050",
+            "inventors": "Cave; Michael D.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利可能涉及自动驾驶系统在紧急情况下的信号发送技术，包括传感器、通信协议和紧急响应机制。"
+        },
+        {
+            "documentId": "US-12662459-B2",
+            "datePublished": "2026-06-23",
+            "title": "Method for the synthesis of 3-R-1,4,2-dioxazol-5-ones",
+            "patentNumber": "12662459",
+            "inventors": "Hall; David S. et al.",
+            "pageCount": 45,
+            "AI_Opinion": "该专利涉及3-R-1,4,2-二噁唑-5-酮的合成方法，可能包含新型合成路径、催化剂、反应条件优化等技术。"
+        },
         {
             "documentId": "US-20260171607-A1",
             "datePublished": "2026-06-18",
@@ -4494,5 +4539,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 21 Jun 2026 02:27:42 GMT"
+    "Date": "Wed, 01 Jul 2026 02:07:55 GMT"
 }
