@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1594,
+    "numFound": 1599,
     "docs": [
+        {
+            "documentId": "US-20260196678-A1",
+            "datePublished": "2026-07-09",
+            "title": "HEMMED TABLESS ELECTRODES FOR ENERGY STORAGE DEVICES, AND METHODS THEREOF",
+            "patentNumber": "20260196678",
+            "inventors": "Patel; Krupal et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及用于能量存储设备的无边框电极技术，以及相关制造方法。"
+        },
+        {
+            "documentId": "US-20260196963-A1",
+            "datePublished": "2026-07-09",
+            "title": "PHOTOVOLTAIC ROOFING TILE FOOT",
+            "patentNumber": "20260196963",
+            "inventors": "MOLINA; David et al.",
+            "pageCount": 34,
+            "AI_Opinion": "该专利可能涉及太阳能屋顶瓦片的脚部结构，用于固定和支撑瓦片，提高屋顶光伏系统的稳定性和效率。"
+        },
+        {
+            "documentId": "US-20260192864-A1",
+            "datePublished": "2026-07-09",
+            "title": "AUTOMOTIVE PERFORATED INSULATED GLASS STRUCTURE",
+            "patentNumber": "20260192864",
+            "inventors": "Mottsmith; Rosemary et al.",
+            "pageCount": 10,
+            "AI_Opinion": "该专利可能涉及汽车用穿孔绝缘玻璃结构，技术可能包括玻璃的穿孔设计、绝缘材料选择和制造工艺。"
+        },
+        {
+            "documentId": "US-20260188057-A1",
+            "datePublished": "2026-07-02",
+            "title": "MANAGING VEHICLE DIAGNOSTICS",
+            "patentNumber": "20260188057",
+            "inventors": "Burns; John et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利可能涉及车辆诊断管理技术，包括故障检测、数据收集、远程监控、故障预测和维护调度。"
+        },
+        {
+            "documentId": "US-20260184045-A1",
+            "datePublished": "2026-07-02",
+            "title": "COATED GLASS ASSEMBLY FOR IMAGING",
+            "patentNumber": "20260184045",
+            "inventors": "Gougoussis; Christos et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及用于成像的涂层玻璃组件技术，可能包括涂层材料、工艺、结构设计和成像性能优化。"
+        },
         {
             "documentId": "US-12668095-B2",
             "datePublished": "2026-06-30",
@@ -4539,5 +4584,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 01 Jul 2026 02:07:55 GMT"
+    "Date": "Sat, 11 Jul 2026 01:21:21 GMT"
 }
