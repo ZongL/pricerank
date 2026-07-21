@@ -1,7 +1,106 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1599,
+    "numFound": 1610,
     "docs": [
+        {
+            "documentId": "US-20260202296-A1",
+            "datePublished": "2026-07-16",
+            "title": "THERMAL SHOCK SYSTEM",
+            "patentNumber": "20260202296",
+            "inventors": "Adil; Nosherwan et al.",
+            "pageCount": 28,
+            "AI_Opinion": "\"THERMAL SHOCK SYSTEM\"可能涉及热冲击技术，用于测试材料或组件在极端温差下的稳定性和耐久性。"
+        },
+        {
+            "documentId": "US-20260206362-A1",
+            "datePublished": "2026-07-16",
+            "title": "SYSTEM AND METHODS FOR ACHIEVING A MICRO LOUVER EFFECT IN A PHOTOVOLTAIC CELL",
+            "patentNumber": "20260206362",
+            "inventors": "MAYER; Alex Christopher et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利可能涉及一种系统和方法，用于在光伏电池中实现微百叶窗效应，以提高光吸收效率和发电性能。"
+        },
+        {
+            "documentId": "US-20260202846-A1",
+            "datePublished": "2026-07-16",
+            "title": "MULTI-CHANNEL SENSOR SIMULATION FOR AUTONOMOUS CONTROL SYSTEMS",
+            "patentNumber": "20260202846",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及利用多通道传感器模拟技术，以提高自动驾驶系统的控制精度和可靠性。"
+        },
+        {
+            "documentId": "US-20260202511-A1",
+            "datePublished": "2026-07-16",
+            "title": "DETERMINING ANTENNA PHASE CENTER USING BASEBAND DATA",
+            "patentNumber": "20260202511",
+            "inventors": "Konanur; Anand S. et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及利用基带数据确定天线相位中心的技术，可能包括信号处理、天线定位、相位校准等关键技术。"
+        },
+        {
+            "documentId": "US-20260204931-A1",
+            "datePublished": "2026-07-16",
+            "title": "BATTERY CELL IMBALANCE DETECTION SYSTEM DURING BATTERY DISCHARGING",
+            "patentNumber": "20260204931",
+            "inventors": "Kuss; Michael et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及一种系统，用于在电池放电过程中检测电池单元之间的不平衡，以优化电池性能和延长寿命。"
+        },
+        {
+            "documentId": "US-20260201927-A1",
+            "datePublished": "2026-07-16",
+            "title": "MULTI-PLATE COMPACT FRICTION CLUTCH FOR ACTUATORS",
+            "patentNumber": "20260201927",
+            "inventors": "Nawaby Shirazi; Sasan",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及多片式紧凑摩擦离合器技术，用于执行器中，可能包含创新的离合器设计，以提高效率和响应速度。"
+        },
+        {
+            "documentId": "US-20260199852-A1",
+            "datePublished": "2026-07-16",
+            "title": "INLINE AIR MILLING AND MIXING APPARATUSES FOR PROCESSING ELECTRODE FILM MIXTURES, AND METHODS THEREOF",
+            "patentNumber": "20260199852",
+            "inventors": "Matthews; Kevin Cornelius",
+            "pageCount": 27,
+            "AI_Opinion": "该专利涉及内联空气磨削和混合装置，用于处理电极薄膜混合物，以及相关方法。可能的技术包括：空气磨削、混合技术、电极薄膜制备。"
+        },
+        {
+            "documentId": "US-20260200195-A1",
+            "datePublished": "2026-07-16",
+            "title": "THICKNESS, TEMPERATURE AND SURFACE CONTROL OF CALENDER ROLLERS AND FILMS, AND METHODS THEREOF",
+            "patentNumber": "20260200195",
+            "inventors": "Jain; Ritika et al.",
+            "pageCount": 28,
+            "AI_Opinion": "该专利涉及控制压延辊和薄膜的厚度、温度及表面技术，以及相关方法。"
+        },
+        {
+            "documentId": "US-20260202887-A1",
+            "datePublished": "2026-07-16",
+            "title": "INDUCTOR ARRAY DESIGN FOR HIGH DENSITY VERTICAL POWER DELIVERY APPLICATION",
+            "patentNumber": "20260202887",
+            "inventors": "ZHAO; Jin et al.",
+            "pageCount": 25,
+            "AI_Opinion": "该专利可能涉及高密度垂直电力传输的线圈阵列设计，用于优化电力传输效率和密度。"
+        },
+        {
+            "documentId": "US-12679383-B2",
+            "datePublished": "2026-07-14",
+            "title": "Personalization system and method for a vehicle based on spatial locations of occupants' body portions",
+            "patentNumber": "12679383",
+            "inventors": "Williams; Blair et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及基于乘客身体部位空间位置的车辆个性化系统，技术可能包括传感器追踪、数据分析和自适应调整功能。"
+        },
+        {
+            "documentId": "US-12679384-B2",
+            "datePublished": "2026-07-14",
+            "title": "Personalization system and method for a vehicle based on spatial locations of occupants' body portions",
+            "patentNumber": "12679384",
+            "inventors": "Williams; Blair et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利可能涉及利用车内传感器识别乘客身体部位的空间位置，以实现个性化的车辆设置调整。"
+        },
         {
             "documentId": "US-20260196678-A1",
             "datePublished": "2026-07-09",
@@ -4584,5 +4683,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 11 Jul 2026 01:21:21 GMT"
+    "Date": "Tue, 21 Jul 2026 01:21:01 GMT"
 }
