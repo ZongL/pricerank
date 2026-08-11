@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1623,
+    "numFound": 1628,
     "docs": [
+        {
+            "documentId": "US-20260225509-A1",
+            "datePublished": "2026-08-06",
+            "title": "VEHICLE ARMREST",
+            "patentNumber": "20260225509",
+            "inventors": "Khengare; Sandeep et al.",
+            "pageCount": 16,
+            "AI_Opinion": "Tesla的\"VEHICLE ARMREST\"专利可能涉及车内扶手的创新设计，如集成充电、储物空间、舒适性调节或智能功能。"
+        },
+        {
+            "documentId": "US-20260225476-A1",
+            "datePublished": "2026-08-06",
+            "title": "SHORTING SWITCH TO REDUCE GROUND LEAKAGE CURRENT IN INDUCTIVE CHARGING",
+            "patentNumber": "20260225476",
+            "inventors": "Zhang; Xuan et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及一种短路开关技术，用于减少感应充电中的接地漏电流。"
+        },
+        {
+            "documentId": "US-12700617-B2",
+            "datePublished": "2026-08-04",
+            "title": "Difluorophosphate additive compounds and methods thereof for use in energy storage devices",
+            "patentNumber": "12700617",
+            "inventors": "Hall; David S. et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及含二氟磷酸盐添加剂的化合物及其在能量存储设备中的应用方法，可能涉及提高电池性能和安全性的新型电解质技术。"
+        },
+        {
+            "documentId": "US-12697910-B2",
+            "datePublished": "2026-08-04",
+            "title": "Enhanced vehicle seat ventilation and construction techniques",
+            "patentNumber": "12697910",
+            "inventors": "Sadoo; Olav et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利可能涉及改进的座椅通风系统和构造技术，包括更高效的空气流动设计、新型材料和结构优化以提升舒适度和性能。"
+        },
+        {
+            "documentId": "US-D1138869-S",
+            "datePublished": "2026-08-04",
+            "title": "Vehicle body",
+            "patentNumber": "D1138869",
+            "inventors": "von Holzhausen; Franz et al.",
+            "pageCount": 28,
+            "AI_Opinion": "Tesla的\"Vehicle Body\"专利可能涉及电动车车身设计、材料、制造工艺、结构优化、安全性提升和集成技术等方面。"
+        },
         {
             "documentId": "US-20260217326-A1",
             "datePublished": "2026-07-30",
@@ -4800,5 +4845,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 31 Jul 2026 01:26:55 GMT"
+    "Date": "Tue, 11 Aug 2026 00:45:30 GMT"
 }
