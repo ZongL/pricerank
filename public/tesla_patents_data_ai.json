@@ -1,7 +1,133 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1628,
+    "numFound": 1642,
     "docs": [
+        {
+            "documentId": "US-20260246258-A1",
+            "datePublished": "2026-08-20",
+            "title": "CIRCUIT PROTECTION SCHEME FOR ELECTRICAL POWER SYSTEMS",
+            "patentNumber": "20260246258",
+            "inventors": "Hall-Snyder; Nathaniel et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及电力系统中电路保护技术，包括过载、短路保护方案，旨在提高系统安全性和可靠性。"
+        },
+        {
+            "documentId": "US-20260241350-A1",
+            "datePublished": "2026-08-20",
+            "title": "DUAL MATERIAL MIXING BLADES AND METHODS OF ATTACHMENT",
+            "patentNumber": "20260241350",
+            "inventors": "Matthews; Kevin Cornelius et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及双材质混合刀片及其安装方法，可能包括不同材质刀片设计以提高混合效率和耐用性。"
+        },
+        {
+            "documentId": "US-20260241319-A1",
+            "datePublished": "2026-08-20",
+            "title": "BIOSTATIC FILTER ASSEMBLY FOR AUTOMOTIVE HVAC SYSTEMS",
+            "patentNumber": "20260241319",
+            "inventors": "Thiessen; Scott Riley",
+            "pageCount": 13,
+            "AI_Opinion": "该专利涉及汽车HVAC系统生物静态过滤器组件，可能包含过滤技术、微生物抑制系统，以及提升车内空气质量的创新设计。"
+        },
+        {
+            "documentId": "US-20260241874-A1",
+            "datePublished": "2026-08-20",
+            "title": "SYSTEM TO PREVENT CAMERA OBSTRUCTION USING VOC ABSORBERS",
+            "patentNumber": "20260241874",
+            "inventors": "Oswald; Matthew Joseph et al.",
+            "pageCount": 5,
+            "AI_Opinion": "该专利可能涉及使用VOC（挥发性有机化合物）吸收剂来防止摄像头被遮挡的系统，可能包括传感器检测VOC浓度，自动清洁或调整摄像头以保持清晰视野。"
+        },
+        {
+            "documentId": "US-20260245914-A1",
+            "datePublished": "2026-08-20",
+            "title": "POROUS CURRENT COLLECTOR ASSEMBLIES FOR USE IN ENERGY STORAGE DEVICES, AND METHODS THEREOF",
+            "patentNumber": "20260245914",
+            "inventors": "He; Steve Sidi et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利涉及用于储能设备的多孔集流体组件及其方法，可能包括提高电池性能和寿命的创新设计。"
+        },
+        {
+            "documentId": "US-12709294-B2",
+            "datePublished": "2026-08-18",
+            "title": "Data synthesis for autonomous control systems",
+            "patentNumber": "12709294",
+            "inventors": "Iandola; Forrest Nelson et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及利用数据合成技术来训练和优化自动驾驶控制系统，提高其在各种情境下的性能和安全性。"
+        },
+        {
+            "documentId": "US-20260235271-A1",
+            "datePublished": "2026-08-13",
+            "title": "DUAL FUNCTION MAP LIGHT",
+            "patentNumber": "20260235271",
+            "inventors": "Urrea; Matthew et al.",
+            "pageCount": 25,
+            "AI_Opinion": "\"DUAL FUNCTION MAP LIGHT\" 可能涉及一种具有双重功能的地图灯技术，既能照明又能显示地图信息，可能集成在汽车内部，提升驾驶体验。"
+        },
+        {
+            "documentId": "US-20260233625-A1",
+            "datePublished": "2026-08-13",
+            "title": "WIRELESS CHARGING CIRCUIT TOPOLOGY AND RELATED METHODS OF MANUFACTURING",
+            "patentNumber": "20260233625",
+            "inventors": "Zhang; Xuan et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及无线充电电路拓扑结构及其制造方法，可能包括创新的无线充电技术、电路设计和制造工艺，旨在提高充电效率和降低成本。"
+        },
+        {
+            "documentId": "US-20260235451-A1",
+            "datePublished": "2026-08-13",
+            "title": "TEMPERATURE SENSORS AND APPLICATIONS IN WIRELESS CHARGING",
+            "patentNumber": "20260235451",
+            "inventors": "Zhang; Xuan et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利可能涉及无线充电系统中的温度传感器技术，用于监测和控制充电过程中的温度，确保安全和效率。"
+        },
+        {
+            "documentId": "US-20260235151-A1",
+            "datePublished": "2026-08-13",
+            "title": "FASTENER SYSTEM",
+            "patentNumber": "20260235151",
+            "inventors": "Shendel; Gregory John et al.",
+            "pageCount": 14,
+            "AI_Opinion": "Tesla的\"FASTENER SYSTEM\"专利可能涉及创新的紧固件技术，如自紧固螺钉、磁性连接件或无线紧固系统，旨在提高汽车组装效率和性能。"
+        },
+        {
+            "documentId": "US-12704381-B2",
+            "datePublished": "2026-08-11",
+            "title": "Trip planning with energy constraint",
+            "patentNumber": "12704381",
+            "inventors": "Baglino; Andrew D. et al.",
+            "pageCount": 38,
+            "AI_Opinion": "该专利可能涉及电动汽车的行程规划技术，考虑电池能量限制，优化路线以确保车辆在充电站间行驶。"
+        },
+        {
+            "documentId": "US-12702233-B2",
+            "datePublished": "2026-08-11",
+            "title": "Skin-foam architecture for seating",
+            "patentNumber": "12702233",
+            "inventors": "Liau; Forrest Wen",
+            "pageCount": 24,
+            "AI_Opinion": "\"Skin-foam architecture\"可能指的是一种座椅结构，结合了表层材料和泡沫填充物，以提供更好的舒适度和支撑性。"
+        },
+        {
+            "documentId": "US-12703296-B1",
+            "datePublished": "2026-08-11",
+            "title": "Global headlamp",
+            "patentNumber": "12703296",
+            "inventors": "Flynn; Robert",
+            "pageCount": 24,
+            "AI_Opinion": "\"Global headlamp\"可能涉及创新的汽车前大灯技术，包括LED或激光照明、自适应光束控制、智能感应系统、节能设计等。"
+        },
+        {
+            "documentId": "US-12707602-B2",
+            "datePublished": "2026-08-11",
+            "title": "Heterogenous multi-layer structure",
+            "patentNumber": "12707602",
+            "inventors": "Sun; Shishuang et al.",
+            "pageCount": 12,
+            "AI_Opinion": "该专利可能涉及不同材料或技术的多层结构，用于提高性能或创造新功能。"
+        },
         {
             "documentId": "US-20260225509-A1",
             "datePublished": "2026-08-06",
@@ -4845,5 +4971,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Tue, 11 Aug 2026 00:45:30 GMT"
+    "Date": "Fri, 21 Aug 2026 00:33:15 GMT"
 }
