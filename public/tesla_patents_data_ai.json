@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1642,
+    "numFound": 1647,
     "docs": [
+        {
+            "documentId": "US-20260249938-A1",
+            "datePublished": "2026-08-27",
+            "title": "MODULAR VEHICLE ARCHITECTURE FOR ASSEMBLING VEHICLES",
+            "patentNumber": "20260249938",
+            "inventors": "Greviskes; Brian Paul et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利可能涉及模块化汽车架构，用于快速组装和定制化生产电动汽车。"
+        },
+        {
+            "documentId": "US-20260249814-A1",
+            "datePublished": "2026-08-27",
+            "title": "ULTRA WIDE BAND (UWB) BASED AUTOMATIC TRUNK ADJUSTMENT",
+            "patentNumber": "20260249814",
+            "inventors": "Jain; Brahmesh Saligrama Dharanendra et al.",
+            "pageCount": 25,
+            "AI_Opinion": "这项技术可能涉及使用超宽带（UWB）技术自动调整汽车后备箱高度，以适应不同身高的用户。"
+        },
+        {
+            "documentId": "US-20260255988-A1",
+            "datePublished": "2026-08-27",
+            "title": "LASER TEXTURING OF SEMICONDUCTOR DIE BORDERS FOR MOLD ADHESION ENHANCEMENT",
+            "patentNumber": "20260255988",
+            "inventors": "Chi; William Thomas et al.",
+            "pageCount": 13,
+            "AI_Opinion": "该技术涉及使用激光纹理化半导体芯片边缘以增强模具粘附。"
+        },
+        {
+            "documentId": "US-20260254399-A1",
+            "datePublished": "2026-08-27",
+            "title": "ROOF MOUNTING SYSTEM",
+            "patentNumber": "20260254399",
+            "inventors": "Pasternak; Jacob et al.",
+            "pageCount": 13,
+            "AI_Opinion": "Tesla的“ROOF MOUNTING SYSTEM”专利可能涉及太阳能屋顶瓦片的安装技术，包括瓦片设计、固定结构和电气连接系统。"
+        },
+        {
+            "documentId": "US-12719087-B2",
+            "datePublished": "2026-08-25",
+            "title": "Battery systems based on two-additive electrolyte systems including 2-furanone, and method of formation process of same",
+            "patentNumber": "12719087",
+            "inventors": "Dahn; Jeffery Raymond et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利涉及基于含2-呋喃酮的双添加剂电解液的电池系统及其制备方法，可能包含新型电解液配方和电池制造工艺。"
+        },
         {
             "documentId": "US-20260246258-A1",
             "datePublished": "2026-08-20",
@@ -4971,5 +5016,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 21 Aug 2026 00:33:15 GMT"
+    "Date": "Mon, 31 Aug 2026 01:56:16 GMT"
 }
