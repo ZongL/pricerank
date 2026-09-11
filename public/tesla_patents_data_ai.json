@@ -9,7 +9,7 @@
             "patentNumber": "20260264609",
             "inventors": "CAVE; Michael D.",
             "pageCount": 26,
-            "AI_Opinion": 404
+            "AI_Opinion": "该专利涉及自动驾驶紧急信号系统：车辆故障或事故时自动向周边车辆、行人及交通设施发送警示信号（如灯光、声音、V2X通信），触发避让或接管流程，提升道路安全。"
         },
         {
             "documentId": "US-20260257648-A1",
@@ -18,7 +18,8 @@
             "patentNumber": "20260257648",
             "inventors": "Dalal; Phiroze",
             "pageCount": 14,
-            "AI_Opinion": 404
+            "AI_Opinion": "该专利涉及脉冲激光清洁技术：利用短脉冲激光去除车辆玻璃（如摄像头、传感器窗口）及光伏组件表面附着的灰尘、雨滴等碎屑，实现非接触式自清洁，保障传感与发电效率。
+"
         },
         {
             "documentId": "US-20260261818-A1",
@@ -27,7 +28,7 @@
             "patentNumber": "20260261818",
             "inventors": "Choueiri; Edgar et al.",
             "pageCount": 16,
-            "AI_Opinion": 404
+            "AI_Opinion": "该专利涉及车载音响声场控制：通过调节各扬声器信号延时、增益与相位，动态重构声像定位与空间感，为不同座位营造沉浸式环绕听感，提升座舱影音体验。"
         },
         {
             "documentId": "US-20260257628-A1",
@@ -36,7 +37,7 @@
             "patentNumber": "20260257628",
             "inventors": "Yu; Yongquan et al.",
             "pageCount": 24,
-            "AI_Opinion": 404
+            "AI_Opinion": "该专利涉及浮动式卡扣保持器：卡扣可在保持器内浮动微调位置，吸收装配公差，使部件安装时自动对位，避免应力损伤，简化组装并提升连接可靠性。"
         },
         {
             "documentId": "US-20260249938-A1",
