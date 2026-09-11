@@ -1,7 +1,43 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1647,
+    "numFound": 1651,
     "docs": [
+        {
+            "documentId": "US-20260264609-A1",
+            "datePublished": "2026-09-10",
+            "title": "AUTONOMOUS DRIVING SYSTEM EMERGENCY SIGNALING",
+            "patentNumber": "20260264609",
+            "inventors": "CAVE; Michael D.",
+            "pageCount": 26,
+            "AI_Opinion": 404
+        },
+        {
+            "documentId": "US-20260257648-A1",
+            "datePublished": "2026-09-03",
+            "title": "PULSED LASER CLEANING OF DEBRIS ACCUMULATED ON GLASS ARTICLES IN VEHICLES AND PHOTOVOLTAIC ASSEMBLIES",
+            "patentNumber": "20260257648",
+            "inventors": "Dalal; Phiroze",
+            "pageCount": 14,
+            "AI_Opinion": 404
+        },
+        {
+            "documentId": "US-20260261818-A1",
+            "datePublished": "2026-09-03",
+            "title": "SYSTEM AND METHOD FOR CONTROLLING THE SOUNDSTAGE RENDERED BY LOUDSPEAKERS",
+            "patentNumber": "20260261818",
+            "inventors": "Choueiri; Edgar et al.",
+            "pageCount": 16,
+            "AI_Opinion": 404
+        },
+        {
+            "documentId": "US-20260257628-A1",
+            "datePublished": "2026-09-03",
+            "title": "FLOATABLE CLIP RETAINER",
+            "patentNumber": "20260257628",
+            "inventors": "Yu; Yongquan et al.",
+            "pageCount": 24,
+            "AI_Opinion": 404
+        },
         {
             "documentId": "US-20260249938-A1",
             "datePublished": "2026-08-27",
@@ -5016,5 +5052,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Mon, 31 Aug 2026 01:56:16 GMT"
+    "Date": "Fri, 11 Sep 2026 01:44:28 GMT"
 }
