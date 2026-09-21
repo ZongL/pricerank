@@ -1,7 +1,52 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1651,
+    "numFound": 1656,
     "docs": [
+        {
+            "documentId": "US-20260276823-A1",
+            "datePublished": "2026-09-17",
+            "title": "ANNOTATION CROSS-LABELING FOR AUTONOMOUS CONTROL SYSTEMS",
+            "patentNumber": "20260276823",
+            "inventors": "SHEN; Anting",
+            "pageCount": 13,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260274304-A1",
+            "datePublished": "2026-09-17",
+            "title": "FAIL-SAFE CORRECTIVE ACTIONS BASED ON VISION INFORMATION FOR AUTONOMOUS VEHICLES",
+            "patentNumber": "20260274304",
+            "inventors": "BALAKRISHNAN; Uma et al.",
+            "pageCount": 20,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260274324-A1",
+            "datePublished": "2026-09-17",
+            "title": "ADVANCED HAPTIC AND SENSING STEERING WHEEL SWITCH",
+            "patentNumber": "20260274324",
+            "inventors": "Bigdeli; Amir et al.",
+            "pageCount": 18,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260273836-A1",
+            "datePublished": "2026-09-17",
+            "title": "CURVED ROLLER PROCESS FOR PRE-STRETCHED FILM",
+            "patentNumber": "20260273836",
+            "inventors": "Gougoussis; Christos",
+            "pageCount": 17,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12734859-B2",
+            "datePublished": "2026-09-15",
+            "title": "Technologies for manifolds",
+            "patentNumber": "12734859",
+            "inventors": "Calderone; John David",
+            "pageCount": 20,
+            "AI_Opinion": 400
+        },
         {
             "documentId": "US-20260264609-A1",
             "datePublished": "2026-09-10",
@@ -5052,5 +5097,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Fri, 11 Sep 2026 01:44:28 GMT"
+    "Date": "Mon, 21 Sep 2026 01:59:43 GMT"
 }
