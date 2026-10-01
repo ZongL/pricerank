@@ -1,7 +1,106 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1656,
+    "numFound": 1667,
     "docs": [
+        {
+            "documentId": "US-12746987-B1",
+            "datePublished": "2026-09-29",
+            "title": "Electric fan car",
+            "patentNumber": "12746987",
+            "inventors": "Cymbalist; Niccolo et al.",
+            "pageCount": 9,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12748471-B2",
+            "datePublished": "2026-09-29",
+            "title": "Voltage regulating module design for the use of underfill",
+            "patentNumber": "12748471",
+            "inventors": "Krithivasan; Vijaykumar et al.",
+            "pageCount": 17,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12748723-B2",
+            "datePublished": "2026-09-29",
+            "title": "Efficient selection of single instruction multiple data operations for neural processing units",
+            "patentNumber": "12748723",
+            "inventors": "Hopper; Daniel et al.",
+            "pageCount": 13,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260290832-A1",
+            "datePublished": "2026-09-24",
+            "title": "COMPOSITIONS AND METHODS FOR PASSIVATION OF ELECTRODE BINDERS",
+            "patentNumber": "20260290832",
+            "inventors": "Saidi; Mohammed-Yazid",
+            "pageCount": 20,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260285363-A1",
+            "datePublished": "2026-09-24",
+            "title": "VISION-BASED MACHINE LEARNING MODEL FOR AGGREGATION OF STATIC OBJECTS AND SYSTEMS FOR AUTONOMOUS DRIVING",
+            "patentNumber": "20260285363",
+            "inventors": "CARVALHO; Micael et al.",
+            "pageCount": 34,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260291032-A1",
+            "datePublished": "2026-09-24",
+            "title": "ENERGY STORAGE CELL",
+            "patentNumber": "20260291032",
+            "inventors": "Pires; Andrew et al.",
+            "pageCount": 20,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260285240-A1",
+            "datePublished": "2026-09-24",
+            "title": "DISPLAY TILT MECHANISM",
+            "patentNumber": "20260285240",
+            "inventors": "Wiitala; Devan Maximo et al.",
+            "pageCount": 21,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260285418-A1",
+            "datePublished": "2026-09-24",
+            "title": "DEPLOYABLE AND ACTIVE REAR WING ASSEMBLY WITH SAFETY FEATURES",
+            "patentNumber": "20260285418",
+            "inventors": "Lemire; David et al.",
+            "pageCount": 29,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-D1148928-S",
+            "datePublished": "2026-09-22",
+            "title": "Sports paddle",
+            "patentNumber": "D1148928",
+            "inventors": "Raniere; Jacob Blayze et al.",
+            "pageCount": 10,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12742130-B2",
+            "datePublished": "2026-09-22",
+            "title": "Conductive grease formulations and grounding solutions for electric drive unit",
+            "patentNumber": "12742130",
+            "inventors": "Zhang; Wenyang et al.",
+            "pageCount": 21,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12745332-B2",
+            "datePublished": "2026-09-22",
+            "title": "Control and monitoring circuitry for illuminated interface",
+            "patentNumber": "12745332",
+            "inventors": "Thwaits; Jason et al.",
+            "pageCount": 17,
+            "AI_Opinion": 400
+        },
         {
             "documentId": "US-20260276823-A1",
             "datePublished": "2026-09-17",
@@ -5097,5 +5196,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Mon, 21 Sep 2026 01:59:43 GMT"
+    "Date": "Thu, 01 Oct 2026 02:45:25 GMT"
 }
