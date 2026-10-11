@@ -1,7 +1,232 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1667,
+    "numFound": 1692,
     "docs": [
+        {
+            "documentId": "US-20260309766-A1",
+            "datePublished": "2026-10-08",
+            "title": "SIGNAL INJECTION BASED ELECTRICAL ARC DETECTION",
+            "patentNumber": "20260309766",
+            "inventors": "Gonzalez; Pedro",
+            "pageCount": 14,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260312435-A1",
+            "datePublished": "2026-10-08",
+            "title": "RADIATED EMISSION REDUCTION FOR WIRELESS CHARGING",
+            "patentNumber": "20260312435",
+            "inventors": "Zheng; Liran et al.",
+            "pageCount": 21,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260311929-A1",
+            "datePublished": "2026-10-08",
+            "title": "MAGNETIC SHUNT FOR TOROIDAL MAGNETIC ASSEMBLY",
+            "patentNumber": "20260311929",
+            "inventors": "Gaikwad; Chaitanya et al.",
+            "pageCount": 19,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260312134-A1",
+            "datePublished": "2026-10-08",
+            "title": "ELECTROLYTE SOLUTION FOR ENERGY STORAGE DEVICE",
+            "patentNumber": "20260312134",
+            "inventors": "Meisner; Quinton James et al.",
+            "pageCount": 54,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260312536-A1",
+            "datePublished": "2026-10-08",
+            "title": "PHOTOVOLTAIC MODULE INTERLOCK SYSTEMS",
+            "patentNumber": "20260312536",
+            "inventors": "SEERY; Martin",
+            "pageCount": 32,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260307489-A1",
+            "datePublished": "2026-10-08",
+            "title": "PLASTIC MODULAR STRUCTURAL DASH",
+            "patentNumber": "20260307489",
+            "inventors": "Lai; Timothy Pei Rui et al.",
+            "pageCount": 21,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260307463-A1",
+            "datePublished": "2026-10-08",
+            "title": "ELECTRIC VEHICLE COMPRESSOR WASTE HEAT APPLICATIONS",
+            "patentNumber": "20260307463",
+            "inventors": "Tayal; Shashank et al.",
+            "pageCount": 29,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260309173-A1",
+            "datePublished": "2026-10-08",
+            "title": "FASTENER FOR AUTOMOTIVE VEHICLES",
+            "patentNumber": "20260309173",
+            "inventors": "Yu; Yongquan et al.",
+            "pageCount": 20,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260310299-A1",
+            "datePublished": "2026-10-08",
+            "title": "THREE-DIMENSIONAL SOFT COMPLIANT ARRAY TACTILE SENSOR WITH MULTI-MODAL SENSING AND SCALABLE MANUFACTURING METHODS",
+            "patentNumber": "20260310299",
+            "inventors": "LIN; Hung Sheng et al.",
+            "pageCount": 28,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260309781-A1",
+            "datePublished": "2026-10-08",
+            "title": "ENHANCED MOTOR IDENTIFICATION AND CONTROL BASED ON CURRENT CHARACTERISTIC RESPONSE",
+            "patentNumber": "20260309781",
+            "inventors": "Tayal; Shashank et al.",
+            "pageCount": 13,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260309876-A1",
+            "datePublished": "2026-10-08",
+            "title": "SYSTEMS AND METHODS FOR VEHICLE POSITIONING",
+            "patentNumber": "20260309876",
+            "inventors": "CVIJETIC; Neda et al.",
+            "pageCount": 22,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260309120-A1",
+            "datePublished": "2026-10-08",
+            "title": "CONSTRUCTION FOR CASCADE HYDRO POWER PLANT",
+            "patentNumber": "20260309120",
+            "inventors": "TESLA; Tomislav",
+            "pageCount": 10,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12756709-B1",
+            "datePublished": "2026-10-06",
+            "title": "Vehicle data communication management based on multi-part network interactions",
+            "patentNumber": "12756709",
+            "inventors": "Wood; Ming et al.",
+            "pageCount": 24,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-12755551-B2",
+            "datePublished": "2026-10-06",
+            "title": "Supplementing vision-based system training with simulated content",
+            "patentNumber": "12755551",
+            "inventors": "Wilson; Matthew et al.",
+            "pageCount": 28,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-D1151147-S",
+            "datePublished": "2026-10-06",
+            "title": "Door handle assembly",
+            "patentNumber": "D1151147",
+            "inventors": "Pancholi; Rajeevkumar P. et al.",
+            "pageCount": 14,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-D1151323-S",
+            "datePublished": "2026-10-06",
+            "title": "Vehicle body",
+            "patentNumber": "D1151323",
+            "inventors": "von Holzhausen; Franz et al.",
+            "pageCount": 28,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260299157-A1",
+            "datePublished": "2026-10-01",
+            "title": "OBJECT DETECTION IN WIRELESS CHARGING",
+            "patentNumber": "20260299157",
+            "inventors": "O'Meara; Suzanne",
+            "pageCount": 15,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260302354-A1",
+            "datePublished": "2026-10-01",
+            "title": "DIFLUOROPHOSPHATE ADDITIVE COMPOUNDS AND METHODS THEREOF FOR USE IN ENERGY STORAGE DEVICES",
+            "patentNumber": "20260302354",
+            "inventors": "Hall; David S. et al.",
+            "pageCount": 18,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260302181-A1",
+            "datePublished": "2026-10-01",
+            "title": "BLENDED CATHODE ACTIVE MATERIAL INCLUDING IRON PHOSPHATE BASED AND NICKEL OXIDE BASED MATERIALS, AND METHODS THEREOF",
+            "patentNumber": "20260302181",
+            "inventors": "Dahn; Jeffery R. et al.",
+            "pageCount": 48,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260301492-A1",
+            "datePublished": "2026-10-01",
+            "title": "ULTRA WIDE BAND (UWB) BASED AUTOMATIC MOVEABLE CLOSURE ADJUSTMENT",
+            "patentNumber": "20260301492",
+            "inventors": "Jain; Brahmesh Saligrama Dharanendra et al.",
+            "pageCount": 24,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260299533-A1",
+            "datePublished": "2026-10-01",
+            "title": "SYSTEMS AND METHODS FOR QUANTIZING FLOATING-POINT VALUES DURING OPERATION OF AN AUTOMATED ROBOTIC SYSTEM",
+            "patentNumber": "20260299533",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 21,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260299881-A1",
+            "datePublished": "2026-10-01",
+            "title": "MIXED PRECISION TRANSFORMER WITH INTEGER MULTIPLY ACCUMULATE",
+            "patentNumber": "20260299881",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 29,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260296484-A1",
+            "datePublished": "2026-10-01",
+            "title": "SYSTEMS AND METHODS FOR ATTENTION MASKING",
+            "patentNumber": "20260296484",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 24,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260296410-A1",
+            "datePublished": "2026-10-01",
+            "title": "SYSTEMS AND METHODS FOR ATTENTION COMPUTATION IN QUANTIZED TRANSFORMER MODELS",
+            "patentNumber": "20260296410",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 18,
+            "AI_Opinion": 400
+        },
+        {
+            "documentId": "US-20260299946-A1",
+            "datePublished": "2026-10-01",
+            "title": "QUANTIZED FLASH ATTENTION",
+            "patentNumber": "20260299946",
+            "inventors": "RAWAT; Ritvik et al.",
+            "pageCount": 25,
+            "AI_Opinion": 400
+        },
         {
             "documentId": "US-12746987-B1",
             "datePublished": "2026-09-29",
@@ -5196,5 +5421,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Thu, 01 Oct 2026 02:45:25 GMT"
+    "Date": "Sun, 11 Oct 2026 02:31:12 GMT"
 }
