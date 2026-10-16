@@ -9,7 +9,7 @@
             "patentNumber": "20260309766",
             "inventors": "Gonzalez; Pedro",
             "pageCount": 14,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及基于信号注入的电弧检测技术。核心可能包括：向电路注入特定频率检测信号，监测反射/阻抗变化识别电弧故障；结合滤波算法区分正常开关与危险电弧；应用于电动车电池包、充电桩或光伏系统，实现早期电气火灾预防。优势在于高灵敏度与抗干扰能力。"
         },
         {
             "documentId": "US-20260312435-A1",
@@ -18,7 +18,7 @@
             "patentNumber": "20260312435",
             "inventors": "Zheng; Liran et al.",
             "pageCount": 21,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1)电磁屏蔽材料/结构设计；2)线圈优化布局降低漏磁；3)主动/被动滤波电路；4)工作频率调制技术；5)接地与隔离方案。核心是通过抑制无线充电系统产生的高频电磁辐射，满足EMC标准。"
         },
         {
             "documentId": "US-20260311929-A1",
@@ -27,7 +27,7 @@
             "patentNumber": "20260311929",
             "inventors": "Gaikwad; Chaitanya et al.",
             "pageCount": 19,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及环形磁组件的磁分流技术，可能包含：1）磁路优化设计，减少漏磁；2）高饱和磁材料分流器；3）磁屏蔽结构；4）用于电机/无线充电/电感器的磁通管理；5）热磁耦合设计。核心是通过磁旁路控制磁场分布，提升效率并降低损耗。"
         },
         {
             "documentId": "US-20260312134-A1",
@@ -36,7 +36,7 @@
             "patentNumber": "20260312134",
             "inventors": "Meisner; Quinton James et al.",
             "pageCount": 54,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及储能器件电解液技术，可能包含：新型锂盐/钠盐配方、高电压稳定添加剂、宽温域溶剂体系、SEI/CEI成膜改良、阻燃安全组分、低粘度快充优化、抑制枝晶沉积、凝胶/固态化设计，以及匹配硅负极或高镍正极的专用电解液方案。"
         },
         {
             "documentId": "US-20260312536-A1",
@@ -45,7 +45,7 @@
             "patentNumber": "20260312536",
             "inventors": "SEERY; Martin",
             "pageCount": 32,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及光伏组件互锁系统，可能技术包括：机械卡扣/滑轨式模块连接结构、免工具快速安装设计、电气自动导通接口、防水密封集成、风荷载分散结构，以及便于阵列扩展的模块化拼接机制。"
         },
         {
             "documentId": "US-20260307489-A1",
@@ -54,7 +54,7 @@
             "patentNumber": "20260307489",
             "inventors": "Lai; Timothy Pei Rui et al.",
             "pageCount": 21,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及特斯拉塑料模块化仪表板结构技术，可能包含：注塑成型轻量化塑料骨架、卡扣/滑轨快装接口、集成线束通道、碰撞吸能设计、免工具装配、可回收材料应用，以及与传统金属架构相比的成本降低和产线简化方案。"
         },
         {
             "documentId": "US-20260307463-A1",
@@ -63,7 +63,7 @@
             "patentNumber": "20260307463",
             "inventors": "Tayal; Shashank et al.",
             "pageCount": 29,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1)利用电动压缩机废热为电池/座舱加热，提升能效；2)热泵系统集成，回收电机/逆变器余热；3)冷媒循环优化，减少PTC能耗；4)低温环境下延长续航的热管理策略。核心是通过废热回收降低电动车冬季能耗。"
         },
         {
             "documentId": "US-20260309173-A1",
@@ -72,7 +72,7 @@
             "patentNumber": "20260309173",
             "inventors": "Yu; Yongquan et al.",
             "pageCount": 20,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及电动汽车紧固技术，包括：轻量化材料（铝合金、复合材料兼容）、防松脱设计（振动环境）、电磁屏蔽集成、绝缘/导电选择性、快速装配结构、热膨胀补偿、密封防水及模块化连接，适配特斯拉一体化压铸车身与电池包集成需求。"
         },
         {
             "documentId": "US-20260310299-A1",
@@ -81,7 +81,7 @@
             "patentNumber": "20260310299",
             "inventors": "LIN; Hung Sheng et al.",
             "pageCount": 28,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及特斯拉机器人触觉传感器技术，核心包括：三维柔性阵列结构、多模态感知（压力/温度/材质等）、可扩展制造工艺。可能采用硅胶/聚合物基底、微机电系统(MEMS)、导电聚合物或液态金属电极，实现仿人皮肤的高密度传感，适用于Optimus机器人精细操作。"
         },
         {
             "documentId": "US-20260309781-A1",
@@ -90,7 +90,7 @@
             "patentNumber": "20260309781",
             "inventors": "Tayal; Shashank et al.",
             "pageCount": 13,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及基于电流特性响应的电机识别与控制技术，可能包括：电机参数在线辨识、电流谐波分析、无传感器控制、自适应控制算法、故障诊断及效率优化等，用于提升电机控制精度与动态响应性能。"
         },
         {
             "documentId": "US-20260309876-A1",
@@ -99,7 +99,7 @@
             "patentNumber": "20260309876",
             "inventors": "CVIJETIC; Neda et al.",
             "pageCount": 22,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：GPS/INS融合定位、视觉SLAM、高精地图匹配、轮速计航位推算、多传感器卡尔曼滤波、V2X协同定位、IMU姿态估计及地下停车场等GPS拒止环境的替代定位方案。"
         },
         {
             "documentId": "US-20260309120-A1",
@@ -108,7 +108,7 @@
             "patentNumber": "20260309120",
             "inventors": "TESLA; Tomislav",
             "pageCount": 10,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及梯级水电站建设技术，可能包含：多级水坝串联布局、水流势能分级利用、上下游水位协同调控、引水隧洞/压力管道系统、联合调度控制系统、鱼类洄游通道设计、泥沙处理及生态流量保障等关键技术。"
         },
         {
             "documentId": "US-12756709-B1",
@@ -117,7 +117,7 @@
             "patentNumber": "12756709",
             "inventors": "Wood; Ming et al.",
             "pageCount": 24,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及多部分网络交互的车辆数据通信管理，核心技术可能包括：车辆与云端/边缘节点的分层数据传输、多网络（蜂窝/WiFi/卫星）智能切换、数据分包与聚合、QoS优先级管理、安全加密传输及网络故障自愈机制。"
         },
         {
             "documentId": "US-12755551-B2",
@@ -126,7 +126,7 @@
             "patentNumber": "12755551",
             "inventors": "Wilson; Matthew et al.",
             "pageCount": 28,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及用模拟数据增强视觉系统训练。核心技术可能包括：合成数据生成、域随机化、Sim-to-Real迁移、神经网络训练数据扩充，以及自动驾驶感知模型的仿真-真实联合训练，解决真实数据标注成本高、场景覆盖不足的问题。"
         },
         {
             "documentId": "US-D1151147-S",
@@ -135,7 +135,7 @@
             "patentNumber": "D1151147",
             "inventors": "Pancholi; Rajeevkumar P. et al.",
             "pageCount": 14,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1)隐藏式门把手设计（弹出/缩回机构）；2)电容或压力感应解锁；3)电机驱动或电磁执行机构；4)防冻加热元件；5)碰撞安全释放机制；6)低功耗待机与唤醒逻辑。核心为电动伸缩+触控感应的集成方案。"
         },
         {
             "documentId": "US-D1151323-S",
@@ -144,7 +144,7 @@
             "patentNumber": "D1151323",
             "inventors": "von Holzhausen; Franz et al.",
             "pageCount": 28,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：一体化压铸车身结构、电池底盘集成（CTC）、模块化装配、轻量化材料（铝合金/高强钢）、碰撞安全设计、空气动力学优化及制造简化技术，以降低零件数量、提升刚度和生产效率。"
         },
         {
             "documentId": "US-20260299157-A1",
@@ -153,7 +153,7 @@
             "patentNumber": "20260299157",
             "inventors": "O'Meara; Suzanne",
             "pageCount": 15,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1) 无线充电线圈区域异物检测（FOD），防止金属异物过热；2) 活体检测（LOD），识别宠物/儿童；3) 车辆对准检测；4) 毫米波/红外/压力传感器融合方案。核心是通过多模态传感提升无线充电安全性。"
         },
         {
             "documentId": "US-20260302354-A1",
@@ -162,7 +162,7 @@
             "patentNumber": "20260302354",
             "inventors": "Hall; David S. et al.",
             "pageCount": 18,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及二氟磷酸盐添加剂用于储能设备。核心技术可能包括：电解液添加剂配方、电极界面修饰、电池循环寿命提升、高温稳定性改善，以及锂金属或锂离子电池的安全性能优化。"
         },
         {
             "documentId": "US-20260302181-A1",
@@ -171,7 +171,7 @@
             "patentNumber": "20260302181",
             "inventors": "Dahn; Jeffery R. et al.",
             "pageCount": 48,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及磷酸铁锂(LFP)与镍基氧化物(如NCM/NCA)的混合正极材料技术，可能通过物理共混或核壳结构实现成本、安全性与高能量密度的平衡，并优化电极制备工艺。"
         },
         {
             "documentId": "US-20260301492-A1",
@@ -180,7 +180,7 @@
             "patentNumber": "20260301492",
             "inventors": "Jain; Brahmesh Saligrama Dharanendra et al.",
             "pageCount": 24,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及超宽带(UWB)技术用于自动可移动闭合件调节，可能包括：UWB精准测距定位、手势/身体姿态识别、无钥匙进入、防夹检测、自适应开启高度/角度控制、多传感器融合及低功耗安全通信协议。"
         },
         {
             "documentId": "US-20260299533-A1",
@@ -189,7 +189,7 @@
             "patentNumber": "20260299533",
             "inventors": "RAWAT; Ritvik et al.",
             "pageCount": 21,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及自动驾驶机器人系统中浮点数的量化技术，可能包括：动态精度降低以减少计算负载、神经网络推理优化、定点数转换、自适应位宽调整、硬件加速兼容，以及实时感知/规划/控制任务的能效优化，兼顾精度与延迟平衡。"
         },
         {
             "documentId": "US-20260299881-A1",
@@ -198,7 +198,7 @@
             "patentNumber": "20260299881",
             "inventors": "RAWAT; Ritvik et al.",
             "pageCount": 29,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及混合精度Transformer架构，核心技术可能包括：整数乘加运算（INT MAC）替代浮点运算以降低功耗，动态精度分配（如FP16/INT8混合），以及针对注意力机制和前馈网络的量化策略，在保持模型精度的同时提升AI推理效率。"
         },
         {
             "documentId": "US-20260296484-A1",
@@ -207,7 +207,7 @@
             "patentNumber": "20260296484",
             "inventors": "RAWAT; Ritvik et al.",
             "pageCount": 24,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及注意力掩码技术，可能用于：1）自动驾驶中屏蔽无关视觉区域（如广告牌、非道路物体），聚焦关键目标；2）神经网络训练时动态调整注意力权重；3）多传感器融合时对特定区域降权处理，提升感知系统效率与安全性。"
         },
         {
             "documentId": "US-20260296410-A1",
@@ -216,7 +216,7 @@
             "patentNumber": "20260296410",
             "inventors": "RAWAT; Ritvik et al.",
             "pageCount": 18,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及量化Transformer模型的注意力计算优化技术，可能包括：低精度量化（INT8/INT4）的注意力矩阵运算、量化感知的Softmax近似、KV Cache压缩、动态缩放因子，以及硬件友好的量化矩阵乘法，旨在降低推理内存与计算开销。"
         },
         {
             "documentId": "US-20260299946-A1",
@@ -225,7 +225,7 @@
             "patentNumber": "20260299946",
             "inventors": "RAWAT; Ritvik et al.",
             "pageCount": 25,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1)对Flash Attention的激活值/权重进行低比特量化（INT8/INT4），降低显存与带宽；2)保持稀疏注意力计算效率的同时减少精度损失；3)针对车载芯片的定点运算优化，提升Transformer推理速度。核心是在内存-计算受限场景下实现高效注意力机制。"
         },
         {
             "documentId": "US-12746987-B1",
@@ -234,7 +234,7 @@
             "patentNumber": "12746987",
             "inventors": "Cymbalist; Niccolo et al.",
             "pageCount": 9,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1)电动风扇产生地面效应，通过低压区提升下压力；2)主动气流控制系统；3)无传统翼片的空气动力学设计；4)冷却与下压力集成方案。核心技术或借鉴Chaparral 2J赛车风扇原理，实现高效抓地力。"
         },
         {
             "documentId": "US-12748471-B2",
@@ -243,7 +243,7 @@
             "patentNumber": "12748471",
             "inventors": "Krithivasan; Vijaykumar et al.",
             "pageCount": 17,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及电压调节模块底部填充胶(underfill)应用技术，可能包含：倒装芯片封装、毛细底部填充工艺、热压键合、焊球阵列(BGA)应力缓解、热循环可靠性增强及模块散热优化等封装级技术。"
         },
         {
             "documentId": "US-12748723-B2",
@@ -252,7 +252,7 @@
             "patentNumber": "12748723",
             "inventors": "Hopper; Daniel et al.",
             "pageCount": 13,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及NPU的SIMD指令优化选择技术，核心可能包括：1)基于神经网络层特性的动态指令匹配；2)运算强度与数据并行的自适应调度；3)功耗-性能权衡的编译器优化策略。旨在提升AI推理效率。"
         },
         {
             "documentId": "US-20260290832-A1",
@@ -261,7 +261,7 @@
             "patentNumber": "20260290832",
             "inventors": "Saidi; Mohammed-Yazid",
             "pageCount": 20,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及电极粘结剂钝化技术，可能包括：1) 粘结剂化学改性（如引入官能团降低活性）；2) 表面包覆/涂层处理；3) 添加钝化添加剂；4) 交联固化工艺优化。核心目的是抑制粘结剂与电解质的副反应，提升电池循环稳定性和高温性能。"
         },
         {
             "documentId": "US-20260285363-A1",
@@ -270,7 +270,7 @@
             "patentNumber": "20260285363",
             "inventors": "CARVALHO; Micael et al.",
             "pageCount": 34,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及基于视觉的机器学习模型，核心技术可能包括：静态物体聚合算法、BEV感知、时序融合、占用网络、语义分割、多摄像头特征融合，以及用于自动驾驶的静态环境建图与记忆机制。"
         },
         {
             "documentId": "US-20260291032-A1",
@@ -279,7 +279,7 @@
             "patentNumber": "20260291032",
             "inventors": "Pires; Andrew et al.",
             "pageCount": 20,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及特斯拉储能电芯技术，可能包含：高镍低钴正极材料、硅碳负极、干电极工艺、无极耳设计（tabless electrode）、新型电解液/固态电解质、热管理系统集成、结构电池（structural battery）技术，以及提升能量密度、降低成本和延长寿命的制造方法。"
         },
         {
             "documentId": "US-20260285240-A1",
@@ -288,7 +288,7 @@
             "patentNumber": "20260285240",
             "inventors": "Wiitala; Devan Maximo et al.",
             "pageCount": 21,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及显示屏倾斜机构，核心技术可能包括：电动铰链/转轴、电机驱动齿轮组、多角度定位锁止、用户记忆位置、防夹传感器、与座椅/方向盘联动的智能调节，以及轻量化紧凑结构设计，实现车内屏幕的人性化视角调节。"
         },
         {
             "documentId": "US-20260285418-A1",
@@ -297,7 +297,7 @@
             "patentNumber": "20260285418",
             "inventors": "Lemire; David et al.",
             "pageCount": 29,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及可展开主动式后翼组件，核心技术可能包括：电动/液压展开机构、自适应攻角调节、主动空气动力学控制、碰撞安全溃缩设计、行人保护机制、故障安全锁定系统及与车辆动态控制的实时联动。"
         },
         {
             "documentId": "US-D1148928-S",
@@ -306,7 +306,7 @@
             "patentNumber": "D1148928",
             "inventors": "Raniere; Jacob Blayze et al.",
             "pageCount": 10,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及特斯拉方向盘集成触控/压力感应的换挡/转向拨片技术，通过电容或压电传感器检测手势滑动、按压实现无实体挡杆换挡、转向灯控制等功能，配合振动反馈提升交互体验。"
         },
         {
             "documentId": "US-12742130-B2",
@@ -315,7 +315,7 @@
             "patentNumber": "12742130",
             "inventors": "Zhang; Wenyang et al.",
             "pageCount": 21,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及电动车驱动单元的导电润滑脂配方与接地解决方案。核心技术可能包括：高导电性润滑脂（含金属/碳填料）、轴承电流腐蚀防护、轴电压接地路径设计、EMI屏蔽及电腐蚀缓解，确保驱动系统电气安全与可靠性。"
         },
         {
             "documentId": "US-12745332-B2",
@@ -324,7 +324,7 @@
             "patentNumber": "12745332",
             "inventors": "Thwaits; Jason et al.",
             "pageCount": 17,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及发光界面的控制与监控电路，可能包含：LED驱动电路、亮度自适应调节、触摸感应集成、故障检测与诊断、低功耗管理、通信接口（CAN/LIN）、以及符合车规级安全标准（ASIL）的冗余设计。核心是实现人机交互界面的智能化与可靠性。"
         },
         {
             "documentId": "US-20260276823-A1",
@@ -333,7 +333,7 @@
             "patentNumber": "20260276823",
             "inventors": "SHEN; Anting",
             "pageCount": 13,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及自动驾驶系统的**跨标签标注技术**，核心可能包括：多传感器数据融合标注、人工与自动标注交叉验证、时序一致性约束、不确定样本主动学习，以及通过标签互校验提升感知模型（如BEV、Occupancy）训练数据质量，降低标注成本与错误率。"
         },
         {
             "documentId": "US-20260274304-A1",
@@ -342,7 +342,7 @@
             "patentNumber": "20260274304",
             "inventors": "BALAKRISHNAN; Uma et al.",
             "pageCount": 20,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及基于视觉信息的自动驾驶故障安全纠正技术。核心可能包括：视觉传感器冗余检测、故障识别算法、紧急安全策略（如靠边停车）、多摄像头融合验证、以及视觉系统失效时的降级控制方案。重点在于通过纯视觉方案实现系统故障后的安全响应。"
         },
         {
             "documentId": "US-20260274324-A1",
@@ -351,7 +351,7 @@
             "patentNumber": "20260274324",
             "inventors": "Bigdeli; Amir et al.",
             "pageCount": 18,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1) 电容/压感触控方向盘按键；2) 多模态触觉反馈（振动、纹理变化）；3) 压力/温度/接近传感器集成；4) 自适应力反馈；5) 手势识别与盲操优化；6) 与Autopilot状态联动的智能交互。核心是用触觉替代视觉，提升驾驶安全。"
         },
         {
             "documentId": "US-20260273836-A1",
@@ -360,7 +360,7 @@
             "patentNumber": "20260273836",
             "inventors": "Gougoussis; Christos",
             "pageCount": 17,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利涉及弯曲辊筒预处理拉伸薄膜技术，可能包括：曲面辊筒设计实现均匀预拉伸、张力控制、薄膜取向优化、减少厚度不均、热定型工艺，以及适用于电池隔膜或包装膜的生产方法。核心是通过特殊辊筒几何形状改善薄膜机械性能。"
         },
         {
             "documentId": "US-12734859-B2",
@@ -369,7 +369,7 @@
             "patentNumber": "12734859",
             "inventors": "Calderone; John David",
             "pageCount": 20,
-            "AI_Opinion": 400
+            "AI_Opinion": "该专利可能涉及：1）电池热管理歧管（冷却液分配）；2）电驱系统流体歧管（润滑/冷却）；3）结构集成歧管（轻量化设计）；4）制造工艺（一体压铸/焊接）；5）多通道流量优化设计。特斯拉常将歧管与底盘/电池包结构集成。"
         },
         {
             "documentId": "US-20260264609-A1",
