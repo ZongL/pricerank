@@ -1,7 +1,88 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1692,
+    "numFound": 1701,
     "docs": [
+        {
+            "documentId": "US-12766983-B2",
+            "datePublished": "2026-10-20",
+            "title": "High power shielded busbar for electric vehicle charging and power distribution",
+            "patentNumber": "12766983",
+            "inventors": "Prasad; Neil et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及：多层铜/铝母排结构、电磁屏蔽层（金属箔或编织网）、绝缘封装材料、高电流散热设计、模块化连接端子、以及适应800V高压平台的绝缘间隙优化，用于超充桩或车载配电系统。"
+        },
+        {
+            "documentId": "US-20260321072-A1",
+            "datePublished": "2026-10-15",
+            "title": "VEHICLE DATA ACCESS SYSTEM WITH TECHNICIAN AUTHENTICATION AND SERVICE VERIFICATION",
+            "patentNumber": "20260321072",
+            "inventors": "Nees; Stephen et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该专利涉及：1)技术人员身份认证机制；2)车辆数据分级访问控制；3)服务场景验证流程；4)维修权限动态管理；5)数据安全加密传输。核心是通过多因素认证确保只有授权技师在合法服务场景下才能访问敏感车辆数据。"
+        },
+        {
+            "documentId": "US-20260318136-A1",
+            "datePublished": "2026-10-15",
+            "title": "POWER TAILGATE MECHANISM",
+            "patentNumber": "20260318136",
+            "inventors": "Rahman; Rafath et al.",
+            "pageCount": 14,
+            "AI_Opinion": "该专利可能涉及：电动驱动电机与齿轮箱、扭矩传感器防夹保护、位置编码器精确控制、CAN总线通信、手动/电动模式切换、应急释放机构、静音减震设计、负载自适应算法及防水密封结构。核心是实现尾门智能化、安全化的电动开闭。"
+        },
+        {
+            "documentId": "US-20260319245-A1",
+            "datePublished": "2026-10-15",
+            "title": "OPTICALLY CORRECT CAMERA SHIELD",
+            "patentNumber": "20260319245",
+            "inventors": "Gougoussis; Christos",
+            "pageCount": 10,
+            "AI_Opinion": "该专利可能涉及：1）光学级透明材料（如特殊涂层玻璃/聚合物）的摄像头保护罩；2）曲面或异形设计以减少光学畸变；3）疏水疏油表面处理；4）加热除雾/除冰功能集成；5）多层镀膜抗反射、防眩光技术，确保自动驾驶摄像头成像质量不受防护结构影响。"
+        },
+        {
+            "documentId": "US-20260316642-A1",
+            "datePublished": "2026-10-15",
+            "title": "VEHICULAR SEAT SUSPENSION SYSTEM FOR BELTED SEATS",
+            "patentNumber": "20260316642",
+            "inventors": "Sadoo; Olav Barry et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及安全带集成座椅悬架系统，可能技术包括：预紧器与悬架联动、碰撞时座椅动态吸能、安全带张力自适应调节、磁流变/空气悬架阻尼控制、多轴加速度传感器融合，以及基于碰撞预测的快速响应作动机构。"
+        },
+        {
+            "documentId": "US-20260321936-A1",
+            "datePublished": "2026-10-15",
+            "title": "POROUS BARRIER LAYER SUPPORTING TAPES FOR USE IN ENERGY STORAGE DEVICES, AND METHODS THEREOF",
+            "patentNumber": "20260321936",
+            "inventors": "Yang; Xiaoyun et al.",
+            "pageCount": 19,
+            "AI_Opinion": "该专利涉及储能设备用多孔阻隔层支撑胶带技术。核心可能包括：多孔聚合物基材（如PP/PE）、陶瓷涂层增强热稳定性、电解液浸润性优化、电极间离子传输通道设计，以及卷绕/叠片工艺中的机械支撑与绝缘功能，用于提升电池安全性与循环寿命。"
+        },
+        {
+            "documentId": "US-12759032-B1",
+            "datePublished": "2026-10-13",
+            "title": "System for electrode foil pre-heating, and methods thereof",
+            "patentNumber": "12759032",
+            "inventors": "Matsumoto; Matthew Thomas et al.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利涉及电极箔预热系统，可能技术包括：电阻/感应/红外加热方式、温度闭环控制、张力调节机构、连续卷对卷(R2R)传输、热辊接触式加热、预热与涂布工序集成、防止箔材热变形或氧化的保护气氛设计。核心解决极片涂布前温度均匀性问题，提升电池制造良率。"
+        },
+        {
+            "documentId": "US-12764907-B2",
+            "datePublished": "2026-10-13",
+            "title": "Cold plate with integrated sliding pedestal and processing system including the same",
+            "patentNumber": "12764907",
+            "inventors": "Nasr; Mohamed Haitham Helmy et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利涉及集成滑动基座的冷板技术，可能包括：可移动支撑结构实现处理器动态定位、液冷散热优化、模块化热管理、自适应接触压力调节，以及适用于不同芯片尺寸/高度的兼容性设计，提升散热效率与装配灵活性。"
+        },
+        {
+            "documentId": "US-12761528-B2",
+            "datePublished": "2026-10-13",
+            "title": "Cone-textured glare shield for enhanced camera vision",
+            "patentNumber": "12761528",
+            "inventors": "Boehm; Markus et al.",
+            "pageCount": 24,
+            "AI_Opinion": "该专利可能涉及：锥形纹理表面减少眩光与鬼影；微结构控制光线散射角度；优化特定波长透过率；自清洁疏水涂层；与摄像头模组的集成封装工艺，提升ADAS在强光/逆光场景下的成像质量。"
+        },
         {
             "documentId": "US-20260309766-A1",
             "datePublished": "2026-10-08",
@@ -5421,5 +5502,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sun, 11 Oct 2026 02:31:12 GMT"
+    "Date": "Wed, 21 Oct 2026 02:14:55 GMT"
 }
