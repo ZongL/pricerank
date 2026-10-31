@@ -1,7 +1,88 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1701,
+    "numFound": 1710,
     "docs": [
+        {
+            "documentId": "US-20260336368-A1",
+            "datePublished": "2026-10-29",
+            "title": "WINDSHIELD INNER GLASS CUT-OUT FOR CAMERA",
+            "patentNumber": "20260336368",
+            "inventors": "Murthy; Aditya Suresh et al.",
+            "pageCount": 17,
+            "AI_Opinion": "该专利涉及挡风玻璃摄像头安装技术，核心是在内层玻璃开孔，避免光学畸变与重影。可能技术包括：激光/水刀精密切割、层压玻璃局部减薄、摄像头密封防水结构、光学胶合补偿、HUD集成设计，以及ADAS校准补偿算法。"
+        },
+        {
+            "documentId": "US-20260337041-A1",
+            "datePublished": "2026-10-29",
+            "title": "PROCESS FOR RECOVERING LITHIUM FROM ENERGY STORAGE DEVICE MATERIALS, AND COMPOSITIONS THEREOF",
+            "patentNumber": "20260337041",
+            "inventors": "Carpenter; Alex E. et al.",
+            "pageCount": 31,
+            "AI_Opinion": "该专利涉及从储能器件材料中回收锂的工艺及其组合物。可能技术包括：物理拆解、酸/碱浸出、溶剂萃取、电化学回收、热处理焙烧、离子交换、沉淀结晶，以及回收锂用于再生正极材料（如磷酸铁锂或三元材料）的闭环工艺。"
+        },
+        {
+            "documentId": "US-20260336727-A1",
+            "datePublished": "2026-10-29",
+            "title": "ADAPTIVE VEHICLE AERODYNAMICS FOR DOWNFORCE",
+            "patentNumber": "20260336727",
+            "inventors": "Crook; James Michael Arthur et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利可能涉及：1)主动式空气动力学套件（可调节尾翼、扩散器、襟翼）；2)传感器实时监测车速、姿态、路况；3)ECU算法动态计算下压力需求；4)电驱动执行器自动调节翼片角度；5)平衡下压力与续航里程，优化高速稳定性与能耗。"
+        },
+        {
+            "documentId": "US-20260339628-A1",
+            "datePublished": "2026-10-29",
+            "title": "AI INFERENCE COMPILER AND RUNTIME TOOL CHAIN",
+            "patentNumber": "20260339628",
+            "inventors": "SAMPATHKUMAR; Srihari et al.",
+            "pageCount": 27,
+            "AI_Opinion": "该专利涉及AI推理编译器与运行时工具链，核心技术可能包括：神经网络图优化、算子融合、量化压缩、内存调度、异构硬件（如特斯拉FSD芯片）加速、动态张量分配及跨平台部署，旨在提升车载AI模型的推理效率与实时性。"
+        },
+        {
+            "documentId": "US-20260341148-A1",
+            "datePublished": "2026-10-29",
+            "title": "A FILE FORMAT FOR EFFICIENT STORAGE AND ACCESS OF DATA",
+            "patentNumber": "20260341148",
+            "inventors": "ZAMAN; Tim et al.",
+            "pageCount": 21,
+            "AI_Opinion": "该专利涉及高效数据存储与访问的文件格式技术，可能包含：数据压缩算法、分块/分页存储结构、内存映射加速、增量更新机制、面向自动驾驶场景的传感器数据（如摄像头、雷达）优化组织，以及支持快速随机读取的索引结构。"
+        },
+        {
+            "documentId": "US-20260326520-A1",
+            "datePublished": "2026-10-22",
+            "title": "VEHICLE WITH EXOSKELETON",
+            "patentNumber": "20260326520",
+            "inventors": "Clarke; Alan Paul et al.",
+            "pageCount": 10,
+            "AI_Opinion": "该专利涉及特斯拉外骨骼车身技术，可能采用：1)一体压铸式车身结构，替代传统车架+覆盖件；2)不锈钢合金材料（如Cybertruck）；3)结构件兼作承力与防护外壳；4.减少零部件数量，降低制造成本；5.提升碰撞安全性与车身刚度。"
+        },
+        {
+            "documentId": "US-20260326744-A1",
+            "datePublished": "2026-10-22",
+            "title": "ADJUSTABLE SUSPENSION FOR A VEHICLE",
+            "patentNumber": "20260326744",
+            "inventors": "Van Rooyen; Joel et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利涉及车辆可调悬架技术，可能包含：空气弹簧/电磁减震器高度调节、主动阻尼控制、轮距/离地间隙自适应调整、传感器融合的路面预瞄系统、多连杆几何优化，以及基于驾驶模式（运动/越野/舒适）的实时刚度与阻尼协同调校算法。"
+        },
+        {
+            "documentId": "US-20260332543-A1",
+            "datePublished": "2026-10-22",
+            "title": "TRANSPORT PROTOCOL FOR ETHERNET",
+            "patentNumber": "20260332543",
+            "inventors": "Quinnell; Eric C. et al.",
+            "pageCount": 34,
+            "AI_Opinion": "该专利可能涉及：1）基于以太网的车辆通信协议优化；2）确定性低延迟数据传输机制；3）时间敏感网络(TSN)适配；4）冗余链路故障切换；5）车载ECU间实时控制指令的可靠传输，替代传统CAN总线满足自动驾驶高带宽需求。"
+        },
+        {
+            "documentId": "US-20260330841-A1",
+            "datePublished": "2026-10-22",
+            "title": "ARTIFICIAL INTELLIGENCE MODELING TECHNIQUES FOR VISION-BASED SURFACE DETERMINATION",
+            "patentNumber": "20260330841",
+            "inventors": "HUANG; Allen et al.",
+            "pageCount": 26,
+            "AI_Opinion": "该专利涉及基于视觉的表面确定AI技术，可能包括：神经网络深度估计、自监督/半监督学习、多相机融合、时序一致性建模、表面法线预测、占据网格生成，以及利用车队数据训练的端到端自动驾驶场景理解。核心是用AI替代传统传感器（如雷达）进行3D环境感知。"
+        },
         {
             "documentId": "US-12766983-B2",
             "datePublished": "2026-10-20",
@@ -5502,5 +5583,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Wed, 21 Oct 2026 02:14:55 GMT"
+    "Date": "Sat, 31 Oct 2026 02:57:36 GMT"
 }
