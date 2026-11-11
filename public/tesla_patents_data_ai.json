@@ -1,7 +1,115 @@
 {
     "cursorMarker": "AoJwgMjRm4wDNzYwMjAxNjY3IVVTLVVTLTExODM3NTIz",
-    "numFound": 1710,
+    "numFound": 1722,
     "docs": [
+        {
+            "documentId": "US-12789738-B2",
+            "datePublished": "2026-11-10",
+            "title": "Integrated restraints control module",
+            "patentNumber": "12789738",
+            "inventors": "Franco; Frank Anthony et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及特斯拉集成式约束控制模块技术，可能包含：多气囊协同触发算法、座椅安全带预紧器集成控制、碰撞传感器数据融合、行人保护系统联动，以及基于车辆姿态的差异化约束策略，实现毫秒级事故响应与乘员伤害最小化。"
+        },
+        {
+            "documentId": "US-12794832-B2",
+            "datePublished": "2026-11-10",
+            "title": "Communication latency mitigation for on-chip networks",
+            "patentNumber": "12794832",
+            "inventors": "Williams; Douglas R.",
+            "pageCount": 16,
+            "AI_Opinion": "该专利可能涉及：1) 片上网络(NoC)路由优化，如自适应路由或旁路通道；2) 缓存一致性协议改进，减少握手延迟；3) 异步通信或时钟域交叉技术；4) 优先级仲裁与流量整形；5) 近计算内存架构，缩短物理传输距离。核心应针对自动驾驶芯片的实时性需求。"
+        },
+        {
+            "documentId": "US-12795848-B2",
+            "datePublished": "2026-11-10",
+            "title": "Connector assembly with pullback",
+            "patentNumber": "12795848",
+            "inventors": "Bhandari; Rishabh et al.",
+            "pageCount": 41,
+            "AI_Opinion": "该专利可能涉及：1) 带回拉机构的连接器，便于拆卸；2) 防误插的锁定/解锁结构；3) 高压安全断开设计，断电后自动回缩；4) 充电枪/电池包快拆接口。核心是通过机械回拉实现安全、便捷的电气分离。"
+        },
+        {
+            "documentId": "US-12789834-B2",
+            "datePublished": "2026-11-10",
+            "title": "Vision-based machine learning model for aggregation of static objects and systems for autonomous driving",
+            "patentNumber": "12789834",
+            "inventors": "Carvalho; Micael et al.",
+            "pageCount": 40,
+            "AI_Opinion": "该专利涉及基于视觉的机器学习模型，用于自动驾驶中静态物体的聚合。核心技术可能包括：多摄像头视觉融合、静态环境元素（车道线、交通标志、路沿等）的检测与语义聚合、占用网格或矢量地图生成、时序一致性融合，以及轻量级神经网络部署，支持实时建图与定位。"
+        },
+        {
+            "documentId": "US-12791051-B2",
+            "datePublished": "2026-11-10",
+            "title": "Low-profile rattle mitigation trim clip",
+            "patentNumber": "12791051",
+            "inventors": "Yu; Yongquan et al.",
+            "pageCount": 13,
+            "AI_Opinion": "该专利涉及低轮廓防异响装饰卡扣技术，可能包含：弹性缓冲结构、多层阻尼材料、卡扣预紧设计、滑动限位机构及减振垫片，用于消除内饰板与车身间隙振动产生的噪音，同时保持薄型化安装空间。"
+        },
+        {
+            "documentId": "US-12793961-B2",
+            "datePublished": "2026-11-10",
+            "title": "Sintered cathode active material bricks and methods thereof",
+            "patentNumber": "12793961",
+            "inventors": "Caldwell; Turner Boris et al.",
+            "pageCount": 18,
+            "AI_Opinion": "该专利涉及**烧结正极活性材料砖块**，核心技术可能包括：干法电极工艺（无溶剂烧结成型）、多层复合结构、高镍/富锂锰基材料烧结优化、预锂化技术，以及提升能量密度和结构稳定性的制备方法。"
+        },
+        {
+            "documentId": "US-12792972-B2",
+            "datePublished": "2026-11-10",
+            "title": "System and method for obtaining training data",
+            "patentNumber": "12792972",
+            "inventors": "Karpathy; Andrej",
+            "pageCount": 25,
+            "AI_Opinion": "该专利涉及自动驾驶训练数据获取技术，可能包括：数据采集系统（摄像头、雷达、传感器）、数据筛选与标注方法、影子模式学习、众包数据聚合、边缘案例挖掘、数据增强及隐私保护机制，用于优化神经网络训练效率与模型泛化能力。"
+        },
+        {
+            "documentId": "US-20260344894-A1",
+            "datePublished": "2026-11-05",
+            "title": "SKIN-FOAM ARCHITECTURE FOR SEATING",
+            "patentNumber": "20260344894",
+            "inventors": "Liau; Forrest Wen",
+            "pageCount": 23,
+            "AI_Opinion": "该专利涉及座椅\"表皮-泡沫\"复合架构技术，可能包括：多层材料模压一体成型、表皮与泡沫层无胶粘接、局部密度可变的梯度泡沫、透气/加热集成设计、轻量化镂空骨架结构，以及针对碰撞安全的能量吸收优化方案。"
+        },
+        {
+            "documentId": "US-20260351676-A1",
+            "datePublished": "2026-11-05",
+            "title": "NOVEL BATTERY SYSTEMS BASED ON TWO-ADDITIVE ELECTROLYTE SYSTEMS INCLUDING 2-FURANONE, AND METHOD OF FORMATION PROCESS OF SAME",
+            "patentNumber": "20260351676",
+            "inventors": "Dahn; Jeffery Raymond et al.",
+            "pageCount": 23,
+            "AI_Opinion": "该专利涉及含2-呋喃酮双添加剂电解液的新型电池系统。核心技术可能包括：2-呋喃酮作为SEI成膜添加剂稳定负极，搭配第二添加剂（如VC、FEC等）协同优化界面；抑制电解液分解、减少产气；提升高温循环寿命与安全性。适用于锂离子电池。"
+        },
+        {
+            "documentId": "US-20260346473-A1",
+            "datePublished": "2026-11-05",
+            "title": "UNDERACTUATED HAND WITH CABLE-DRIVEN FINGERS",
+            "patentNumber": "20260346473",
+            "inventors": "LEDDY; Michael",
+            "pageCount": 32,
+            "AI_Opinion": "该专利涉及欠驱动（underactuated）机械手技术，通过缆绳（cable-driven）驱动手指。核心特点：较少执行器控制较多关节，降低复杂度；缆绳传动实现远程驱动，减轻手指重量；自适应抓取不同形状物体，提升灵活性与成本效益。"
+        },
+        {
+            "documentId": "US-D1156251-S",
+            "datePublished": "2026-11-03",
+            "title": "Automobile body",
+            "patentNumber": "D1156251",
+            "inventors": "von Holzhausen; Franz et al.",
+            "pageCount": 15,
+            "AI_Opinion": "该专利可能涉及：一体化压铸车身结构、铝合金/高强度钢混合材料、模块化底盘设计、碰撞能量吸收路径优化、电池包集成车身（CTB）技术，以及空气动力学外形设计，旨在降低重量、提升刚性和简化制造。"
+        },
+        {
+            "documentId": "US-12779955-B2",
+            "datePublished": "2026-11-03",
+            "title": "Thin sun visor with rotary detent mechanism",
+            "patentNumber": "12779955",
+            "inventors": "Boehm; Markus et al.",
+            "pageCount": 20,
+            "AI_Opinion": "该专利涉及超薄遮阳板与旋转定位机构技术。核心可能包括：薄型化多层结构（集成LCD/EC电致变色玻璃）、旋转铰链带多档位棘爪定位（detent）、紧凑收纳设计、触控/自动调光控制，以及轻量化材料应用，兼顾视野防护与车内空间优化。"
+        },
         {
             "documentId": "US-20260336368-A1",
             "datePublished": "2026-10-29",
@@ -5583,5 +5691,5 @@
             "AI_Opinion": "该专利可能涉及一种逆变器技术，用于电动汽车或储能系统中将直流电(DC)转换为交流电(AC)。技术可能包括高效率的电力转换、先进的冷却解决方案、以及与电池管理系统的集成，旨在优化能量流动、提升车辆性能和延长电池寿命。"
         }
     ],
-    "Date": "Sat, 31 Oct 2026 02:57:36 GMT"
+    "Date": "Wed, 11 Nov 2026 03:27:15 GMT"
 }
